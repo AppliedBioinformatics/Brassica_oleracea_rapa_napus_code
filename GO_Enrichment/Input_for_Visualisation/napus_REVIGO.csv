@@ -1,0 +1,70 @@
+term_ID,description,frequencyInDb,log10pvalue,uniqueness,dispensability,representative
+GO:0006491,N-glycan processing,0.02%,-3.8861,0.828,0,N-glycan processing
+GO:0051013,microtubule severing,0.01%,-3.5528,0.883,0.103,N-glycan processing
+GO:0045005,DNA-dependent DNA replication maintenance of fidelity,0.03%,-3.2076,0.863,0.158,N-glycan processing
+GO:0061504,cyclic threonylcarbamoyladenosine biosynthetic process,0.00%,-2.757,0.874,0.2,N-glycan processing
+GO:0071569,protein ufmylation,0.00%,-2.2396,0.906,0.241,N-glycan processing
+GO:0006127,glycerophosphate shuttle,0.00%,-2.3161,0.845,0.246,N-glycan processing
+GO:0006517,protein deglycosylation,0.01%,-3.8861,0.901,0.258,N-glycan processing
+GO:0010021,amylopectin biosynthetic process,0.00%,-2.4179,0.916,0.311,N-glycan processing
+GO:0000454,snoRNA guided rRNA pseudouridine synthesis,0.00%,-2.3665,0.804,0.33,N-glycan processing
+GO:0006436,tryptophanyl-tRNA aminoacylation,0.05%,-2.5607,0.797,0.367,N-glycan processing
+GO:0009396,folic acid-containing compound biosynthetic process,0.31%,-2.2388,0.817,0.388,N-glycan processing
+GO:0006265,DNA topological change,0.27%,-3.1612,0.758,0.391,N-glycan processing
+GO:1903099,positive regulation of CENP-A containing nucleosome assembly,0.00%,-2.0872,0.814,0.446,N-glycan processing
+GO:0046365,monosaccharide catabolic process,0.12%,-2.4306,0.845,0.464,N-glycan processing
+GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.04%,-2.1884,0.78,0.466,N-glycan processing
+GO:0006145,purine nucleobase catabolic process,0.04%,-2.0259,0.815,0.491,N-glycan processing
+GO:0015074,DNA integration,0.68%,-3.1549,0.859,0.498,N-glycan processing
+GO:0031122,cytoplasmic microtubule organization,0.03%,-3.2596,0.797,0.566,N-glycan processing
+GO:1901651,regulation of mitotic chromosome decondensation,0.02%,-2.0009,0.778,0.594,N-glycan processing
+GO:0006430,lysyl-tRNA aminoacylation,0.06%,-2.1367,0.797,0.596,N-glycan processing
+GO:0006412,translation,5.69%,-3.2596,0.819,0.597,N-glycan processing
+GO:0033567,"DNA replication, Okazaki fragment processing",0.02%,-2.3002,0.862,0.62,N-glycan processing
+GO:0051418,microtubule nucleation by microtubule organizing center,0.00%,-2.3665,0.789,0.632,N-glycan processing
+GO:0006007,glucose catabolic process,0.03%,-2.1192,0.854,0.645,N-glycan processing
+GO:0046168,glycerol-3-phosphate catabolic process,0.05%,-2.0048,0.867,0.676,N-glycan processing
+GO:0090063,positive regulation of microtubule nucleation,0.00%,-2.1349,0.763,0.697,N-glycan processing
+GO:0006896,Golgi to vacuole transport,0.01%,-3.2147,0.92,0,Golgi to vacuole transport
+GO:0072337,modified amino acid transport,0.04%,-3.0655,0.941,0.171,Golgi to vacuole transport
+GO:0035461,vitamin transmembrane transport,0.07%,-2.8827,0.917,0.189,Golgi to vacuole transport
+GO:0097064,ncRNA export from nucleus,0.00%,-2.5986,0.913,0.36,Golgi to vacuole transport
+GO:0034629,cellular protein complex localization,0.03%,-2.3125,0.921,0.448,Golgi to vacuole transport
+GO:0000056,ribosomal small subunit export from nucleus,0.01%,-2.2069,0.843,0.562,Golgi to vacuole transport
+GO:0009682,induced systemic resistance,0.00%,-3.7959,0.773,0,induced systemic resistance
+GO:0071332,cellular response to fructose stimulus,0.00%,-3.6383,0.765,0.159,induced systemic resistance
+GO:0007219,Notch signaling pathway,0.06%,-3.2596,0.774,0.212,induced systemic resistance
+GO:0009409,response to cold,0.04%,-3.5376,0.783,0.318,induced systemic resistance
+GO:0046686,response to cadmium ion,0.03%,-2.6861,0.788,0.324,induced systemic resistance
+GO:0006979,response to oxidative stress,0.58%,-3.5229,0.791,0.453,induced systemic resistance
+GO:0051103,DNA ligation involved in DNA repair,0.04%,-3.1549,0.725,0.453,induced systemic resistance
+GO:0009739,response to gibberellin,0.01%,-3.1938,0.754,0.473,induced systemic resistance
+GO:0032491,detection of molecule of fungal origin,0.00%,-2.5768,0.755,0.483,induced systemic resistance
+GO:1904975,response to bleomycin,0.00%,-3.1549,0.771,0.485,induced systemic resistance
+GO:2000685,positive regulation of cellular response to X-ray,0.00%,-3.1549,0.778,0.502,induced systemic resistance
+GO:1900039,positive regulation of cellular response to hypoxia,0.00%,-2.5751,0.716,0.51,induced systemic resistance
+GO:0002239,response to oomycetes,0.00%,-3.5686,0.808,0.535,induced systemic resistance
+GO:0010225,response to UV-C,0.00%,-3.1192,0.818,0.561,induced systemic resistance
+GO:0002752,cell surface pattern recognition receptor signaling pathway,0.00%,-2.5768,0.748,0.561,induced systemic resistance
+GO:0009413,response to flooding,0.00%,-2.5751,0.752,0.593,induced systemic resistance
+GO:0009723,response to ethylene,0.01%,-2.4123,0.762,0.603,induced systemic resistance
+GO:0032355,response to estradiol,0.01%,-2.5751,0.758,0.641,induced systemic resistance
+GO:0034059,response to anoxia,0.00%,-2.5591,0.802,0.656,induced systemic resistance
+GO:0009817,"defense response to fungus, incompatible interaction",0.00%,-2.4828,0.766,0.664,induced systemic resistance
+GO:0071417,cellular response to organonitrogen compound,0.09%,-2.699,0.707,0.689,induced systemic resistance
+GO:0071219,cellular response to molecule of bacterial origin,0.03%,-2.3116,0.692,0.692,induced systemic resistance
+GO:0009987,cellular process,63.78%,-2.8996,0.99,0,cellular process
+GO:0010275,NAD(P)H dehydrogenase complex assembly,0.00%,-2.4962,0.865,0.015,NAD(P)H dehydrogenase complex assembly
+GO:0033108,mitochondrial respiratory chain complex assembly,0.06%,-2.2874,0.826,0.5,NAD(P)H dehydrogenase complex assembly
+GO:0006801,superoxide metabolic process,0.14%,-2.8013,0.941,0.039,superoxide metabolism
+GO:2000011,regulation of adaxial/abaxial pattern formation,0.00%,-2.8386,0.875,0.04,regulation of adaxial/abaxial pattern formation
+GO:0048339,paraxial mesoderm development,0.00%,-2.7799,0.874,0.375,regulation of adaxial/abaxial pattern formation
+GO:0010623,programmed cell death involved in cell development,0.01%,-2.0311,0.862,0.375,regulation of adaxial/abaxial pattern formation
+GO:0010172,embryonic body morphogenesis,0.01%,-2.1284,0.891,0.412,regulation of adaxial/abaxial pattern formation
+GO:0010073,meristem maintenance,0.01%,-2.1746,0.881,0.535,regulation of adaxial/abaxial pattern formation
+GO:0051216,cartilage development,0.04%,-2.1284,0.871,0.605,regulation of adaxial/abaxial pattern formation
+GO:0080157,regulation of plant-type cell wall organization or biogenesis,0.00%,-2.7825,0.936,0.096,regulation of plant-type cell wall organization or biogenesis
+GO:1903648,positive regulation of chlorophyll catabolic process,0.00%,-2.7799,0.811,0.098,positive regulation of chlorophyll catabolism
+GO:0060147,regulation of posttranscriptional gene silencing,0.01%,-2.5834,0.867,0.152,positive regulation of chlorophyll catabolism
+GO:0010136,ureide catabolic process,0.00%,-2.0259,0.866,0.334,positive regulation of chlorophyll catabolism
+GO:0033310,chlorophyll a catabolic process,0.00%,-2.1238,0.856,0.593,positive regulation of chlorophyll catabolism
