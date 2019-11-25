@@ -5,13 +5,17 @@ Code for the Brassica oleracea/rapa/napus genomic comparison
 
 Code and RStudio project is under `GO_Enrichment/`
 
-## R-gene analysis
+## Resistance gene analysis
 
-Code for the stacked barplots for the R-genes can be found in `R_Gene_Analysis/`
+R-code for the stacked barplots for the R-genes can be found in `R_Gene_Analysis/`
 
 ## Pangenome modeling
 
 R-code for pangenome size modeling is in the folder `Modeling/`
+
+## Venn diagram plots
+
+R-code for the Venn-diagram plots are in `FinalPanPanVenn/`
 
 ## Notebooks 
 
