@@ -1,9 +1,0 @@
-term_ID,description,frequencyInDb,log10pvalue,uniqueness,dispensability,representative
-GO:0034470,ncRNA processing,2.22%,-2.3188,0.592,0,ncRNA processing
-GO:0006438,valyl-tRNA aminoacylation,0.05%,-2.1308,0.469,0.573,ncRNA processing
-GO:0010032,meiotic chromosome condensation,0.00%,-2.1805,0.67,0.023,meiotic chromosome condensation
-GO:0045721,negative regulation of gluconeogenesis,0.01%,-2.1805,0.587,0.046,negative regulation of gluconeogenesis
-GO:1901177,lycopene biosynthetic process,0.00%,-2.0177,0.495,0.18,negative regulation of gluconeogenesis
-GO:2000373,positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity,0.00%,-2.1308,0.74,0.12,negative regulation of gluconeogenesis
-GO:0019632,shikimate metabolic process,0.02%,-2.0177,0.595,0.182,negative regulation of gluconeogenesis
-GO:0010731,protein glutathionylation,0.00%,-2.0555,0.679,0.097,protein glutathionylation
