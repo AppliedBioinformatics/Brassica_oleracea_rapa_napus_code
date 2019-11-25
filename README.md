@@ -1,5 +1,7 @@
 # Brassica oleracea/rapa/napus code
-Code for the Brassica oleracea/rapa/napus genomic comparison
+Code for the Brassica oleracea/rapa/napus genomic comparison.
+
+Most of these folders are RStudio projects that can be opened in RStudio.
 
 ## GO enrichment
 
