@@ -21,6 +21,10 @@ R-code for the Venn-diagram plots are in `FinalPanPanVenn/`
 
 R-code for the variable genes vs core genes is in `Visualise_Core_Variable_A_vs_C/`
 
+## PCA plots
+
+R-code for the PCA plots and animations are in `Cluster_Napus_A_and_C_PAV/`
+
 ## Notebooks 
 
 These contain the XGBoost and Shapley values work.
