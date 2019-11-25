@@ -17,6 +17,10 @@ R-code for pangenome size modeling is in the folder `Modeling/`
 
 R-code for the Venn-diagram plots are in `FinalPanPanVenn/`
 
+## Core vs. variable genes plots
+
+R-code for the variable genes vs core genes is in `Visualise_Core_Variable_A_vs_C/`
+
 ## Notebooks 
 
 These contain the XGBoost and Shapley values work.
