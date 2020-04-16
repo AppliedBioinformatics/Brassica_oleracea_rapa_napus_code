@@ -1,0 +1,55 @@
+---
+title: "Vendiagrms"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(eulerr)
+```
+
+The following actually works:
+```{r}
+vd <- venn(c("napus&oleracea&rapa"=104465, "napus&oleracea"=684, "napus&rapa"=2512, "oleracea&rapa"=0, napus=955, rapa=0, oleracea=0))
+napus <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa'))
+
+#, labels=c(expression(italic('B. napus')), 'OLER', 'RAPA'))
+                
+                
+                
+#                expression(italic('B. napus')), 
+#                          expression(italic('B. oleracea')), 
+#                          expression(italic('B. rapa'))))
+napus
+ggsave('Napus_pangenome.png', plot=napus)
+
+```
+
+Now for *B. oleracea*:
+
+```{r}
+vd <- venn(c("napus&oleracea&rapa"=57717, "napus&oleracea"=226, "napus&rapa"=0, "oleracea&rapa"=12, napus=0, rapa=0, oleracea=360))
+oleracea <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa')) #labels=c(expression(italic('B. napus')), expression(italic('B. oleracea')), expression(italic('B. rapa'))))
+oleracea
+ggsave('Oleracea_pangenome.png', plot=oleracea)
+```
+
+And for *rapa*:
+
+```{r}
+vd <- venn(c("napus&oleracea&rapa"=57941, "napus&oleracea"=0, "napus&rapa"=1198, "oleracea&rapa"=16, napus=0, rapa=771, oleracea=0))
+rapa <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa'))
+             #labels=c(expression(italic('B. napus')), expression(italic('B. oleracea')), expression(italic('B. rapa'))))
+rapa
+ggsave('Rapa_pangenome.png', plot = rapa)
+
+```
+
+And in a grid:
+```{r}
+library(cowplot)
+grid <- plot_grid(oleracea, rapa, labels = c('A', 'B'))
+grid <- plot_grid(grid, napus, labels = c('C', NULL), label_x = 0.25, label_y = -0.2, vjust = -0.5, nrow=2)
+ggsave('Napus_oleracea_rapa_grid.png', plot=grid, scale = 2)
+```

@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose gen...	398	276	112.36	< 1e-30
+GO:0050135	NAD(P)+ nucleosidase activity	398	276	112.36	< 1e-30
+GO:0043531	ADP binding	456	298	128.74	< 1e-30
+GO:0005524	ATP binding	5883	2171	1660.87	< 1e-30
+GO:0003964	RNA-directed DNA polymerase activity	199	107	56.18	3.1e-14
+GO:0030275	LRR domain binding	43	33	12.14	5.7e-11
+GO:0004519	endonuclease activity	425	183	119.99	2.9e-10
+GO:0008574	ATP-dependent microtubule motor activity...	45	30	12.7	9.5e-08
+GO:0051015	actin filament binding	210	94	59.29	2.3e-07
+GO:0008017	microtubule binding	468	190	132.12	2.3e-07
+GO:0003713	transcription coactivator activity	98	51	27.67	2.4e-07
+GO:0000287	magnesium ion binding	370	149	104.46	3.7e-07
+GO:0003723	RNA binding	3322	1133	937.86	7.8e-07
+GO:0008307	structural constituent of muscle	11	11	3.11	9.0e-07
+GO:0000049	tRNA binding	144	67	40.65	2.3e-06
+GO:0050839	cell adhesion molecule binding	28	23	7.9	3.2e-06
+GO:0051539	4 iron, 4 sulfur cluster binding	225	95	63.52	4.5e-06
+GO:0005525	GTP binding	682	244	192.54	9.2e-06
+GO:0047117	enoyl-[acyl-carrier-protein] reductase (...	9	9	2.54	1.1e-05
+GO:0004313	[acyl-carrier-protein] S-acetyltransfera...	9	9	2.54	1.1e-05
+GO:0042302	structural constituent of cuticle	9	9	2.54	1.1e-05
+GO:0009678	hydrogen-translocating pyrophosphatase a...	31	20	8.75	2.8e-05
+GO:0004314	[acyl-carrier-protein] S-malonyltransfer...	13	11	3.67	3.9e-05
+GO:0016295	myristoyl-[acyl-carrier-protein] hydrola...	17	13	4.8	5.1e-05
+GO:0016296	palmitoyl-[acyl-carrier-protein] hydrola...	17	13	4.8	5.1e-05
+GO:0017124	SH3 domain binding	10	9	2.82	8.5e-05
+GO:0004190	aspartic-type endopeptidase activity	345	132	97.4	0.00012
+GO:0004177	aminopeptidase activity	92	51	25.97	0.00012
+GO:0070006	metalloaminopeptidase activity	31	19	8.75	0.00012
+GO:0031177	phosphopantetheine binding	20	14	5.65	0.00013

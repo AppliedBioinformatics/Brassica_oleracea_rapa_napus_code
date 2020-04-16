@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0032991	protein-containing complex	10366	3741	3429.25	5.6e-13
+GO:0005739	mitochondrion	5764	2093	1906.83	2.7e-08
+GO:0005737	cytoplasm	35399	11997	11710.59	1.7e-07
+GO:0015935	small ribosomal subunit	486	214	160.78	2.9e-07
+GO:0044422	organelle part	19918	6844	6589.21	1.3e-06
+GO:0044446	intracellular organelle part	19885	6832	6578.3	1.5e-06
+GO:0022627	cytosolic small ribosomal subunit	411	181	135.97	2.2e-06
+GO:0044444	cytoplasmic part	30370	10304	10046.91	3.7e-06
+GO:0043228	non-membrane-bounded organelle	6615	2349	2188.35	5.0e-06
+GO:0043232	intracellular non-membrane-bounded organ...	6615	2349	2188.35	5.0e-06
+GO:0009536	plastid	9572	3352	3166.58	6.2e-06
+GO:0044445	cytosolic part	1431	551	473.4	7.3e-06
+GO:0044391	ribosomal subunit	1142	443	377.79	2.4e-05
+GO:0005829	cytosol	12540	4337	4148.45	3.0e-05
+GO:0009501	amyloplast	77	43	25.47	3.3e-05
+GO:0005840	ribosome	1710	641	565.7	5.5e-05
+GO:1990904	ribonucleoprotein complex	3247	1175	1074.16	6.6e-05
+GO:0030176	integral component of endoplasmic reticu...	239	107	79.07	0.00011
+GO:0031227	intrinsic component of endoplasmic retic...	240	107	79.4	0.00013
+GO:0000228	nuclear chromosome	605	243	200.14	0.00014
+GO:0022626	cytosolic ribosome	1238	470	409.55	0.00015
+GO:0044454	nuclear chromosome part	562	227	185.92	0.00016
+GO:0005694	chromosome	1364	514	451.23	0.00016
+GO:0005622	intracellular	48016	16045	15884.51	0.00017
+GO:0044424	intracellular part	48016	16045	15884.51	0.00017
+GO:0044428	nuclear part	5018	1774	1660.04	0.00020
+GO:0010369	chromocenter	77	41	25.47	0.00021
+GO:0009507	chloroplast	7982	2779	2640.58	0.00022
+GO:0009532	plastid stroma	2712	977	897.18	0.00049
+GO:0009570	chloroplast stroma	2696	971	891.88	0.00053

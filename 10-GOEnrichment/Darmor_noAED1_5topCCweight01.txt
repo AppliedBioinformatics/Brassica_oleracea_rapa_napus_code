@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0005739	mitochondrion	5764	2093	1906.83	9.8e-07
+GO:0022627	cytosolic small ribosomal subunit	411	181	135.97	2.2e-06
+GO:0009501	amyloplast	77	43	25.47	5.8e-06
+GO:0030176	integral component of endoplasmic reticu...	239	107	79.07	4.4e-05
+GO:0005886	plasma membrane	12984	4419	4295.33	6.9e-05
+GO:0010369	chromocenter	77	41	25.47	0.00050
+GO:0034271	phosphatidylinositol 3-kinase complex, c...	26	17	8.6	0.00075
+GO:0034272	phosphatidylinositol 3-kinase complex, c...	26	17	8.6	0.00075
+GO:0000798	nuclear cohesin complex	26	17	8.6	0.00075
+GO:0005694	chromosome	1364	514	451.23	0.00075
+GO:0035658	Mon1-Ccz1 complex	9	8	2.98	0.00091
+GO:0009543	chloroplast thylakoid lumen	134	62	44.33	0.00102
+GO:0009570	chloroplast stroma	2696	971	891.88	0.00106
+GO:0005747	mitochondrial respiratory chain complex ...	176	78	58.22	0.00122
+GO:0031207	Sec62/Sec63 complex	17	12	5.62	0.00174
+GO:0009507	chloroplast	7982	2779	2640.58	0.00211
+GO:0005829	cytosol	12540	4337	4148.45	0.00247
+GO:0031380	nuclear RNA-directed RNA polymerase comp...	37	21	12.24	0.00257
+GO:0071007	U2-type catalytic step 2 spliceosome	24	15	7.94	0.00297
+GO:0016461	unconventional myosin complex	10	8	3.31	0.00322
+GO:0005838	proteasome regulatory particle	145	56	47.97	0.00377
+GO:0005770	late endosome	437	165	144.57	0.00386
+GO:0009536	plastid	9572	3352	3166.58	0.00496
+GO:0070847	core mediator complex	25	15	8.27	0.00516
+GO:0005769	early endosome	218	83	72.12	0.00521
+GO:0016471	vacuolar proton-transporting V-type ATPa...	72	35	23.82	0.00642
+GO:1990298	bub1-bub3 complex	7	6	2.32	0.00657
+GO:0005819	spindle	428	173	141.59	0.00716
+GO:0005737	cytoplasm	35399	11997	11710.59	0.00734
+GO:0016442	RISC complex	17	11	5.62	0.00750

@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0005737	cytoplasm	20698	3700	3327.09	2.0e-30
+GO:0044444	cytoplasmic part	17671	3186	2840.51	6.8e-25
+GO:0032991	protein-containing complex	6389	1251	1027	6.1e-17
+GO:0005829	cytosol	7511	1439	1207.35	2.9e-16
+GO:0044446	intracellular organelle part	11940	2179	1919.29	8.2e-16
+GO:0044422	organelle part	11963	2182	1922.98	1.0e-15
+GO:0043228	non-membrane-bounded organelle	4106	798	660.02	5.4e-10
+GO:0043232	intracellular non-membrane-bounded organ...	4106	798	660.02	5.4e-10
+GO:0005622	intracellular	27760	4609	4462.26	5.9e-09
+GO:0044424	intracellular part	27760	4609	4462.26	5.9e-09
+GO:0005739	mitochondrion	3326	652	534.64	6.9e-09
+GO:0044428	nuclear part	3385	648	544.12	2.9e-07
+GO:0005856	cytoskeleton	1104	238	177.46	7.2e-07
+GO:0044430	cytoskeletal part	853	188	137.11	2.4e-06
+GO:1902494	catalytic complex	1981	393	318.43	2.7e-06
+GO:0000275	mitochondrial proton-transporting ATP sy...	43	20	6.91	2.8e-06
+GO:0031974	membrane-enclosed lumen	3102	588	498.63	3.9e-06
+GO:0043233	organelle lumen	3102	588	498.63	3.9e-06
+GO:0070013	intracellular organelle lumen	3102	588	498.63	3.9e-06
+GO:0045261	proton-transporting ATP synthase complex...	48	21	7.72	5.3e-06
+GO:0009536	plastid	5192	943	834.58	6.1e-06
+GO:0009507	chloroplast	4305	789	692	1.2e-05
+GO:0016459	myosin complex	62	24	9.97	1.5e-05
+GO:0005753	mitochondrial proton-transporting ATP sy...	55	22	8.84	1.8e-05
+GO:0099513	polymeric cytoskeletal fiber	576	130	92.59	2.6e-05
+GO:0099081	supramolecular polymer	579	130	93.07	3.4e-05
+GO:0099512	supramolecular fiber	579	130	93.07	3.4e-05
+GO:0005871	kinesin complex	164	47	26.36	3.4e-05
+GO:0045259	proton-transporting ATP synthase complex	61	23	9.81	3.7e-05
+GO:0005875	microtubule associated complex	231	61	37.13	4.1e-05

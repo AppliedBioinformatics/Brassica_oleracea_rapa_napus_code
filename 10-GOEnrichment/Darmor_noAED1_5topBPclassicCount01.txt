@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:1901564	organonitrogen compound metabolic proces...	21037	7331	7056.6	4.4e-07
+GO:0043604	amide biosynthetic process	3022	1139	1013.69	5.1e-07
+GO:0046740	transport of virus in host, cell to cell	51	34	17.11	1.4e-06
+GO:1902586	multi-organism intercellular transport	51	34	17.11	1.4e-06
+GO:0090407	organophosphate biosynthetic process	1604	625	538.04	2.3e-06
+GO:0043603	cellular amide metabolic process	3512	1300	1178.06	4.6e-06
+GO:0006014	D-ribose metabolic process	22	18	7.38	4.6e-06
+GO:0019303	D-ribose catabolic process	22	18	7.38	4.6e-06
+GO:0019538	protein metabolic process	16291	5690	5464.61	7.2e-06
+GO:0009108	coenzyme biosynthetic process	871	353	292.17	8.5e-06
+GO:0006412	translation	2697	1008	904.67	1.0e-05
+GO:0019323	pentose catabolic process	32	23	10.73	1.1e-05
+GO:0043043	peptide biosynthetic process	2726	1018	914.4	1.1e-05
+GO:0006518	peptide metabolic process	3000	1114	1006.31	1.2e-05
+GO:0009123	nucleoside monophosphate metabolic proce...	910	365	305.25	1.8e-05
+GO:0009161	ribonucleoside monophosphate metabolic p...	837	338	280.76	1.8e-05
+GO:0046390	ribose phosphate biosynthetic process	815	329	273.38	2.4e-05
+GO:1901293	nucleoside phosphate biosynthetic proces...	1043	412	349.86	2.8e-05
+GO:0009260	ribonucleotide biosynthetic process	800	323	268.35	2.8e-05
+GO:0015980	energy derivation by oxidation of organi...	534	224	179.12	2.9e-05
+GO:0007059	chromosome segregation	461	196	154.64	3.5e-05
+GO:1901566	organonitrogen compound biosynthetic pro...	6409	2293	2149.82	3.6e-05
+GO:0006265	DNA topological change	48	30	16.1	3.8e-05
+GO:0006405	RNA export from nucleus	227	105	76.14	4.7e-05
+GO:0009165	nucleotide biosynthetic process	1021	402	342.48	4.8e-05
+GO:0009106	lipoate metabolic process	9	9	3.02	5.4e-05
+GO:0009107	lipoate biosynthetic process	9	9	3.02	5.4e-05
+GO:0006611	protein export from nucleus	205	96	68.76	5.4e-05
+GO:0051168	nuclear export	238	109	79.83	5.7e-05
+GO:0006259	DNA metabolic process	2947	1086	988.53	5.9e-05

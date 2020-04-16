@@ -1,0 +1,22 @@
+Total genes: 108580
+Core, variable: 66966, 41614
+Without synths: Core, variable: 80650, 27930
+In oleracea and rapa: 104465
+In rapa: 2512
+In oleracea: 648
+Neither: 955
+Total genes: 58315
+Oleracea:
+Core, variable: 45961, 12354
+In napus and rapa: 57717
+In rapa: 12
+In napus: 226
+Neither: 360
+Total genes: 59926
+Rapa:
+Core, variable: 39952, 19974
+Core, variable no fpscs: 40129, 19797
+In napus and oleracea: 57941
+In oleracea: 16
+In napus: 1198
+Neither: 771

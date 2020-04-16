@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0006278	RNA-dependent DNA biosynthetic process	346	124	57.08	8.1e-20
+GO:0090305	nucleic acid phosphodiester bond hydroly...	778	210	128.35	3.4e-18
+GO:0015074	DNA integration	289	105	47.68	2.4e-16
+GO:0006310	DNA recombination	592	183	97.66	5.3e-15
+GO:0006508	proteolysis	2331	497	384.55	4.6e-11
+GO:0007165	signal transduction	4362	667	719.6	2.9e-10
+GO:0015986	ATP synthesis coupled proton transport	89	32	14.68	2.6e-07
+GO:0051762	sesquiterpene biosynthetic process	41	20	6.76	1.7e-06
+GO:0019919	peptidyl-arginine methylation, to asymme...	30	16	4.95	4.1e-06
+GO:0006265	DNA topological change	36	17	5.94	1.7e-05
+GO:0007018	microtubule-based movement	185	50	30.52	3.7e-05
+GO:0042026	protein refolding	143	43	23.59	3.9e-05
+GO:0030050	vesicle transport along actin filament	60	23	9.9	4.1e-05
+GO:0006896	Golgi to vacuole transport	68	25	11.22	4.5e-05
+GO:0060586	multicellular organismal iron ion homeos...	11	8	1.81	5.6e-05
+GO:0006952	defense response	3318	637	547.37	7.2e-05
+GO:0018027	peptidyl-lysine dimethylation	26	7	4.29	0.00012
+GO:0002239	response to oomycetes	238	49	39.26	0.00017
+GO:0006517	protein deglycosylation	18	10	2.97	0.00018
+GO:0035194	posttranscriptional gene silencing by RN...	188	40	31.01	0.00025
+GO:0048280	vesicle fusion with Golgi apparatus	37	15	6.1	0.00044
+GO:0051645	Golgi localization	20	10	3.3	0.00055
+GO:0006435	threonyl-tRNA aminoacylation	11	7	1.81	0.00059
+GO:0007015	actin filament organization	249	61	41.08	0.00077
+GO:0009657	plastid organization	540	91	89.08	0.00080
+GO:0042176	regulation of protein catabolic process	117	30	19.3	0.00089
+GO:0045041	protein import into mitochondrial interm...	28	12	4.62	0.00090
+GO:0006107	oxaloacetate metabolic process	18	9	2.97	0.00104
+GO:0000045	autophagosome assembly	68	19	11.22	0.00114
+GO:0060151	peroxisome localization	12	7	1.98	0.00121

@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0043531	ADP binding	324	149	53.81	< 1e-30
+GO:0032553	ribonucleotide binding	6345	1331	1053.74	1.9e-24
+GO:0003824	catalytic activity	18282	3376	3036.17	2.7e-24
+GO:0032559	adenyl ribonucleotide binding	5683	1209	943.8	2.9e-24
+GO:0032555	purine ribonucleotide binding	6269	1316	1041.12	2.9e-24
+GO:0030554	adenyl nucleotide binding	5690	1209	944.96	4.7e-24
+GO:0097367	carbohydrate derivative binding	6421	1342	1066.36	5.2e-24
+GO:0017076	purine nucleotide binding	6278	1316	1042.62	5.3e-24
+GO:0003953	NAD+ nucleosidase activity	201	94	33.38	1.9e-23
+GO:0050135	NAD(P)+ nucleosidase activity	201	94	33.38	1.9e-23
+GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose gen...	201	94	33.38	1.9e-23
+GO:0035639	purine ribonucleoside triphosphate bindi...	6154	1285	1022.02	1.1e-22
+GO:0005524	ATP binding	5568	1178	924.7	1.2e-22
+GO:0008144	drug binding	5935	1243	985.65	2.5e-22
+GO:0000166	nucleotide binding	6952	1424	1154.55	6.4e-22
+GO:1901265	nucleoside phosphate binding	6952	1424	1154.55	6.4e-22
+GO:0140097	catalytic activity, acting on DNA	672	207	111.6	3.0e-20
+GO:0036094	small molecule binding	7421	1495	1232.44	4.1e-20
+GO:0034061	DNA polymerase activity	355	130	58.96	5.7e-20
+GO:0043168	anion binding	7415	1489	1231.44	1.9e-19
+GO:0003964	RNA-directed DNA polymerase activity	310	117	51.48	2.6e-19
+GO:0016799	hydrolase activity, hydrolyzing N-glycos...	269	106	44.67	3.2e-19
+GO:0016779	nucleotidyltransferase activity	618	189	102.63	3.1e-18
+GO:0004519	endonuclease activity	489	154	81.21	2.4e-16
+GO:0016787	hydrolase activity	6835	1362	1135.12	2.5e-16
+GO:0004190	aspartic-type endopeptidase activity	448	143	74.4	8.2e-16
+GO:0070001	aspartic-type peptidase activity	448	143	74.4	8.2e-16
+GO:0043167	ion binding	13652	2526	2267.25	6.3e-15
+GO:0004518	nuclease activity	669	187	111.1	7.8e-14
+GO:0017111	nucleoside-triphosphatase activity	2097	475	348.26	9.0e-14

@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0007165	signal transduction	4973	1465	1393.1	< 1e-30
+GO:0007411	axon guidance	34	33	9.52	1.4e-17
+GO:0006310	DNA recombination	517	239	144.83	1.7e-17
+GO:0006278	RNA-dependent DNA biosynthetic process	236	125	66.11	4.0e-14
+GO:0015074	DNA integration	193	102	54.07	3.0e-13
+GO:0006936	muscle contraction	18	18	5.04	1.1e-10
+GO:0045214	sarcomere organization	21	20	5.88	1.3e-10
+GO:0006508	proteolysis	2468	848	691.37	1.4e-09
+GO:0035152	regulation of tube architecture, open tr...	16	16	4.48	1.4e-09
+GO:0007156	homophilic cell adhesion via plasma memb...	16	16	4.48	1.4e-09
+GO:0007525	somatic muscle development	16	16	4.48	1.4e-09
+GO:0044057	regulation of system process	21	19	5.88	3.5e-09
+GO:0090305	nucleic acid phosphodiester bond hydroly...	778	307	217.94	7.3e-09
+GO:0048732	gland development	32	31	8.96	1.8e-08
+GO:0008038	neuron recognition	26	19	7.28	1.8e-08
+GO:0003007	heart morphogenesis	26	21	7.28	3.4e-08
+GO:0008344	adult locomotory behavior	16	15	4.48	6.0e-08
+GO:0071695	anatomical structure maturation	445	114	124.66	6.2e-08
+GO:0007424	open tracheal system development	29	29	8.12	6.4e-08
+GO:0043954	cellular component maintenance	26	17	7.28	6.5e-08
+GO:0007435	salivary gland morphogenesis	13	13	3.64	6.5e-08
+GO:0016310	phosphorylation	3489	1120	977.38	1.1e-07
+GO:0007391	dorsal closure	12	12	3.36	2.3e-07
+GO:0048813	dendrite morphogenesis	40	28	11.21	2.4e-07
+GO:0007498	mesoderm development	30	22	8.4	3.3e-07
+GO:0051301	cell division	1157	429	324.11	3.5e-07
+GO:0009817	defense response to fungus, incompatible...	175	80	49.02	4.4e-07
+GO:0007018	microtubule-based movement	202	91	56.59	4.6e-07
+GO:0007601	visual perception	14	13	3.92	6.7e-07
+GO:0007420	brain development	54	39	15.13	6.9e-07

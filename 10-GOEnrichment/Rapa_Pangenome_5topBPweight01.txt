@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0007165	signal transduction	4611	1261	1235.89	< 1e-30
+GO:0006310	DNA recombination	438	199	117.4	9.5e-16
+GO:0015074	DNA integration	145	81	38.86	1.4e-13
+GO:0006278	RNA-dependent DNA biosynthetic process	186	95	49.85	1.5e-11
+GO:0090305	nucleic acid phosphodiester bond hydroly...	650	251	174.22	2.5e-09
+GO:0006508	proteolysis	2174	713	582.7	7.6e-09
+GO:0016310	phosphorylation	3250	1002	871.1	1.7e-08
+GO:0009817	defense response to fungus, incompatible...	175	80	46.91	6.6e-08
+GO:0007018	microtubule-based movement	181	80	48.51	5.2e-07
+GO:0035999	tetrahydrofolate interconversion	57	33	15.28	7.4e-07
+GO:0051301	cell division	1046	370	280.36	1.0e-06
+GO:0009816	defense response to bacterium, incompati...	151	65	40.47	2.9e-06
+GO:0005978	glycogen biosynthetic process	41	25	10.99	4.5e-06
+GO:0046835	carbohydrate phosphorylation	113	53	30.29	4.6e-06
+GO:0045087	innate immune response	1116	413	299.12	6.9e-06
+GO:0006189	'de novo' IMP biosynthetic process	53	29	14.21	1.6e-05
+GO:0032119	sequestering of zinc ion	19	14	5.09	2.7e-05
+GO:0043181	vacuolar sequestering	19	14	5.09	2.7e-05
+GO:0070072	vacuolar proton-transporting V-type ATPa...	19	14	5.09	2.7e-05
+GO:0007049	cell cycle	1622	585	434.74	3.8e-05
+GO:0006457	protein folding	441	166	118.2	4.7e-05
+GO:0007010	cytoskeleton organization	659	250	176.63	6.2e-05
+GO:0071897	DNA biosynthetic process	280	136	75.05	6.5e-05
+GO:0002239	response to oomycetes	279	94	74.78	7.2e-05
+GO:0006896	Golgi to vacuole transport	70	34	18.76	8.1e-05
+GO:0006458	'de novo' protein folding	117	47	31.36	8.3e-05
+GO:1904975	response to bleomycin	7	7	1.88	9.9e-05
+GO:2000685	positive regulation of cellular response...	7	7	1.88	9.9e-05
+GO:0051762	sesquiterpene biosynthetic process	47	25	12.6	0.00011
+GO:0006303	double-strand break repair via nonhomolo...	37	21	9.92	0.00011

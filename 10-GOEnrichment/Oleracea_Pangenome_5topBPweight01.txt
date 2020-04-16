@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0015074	DNA integration	256	98	42.48	6.5e-17
+GO:0006278	RNA-dependent DNA biosynthetic process	301	107	49.95	7.2e-17
+GO:0090305	nucleic acid phosphodiester bond hydroly...	676	183	112.18	1.5e-15
+GO:0006310	DNA recombination	530	167	87.95	4.4e-14
+GO:0006508	proteolysis	2151	470	356.94	3.0e-10
+GO:0007165	signal transduction	4188	650	694.96	3.6e-10
+GO:0015986	ATP synthesis coupled proton transport	89	32	14.77	2.9e-07
+GO:0051762	sesquiterpene biosynthetic process	41	20	6.8	1.8e-06
+GO:0019919	peptidyl-arginine methylation, to asymme...	30	16	4.98	4.5e-06
+GO:0006265	DNA topological change	36	17	5.97	1.9e-05
+GO:0042026	protein refolding	141	43	23.4	3.1e-05
+GO:0030050	vesicle transport along actin filament	59	23	9.79	3.3e-05
+GO:0006896	Golgi to vacuole transport	67	25	11.12	3.7e-05
+GO:0060586	multicellular organismal iron ion homeos...	11	8	1.83	5.9e-05
+GO:0006952	defense response	3279	633	544.12	9.6e-05
+GO:0007018	microtubule-based movement	171	48	28.38	0.00011
+GO:0006517	protein deglycosylation	18	10	2.99	0.00019
+GO:0035194	posttranscriptional gene silencing by RN...	181	38	30.04	0.00026
+GO:0002239	response to oomycetes	238	49	39.49	0.00032
+GO:0051645	Golgi localization	19	10	3.15	0.00034
+GO:0048280	vesicle fusion with Golgi apparatus	37	15	6.14	0.00046
+GO:0006435	threonyl-tRNA aminoacylation	11	7	1.83	0.00061
+GO:0000724	double-strand break repair via homologou...	157	40	26.05	0.00069
+GO:0045324	late endosome to vacuole transport	75	26	12.45	0.00093
+GO:0032456	endocytic recycling	21	10	3.48	0.00093
+GO:0045041	protein import into mitochondrial interm...	28	12	4.65	0.00095
+GO:0042176	regulation of protein catabolic process	101	24	16.76	0.00095
+GO:0006107	oxaloacetate metabolic process	18	9	2.99	0.00109
+GO:0016106	sesquiterpenoid biosynthetic process	88	13	14.6	0.00123
+GO:0060151	peroxisome localization	12	7	1.99	0.00126

@@ -1,0 +1,271 @@
+---
+title: "Modeling"
+author: "Philipp Bayer"
+date: "18 March 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# First, setup
+
+```{r}
+library(tidyverse)
+library(cowplot)
+library(minpack.lm)
+library(broom)
+library(car)
+library(patchwork)
+
+options('scipen'=100)
+```
+
+
+## Oleracea model
+
+Here I load the oleracea data and plot it for oleracea only
+```{r oleracea_model}
+oleracea_df <- read_tsv('./Oleracea_PAV_nice_names_intersection_of_individuals.filtered.onlyInds.86Permuts.txt')
+
+# approximate the para0p
+lm(logit(pangenome/60000) ~ Combinations, oleracea_df)
+
+para0p <- c(A=60000,B=-3.36,C=0.002)
+```
+OK we got the initaliser
+
+```{r oleracea_training}
+oleracea_summary_fitp <- nlsLM(pangenome~A*Combinations^B+C, data=oleracea_df, 
+                      start=para0p, trace=F, control=list(maxiter=200, maxfev=1500))
+
+summary(oleracea_summary_fitp)
+tidy(oleracea_summary_fitp)
+```
+Now come the core genes!
+
+```{r oleracea_core}
+para0c <- c(B=1)
+oleracea_fitc <- nls(core~cbind(1, exp(B*Combinations)),oleracea_df, start=para0c,             trace=F, alg='plinear')
+tidy(oleracea_fitc)
+```
+
+```{r oleracea_plt}
+oleracea_fit_data_p <- augment(oleracea_summary_fitp)
+oleracea_fit_data_c <- augment(oleracea_fitc)
+
+oleracea_p <-ggplot() + 
+  geom_point(data=oleracea_df, aes(x=Combinations, y=pangenome), alpha=0.1) + 
+  geom_point(data=oleracea_df, aes(x=Combinations, y=core), alpha=0.1) + 
+  geom_line(data=oleracea_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) + 
+  geom_line(data=oleracea_fit_data_c, aes(x=Combinations, y=.fitted, colour='red')) + 
+  #xlim(c(0,50)) +
+  ylab('Number of pangenome genes') +
+  xlab('Combinations of individuals') +
+  theme(legend.position = "none") +
+  theme(aspect.ratio = 1) +
+  theme_half_open() +
+  theme_minimal_hgrid() +
+  theme(legend.position="none")+
+  ylim(c(39000, 60000))
+oleracea_p
+```
+
+## Rapa model
+
+```{r rapa_model}
+rapa_df <- read_tsv('./Rapa_PAV_nice_names_intersection_of_individuals.filtered.onlyInds.71Permuts.txt')
+head(rapa_df)
+
+# approximate the para0p
+
+lm(logit(pangenome/59000) ~ Combinations, rapa_df)
+
+para0p <- c(A=59000,B=-4.59,C=0.00022)
+```
+OK we got the initaliser
+
+```{r rapa_training}
+rapa_summary_fitp <- nlsLM(pangenome~A*Combinations^B+C, data=rapa_df, 
+                      start=para0p, trace=F, control=list(maxiter=200, maxfev=1500))
+
+summary(rapa_summary_fitp)
+tidy(rapa_summary_fitp)
+```
+Now come the core genes!
+
+```{r rapa_core}
+
+para0c <- c(B=1)
+rapa_fitc <- nls(core~cbind(1, exp(B*Combinations)),rapa_df, start=para0c, 
+            trace=F, alg='plinear')
+tidy(rapa_fitc)
+```
+
+```{r rapa_plot}
+rapa_fit_data_p <- augment(rapa_summary_fitp)
+rapa_fit_data_c <- augment(rapa_fitc)
+
+rapa_p <- ggplot() + 
+  geom_point(data=rapa_df, aes(x=Combinations, y=pangenome), alpha=0.1) +
+  geom_point(data=rapa_df, aes(x=Combinations, y=core), alpha=0.1) +
+  geom_line(data=rapa_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  geom_line(data=rapa_fit_data_c, aes(x=Combinations, y=.fitted, colour='red')) +
+  ylab('Number of pangenome genes') +
+  xlab('Combinations of individuals') +
+  theme(legend.position = "none") +
+  theme(aspect.ratio = 1) +
+  theme_half_open() +
+  theme_minimal_hgrid() +
+  theme(legend.position="none") +
+  ylim(c(39000, 60000))
+rapa_p
+```
+
+
+
+## Napus model
+
+```{r napus_model}
+napus_df <- read_tsv('./NewPAV_Table_nice_names_intersection_of_individuals.filtered.onlyInds.72Permuts.txt')
+
+# approximate the para0p
+
+lm(logit(pangenome/(max(napus_df$pangenome)+2000)) ~ Combinations, napus_df)
+
+para0p <- c(A=max(napus_df$pangenome)+1000,B=-3.754,C=0.004609)
+
+```
+OK we got the initaliser
+
+```{r napus_training}
+napus_summary_fitp <- nlsLM(pangenome~A*Combinations^B+C, data=napus_df, 
+                      start=para0p, trace=F, control=list(maxiter=200, maxfev=1500))
+
+summary(napus_summary_fitp)
+tidy(napus_summary_fitp)
+```
+
+Now come the core genes!
+
+```{r napus_core}
+
+para0c <- c(B=1)
+napus_fitc <- nls(core~cbind(1, exp(B*Combinations)),napus_df, start=para0c, 
+            trace=F, alg='plinear')
+tidy(napus_fitc)
+
+```
+
+
+```{r napus_plot}
+napus_fit_data_p <- augment(napus_summary_fitp)
+napus_fit_data_c <- augment(napus_fitc)
+
+napus_p <- ggplot() + 
+  geom_point(data=napus_df, aes(x=Combinations, y=pangenome), alpha=0.1) + 
+  geom_point(data=napus_df, aes(x=Combinations, y=core), alpha=0.1) + 
+  geom_line(data=napus_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  geom_line(data=napus_fit_data_c, aes(x=Combinations, y=.fitted, colour='red')) +
+  ylab('Number of pangenome genes') +
+  xlab('Combinations of individuals') +
+  theme(legend.position = "none") +
+  theme(aspect.ratio=1) +
+  theme_half_open() +
+  theme_minimal_hgrid() +
+  theme(legend.position="none") +
+  ylim(c(65000, 110000))
+
+napus_p
+```
+
+
+## Napus no synths model
+
+```{r}
+napus_df <- read_tsv('./NewPAV_Table_nice_names_intersection_of_individuals.filtered.onlyInds.NoSynths.54Inds.txt')
+tail(napus_df)
+
+# approximate the para0p
+max(napus_df$pangenome)
+lm(logit(pangenome/105000) ~ Combinations, napus_df)
+
+```
+OK we got the initaliser
+
+```{r }
+para0p <- c(A=110000, B=-4.57,C=0.00022)
+
+
+napus_summary_fitp <- nlsLM(pangenome~A*Combinations^B+C, data=napus_df, 
+                      start=para0p, trace=F, control=list(maxiter=200, maxfev=1500))
+summary(napus_summary_fitp)
+tidy(napus_summary_fitp)
+```
+
+Now come the core genes!
+
+```{r }
+para0c <- c(B=1)
+napus_fitc <- nls(core~cbind(1, exp(B*Combinations)),napus_df, start=para0c, 
+            trace=F, alg='plinear')
+tidy(napus_fitc)
+
+```
+
+
+```{r }
+napus_fit_data_p <- augment(napus_summary_fitp)
+napus_fit_data_c <- augment(napus_fitc)
+
+napus_nonsyn_p <- ggplot() + 
+  geom_point(data=napus_df, aes(x=Combinations, y=pangenome), alpha=0.1) + 
+  geom_point(data=napus_df, aes(x=Combinations, y=core), alpha=0.1) + 
+  geom_line(data=napus_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  geom_line(data=napus_fit_data_c, aes(x=Combinations, y=.fitted, colour='red')) +
+  ylab('Number of pangenome genes') +
+  xlab('Combinations of individuals') +
+  theme(legend.position = "none") +
+  theme(aspect.ratio=1) +
+  theme_half_open() +
+  theme_minimal_hgrid() +
+  theme(legend.position="none") +
+  ylim(c(65000, 110000))
+
+napus_nonsyn_p
+```
+
+
+# Patchworking!
+
+```{r patches}
+grid <- plot_grid(oleracea_p, rapa_p, napus_p, napus_nonsyn_p, labels='AUTO')
+grid
+save_plot(filename= 'Grid.png', plot = grid, base_height = 8)
+```
+
+# All in one!
+
+```{r all_in_one}
+ggplot() + 
+  geom_point(data=napus_df, aes(x=Combinations, y=pangenome), alpha=0.1) + 
+  geom_line(data=napus_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  geom_point(data=rapa_df, aes(x=Combinations, y=pangenome), alpha=0.1) +
+    geom_line(data=rapa_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  geom_point(data=oleracea_df, aes(x=Combinations, y=pangenome), alpha=0.1) +
+    geom_line(data=oleracea_fit_data_p, aes(x=Combinations, y=.fitted, colour='red')) +
+  ylab('Number of pangenome genes') +
+  xlab('Combinations of individuals') +
+  theme(legend.position = "none") +
+  theme(aspect.ratio=1) +
+  theme_half_open() +
+  theme_minimal_hgrid() +
+  theme(legend.position="none") +
+  xlim(c(0, 50))
+
+```
+
+yeah let's not use that :P
+
+
+

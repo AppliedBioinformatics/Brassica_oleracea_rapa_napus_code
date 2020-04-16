@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0043531	ADP binding	324	149	53.81	< 1e-30
+GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose gen...	201	94	33.38	1.9e-23
+GO:0050135	NAD(P)+ nucleosidase activity	201	94	33.38	1.9e-23
+GO:0005524	ATP binding	5568	1178	924.7	1.2e-22
+GO:0003964	RNA-directed DNA polymerase activity	310	117	51.48	2.6e-19
+GO:0004519	endonuclease activity	489	154	81.21	1.5e-18
+GO:0004190	aspartic-type endopeptidase activity	448	143	74.4	1.6e-16
+GO:0043130	ubiquitin binding	144	52	23.91	1.2e-08
+GO:0003676	nucleic acid binding	8019	1187	1331.75	2.0e-08
+GO:0030275	LRR domain binding	24	16	3.99	6.3e-08
+GO:0009975	cyclase activity	75	30	12.46	1.5e-06
+GO:0035242	protein-arginine omega-N asymmetric meth...	30	16	4.98	4.5e-06
+GO:0010333	terpene synthase activity	64	25	10.63	1.5e-05
+GO:0051015	actin filament binding	178	52	29.56	1.9e-05
+GO:0000146	microfilament motor activity	60	23	9.96	4.6e-05
+GO:0030898	actin-dependent ATPase activity	60	23	9.96	4.6e-05
+GO:0003917	DNA topoisomerase type I activity	19	11	3.16	5.3e-05
+GO:0051082	unfolded protein binding	344	84	57.13	0.00013
+GO:0046933	proton-transporting ATP synthase activit...	56	21	9.3	0.00014
+GO:0008574	ATP-dependent microtubule motor activity...	46	18	7.64	0.00022
+GO:0000049	tRNA binding	109	33	18.1	0.00029
+GO:0008017	microtubule binding	400	99	66.43	0.00047
+GO:0030234	enzyme regulator activity	974	154	161.76	0.00056
+GO:0009378	four-way junction helicase activity	20	10	3.32	0.00058
+GO:0004829	threonine-tRNA ligase activity	11	7	1.83	0.00061
+GO:0051011	microtubule minus-end binding	27	12	4.48	0.00064
+GO:0016888	endodeoxyribonuclease activity, producin...	36	13	5.98	0.00067
+GO:0043138	3'-5' DNA helicase activity	47	17	7.81	0.00096
+GO:0004176	ATP-dependent peptidase activity	86	26	14.28	0.00123
+GO:0004462	lactoylglutathione lyase activity	12	7	1.99	0.00126

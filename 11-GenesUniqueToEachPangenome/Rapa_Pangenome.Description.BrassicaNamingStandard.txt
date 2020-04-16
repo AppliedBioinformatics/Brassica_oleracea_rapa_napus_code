@@ -1,0 +1,771 @@
+BraA01g15910C2	NA
+BraA01g19400C2	NA
+BraA01g01950C2	NA
+BraA01g20460C2	NA
+BraA01g23380C2	sp|Q8GWD2|CNG12_ARATH Probable cyclic nucleotide-gated ion channel 12 OS=Arabidopsis thaliana OX=3702 GN=CNGC12 PE=2 SV=2
+BraA01g23390C2	sp|Q9SKD7|CNGC3_ARATH Probable cyclic nucleotide-gated ion channel 3 OS=Arabidopsis thaliana OX=3702 GN=CNGC3 PE=2 SV=2
+BraA01g24660C2	NA
+BraA01g27730C2	sp|Q3EAZ3|P2C45_ARATH Putative protein phosphatase 2C-like protein 45 OS=Arabidopsis thaliana OX=3702 GN=At3g27140 PE=5 SV=1
+BraA01g28320C2	NA
+BraA01g29240C2	NA
+BraA01g31510C2	NA
+BraA01g33230C2	NA
+BraA01g36820C2	NA
+BraA01g37040C2	NA
+BraA01g38900C2	NA
+BraA01g40890C2	NA
+BraA01g41270C2	sp|Q9LIA1|TPS25_ARATH Terpenoid synthase 25 OS=Arabidopsis thaliana OX=3702 GN=TPS25 PE=2 SV=2
+BraA01g46010C2	NA
+BraA01g07670C2	NA
+BraA02g11090C2	NA
+BraA02g15830C2	NA
+BraA02g19370C2	NA
+BraA02g22310C2	sp|V9M2S5|RPV1_VITRO Disease resistance protein RPV1 OS=Vitis rotundifolia OX=103349 GN=RPV1 PE=1 SV=1
+BraA02g22330C2	sp|Q9FI14|TAO1_ARATH Disease resistance protein TAO1 OS=Arabidopsis thaliana OX=3702 GN=TAO1 PE=3 SV=1
+BraA02g22340C2	sp|V9M2S5|RPV1_VITRO Disease resistance protein RPV1 OS=Vitis rotundifolia OX=103349 GN=RPV1 PE=1 SV=1
+BraA02g28260C2	NA
+BraA02g28270C2	NA
+BraA02g28280C2	NA
+BraA02g31020C2	NA
+BraA02g35720C2	NA
+BraA02g36220C2	NA
+BraA02g36230C2	NA
+BraA02g36240C2	NA
+BraA02g36270C2	NA
+BraA02g36370C2	NA
+BraA02g41030C2	sp|Q9SKE2|JAR1_ARATH Jasmonoyl--L-amino acid synthetase JAR1 OS=Arabidopsis thaliana OX=3702 GN=JAR1 PE=1 SV=2
+BraA02g41070C2	NA
+BraA02g41090C2	NA
+BraA02g42250C2	sp|Q94AH6|CUL1_ARATH Cullin-1 OS=Arabidopsis thaliana OX=3702 GN=CUL1 PE=1 SV=1
+BraA02g43280C2	sp|Q9STY6|RS202_ARATH 40S ribosomal protein S20-2 OS=Arabidopsis thaliana OX=3702 GN=RPS20B PE=2 SV=1
+BraA03g13220C2	NA
+BraA03g27440C2	sp|Q9XIR1|FBK27_ARATH F-box/kelch-repeat protein At1g64840 OS=Arabidopsis thaliana OX=3702 GN=At1g64840 PE=2 SV=2
+BraA03g40250C2	NA
+BraA03g41140C2	NA
+BraA03g46550C2	NA
+BraA03g56690C2	NA
+BraA03g57090C2	NA
+BraA03g58170C2	NA
+BraA03g58290C2	NA
+BraA03g07350C2	sp|Q9Y3E5|PTH2_HUMAN Peptidyl-tRNA hydrolase 2, mitochondrial OS=Homo sapiens OX=9606 GN=PTRH2 PE=1 SV=1
+BraA04g13120C2	NA
+BraA04g25870C2	sp|P92512|M710_ARATH Uncharacterized mitochondrial protein AtMg00710 OS=Arabidopsis thaliana OX=3702 GN=AtMg00710 PE=4 SV=1
+BraA04g06010C2	NA
+BraA04g06950C2	NA
+BraA05g10750C2	NA
+BraA05g10760C2	NA
+BraA05g10790C2	NA
+BraA05g11720C2	NA
+BraA05g00150C2	NA
+BraA05g17240C2	NA
+BraA05g01980C2	NA
+BraA05g24170C2	NA
+BraA05g25810C2	NA
+BraA05g02770C2	NA
+BraA05g02780C2	NA
+BraA05g40000C2	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BraA05g00540C2	NA
+BraA06g11160C2	NA
+BraA06g11310C2	NA
+BraA06g00130C2	NA
+BraA06g13940C2	NA
+BraA06g14750C2	NA
+BraA06g16020C2	NA
+BraA06g16810C2	NA
+BraA06g16880C2	sp|Q9LUU7|P2C43_ARATH Probable protein phosphatase 2C 43 OS=Arabidopsis thaliana OX=3702 GN=At3g17250 PE=2 SV=1
+BraA06g17070C2	NA
+BraA06g19680C2	NA
+BraA06g01980C2	NA
+BraA06g00280C2	NA
+BraA06g28400C2	NA
+BraA06g03010C2	NA
+BraA06g00310C2	NA
+BraA06g00320C2	NA
+BraA06g00330C2	NA
+BraA06g33560C2	sp|Q9ZTX8|ARFF_ARATH Auxin response factor 6 OS=Arabidopsis thaliana OX=3702 GN=ARF6 PE=1 SV=2
+BraA06g04400C2	sp|O22397|POT1_ARATH Potassium transporter 1 OS=Arabidopsis thaliana OX=3702 GN=POT1 PE=1 SV=2
+BraA06g47050C2	NA
+BraA06g05200C2	NA
+BraA06g05210C2	NA
+BraA06g05400C2	NA
+BraA06g56780C2	NA
+BraA06g56930C2	sp|Q8GWB7|GUX6_ARATH Inositol phosphorylceramide glucuronosyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=IPUT1 PE=1 SV=1
+BraA06g06070C2	NA
+BraA06g06100C2	NA
+BraA06g06110C2	NA
+BraA06g06530C2	NA
+BraA06g00680C2	NA
+BraA06g00700C2	NA
+BraA06g07520C2	sp|P18616|NRPB1_ARATH DNA-directed RNA polymerase II subunit RPB1 OS=Arabidopsis thaliana OX=3702 GN=NRPB1 PE=1 SV=3
+BraA06g08020C2	NA
+BraA07g15430C2	NA
+BraA07g19760C2	NA
+BraA07g23450C2	NA
+BraA07g23460C2	NA
+BraA07g30730C2	NA
+BraA07g03350C2	NA
+BraA07g03370C2	NA
+BraA07g34980C2	NA
+BraA07g40290C2	sp|Q5DWG1|CRJ35_CRYJA Pathogenesis-related thaumatin-like protein 3.5 OS=Cryptomeria japonica OX=3369 PE=1 SV=1
+BraA07g04130C2	NA
+BraA07g04140C2	NA
+BraA07g00810C2	NA
+BraA07g09960C2	NA
+BraA08g11870C2	sp|F4I902|CHS1_ARATH Disease resistance protein CHS1 OS=Arabidopsis thaliana OX=3702 GN=CHS1 PE=1 SV=1
+BraA08g13750C2	sp|Q8GXN2|PTR47_ARATH Protein NRT1/ PTR FAMILY 7.2 OS=Arabidopsis thaliana OX=3702 GN=NPF7.2 PE=2 SV=2
+BraA08g14660C2	NA
+BraA08g17990C2	NA
+BraA08g18750C2	NA
+BraA08g20270C2	NA
+BraA08g21470C2	NA
+BraA08g29380C2	NA
+BraA08g31250C2	NA
+BraA08g39340C2	NA
+BraA08g04670C2	NA
+BraA08g06840C2	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BraA09g13870C2	NA
+BraA09g02710C2	NA
+BraA09g27310C2	NA
+BraA09g31580C2	NA
+BraA09g33270C2	NA
+BraA09g35830C2	sp|O64816|CSK2P_ARATH Casein kinase II subunit alpha-4, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CKA4 PE=2 SV=1
+BraA09g36260C2	NA
+BraA09g38280C2	NA
+BraA09g42620C2	NA
+BraA09g42650C2	NA
+BraA09g45300C2	NA
+BraA09g46570C2	NA
+BraA09g46670C2	NA
+BraA09g47490C2	NA
+BraA09g47500C2	sp|Q7LHG5|YI31B_YEAST Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-I PE=1 SV=2
+BraA09g48950C2	sp|Q9M0Z3|KEA3_ARATH K(+) efflux antiporter 3, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=KEA3 PE=1 SV=2
+BraA09g54090C2	NA
+BraA09g54580C2	NA
+BraA09g54970C2	NA
+BraA09g54980C2	NA
+BraA09g55710C2	NA
+BraA09g56680C2	NA
+BraA09g59910C2	NA
+BraA09g60460C2	NA
+BraA09g65500C2	NA
+BraA09g75400C2	NA
+BraA09g09600C2	sp|Q9LZX1|LOR15_ARATH Protein LURP-one-related 15 OS=Arabidopsis thaliana OX=3702 GN=At5g01750 PE=1 SV=1
+BraA10g10260C2	NA
+BraA10g01350C2	NA
+BraA10g14360C2	NA
+BraA10g18940C2	NA
+BraA10g21220C2	NA
+BraA10g24290C2	NA
+BraA10g24300C2	NA
+BraA10g30040C2	sp|Q9C9L5|WAKLH_ARATH Wall-associated receptor kinase-like 9 OS=Arabidopsis thaliana OX=3702 GN=WAKL9 PE=2 SV=1
+BraU01g00100C2	NA
+BraU01g00390C2	NA
+BraU01g00400C2	NA
+BraU01g00810C2	NA
+BraU01g00900C2	NA
+BraU01g00910C2	NA
+BraU01g01860C2	NA
+BraU01g02590C2	NA
+BraU01g03420C2	NA
+BraU01g03720C2	NA
+BraU01g03730C2	NA
+BraU01g04110C2	NA
+BraU01g07650C2	NA
+BraU01g08670C2	NA
+BraU01g12500C2	NA
+BraU01g13540C2	NA
+BraU01g13760C2	NA
+BraP1g01300C2	NA
+BraP1g01320C2	sp|F4JNB7|RPP5_ARATH Disease resistance protein RPP5 OS=Arabidopsis thaliana OX=3702 GN=RPP5 PE=1 SV=1
+BraP1g01390C2	NA
+BraP1g01420C2	sp|Q8GYH5|BAD1_ARATH Ankyrin repeat-containing protein BDA1 OS=Arabidopsis thaliana OX=3702 GN=BAD1 PE=1 SV=1
+BraP1g01550C2	NA
+BraP1g01750C2	NA
+BraP1g03100C2	NA
+BraP1g03130C2	NA
+BraP1g03350C2	NA
+BraP1g04490C2	NA
+BraP1g04890C2	NA
+BraP1g05320C2	sp|Q9ZUU3|PP190_ARATH Pentatricopeptide repeat-containing protein At2g37230 OS=Arabidopsis thaliana OX=3702 GN=At2g37230 PE=2 SV=1
+BraP1g05500C2	sp|Q9SSN3|TIR_ARATH Toll/interleukin-1 receptor-like protein OS=Arabidopsis thaliana OX=3702 GN=TIR PE=1 SV=1
+BraP1g06710C2	NA
+BraP1g07900C2	sp|P08770|TRA1_MAIZE Putative AC transposase OS=Zea mays OX=4577 PE=2 SV=2
+BraP1g08280C2	sp|Q9SQX9|NAC50_ARATH NAC domain containing protein 50 OS=Arabidopsis thaliana OX=3702 GN=NAC050 PE=1 SV=1
+BraP1g08970C2	NA
+BraP1g10210C2	NA
+BraP1g12510C2	NA
+BraP1g16150C2	sp|O22715|AP1M2_ARATH AP-1 complex subunit mu-2 OS=Arabidopsis thaliana OX=3702 GN=AP1M2 PE=1 SV=1
+BraP1g16940C2	sp|Q9LXT4|PCO5_ARATH Plant cysteine oxidase 5 OS=Arabidopsis thaliana OX=3702 GN=PCO5 PE=1 SV=1
+BraP1g18870C2	NA
+BraP1g19260C2	NA
+BraP1g20560C2	sp|Q8LPS2|ACD6_ARATH Protein ACCELERATED CELL DEATH 6 OS=Arabidopsis thaliana OX=3702 GN=ACD6 PE=1 SV=1
+BraP1g24900C2	NA
+BraP1g28870C2	NA
+BraP1g32090C2	sp|Q9LNT9|ASK4_ARATH SKP1-like protein 4 OS=Arabidopsis thaliana OX=3702 GN=ASK4 PE=1 SV=1
+BraP1g40850C2	NA
+BraP1g44420C2	NA
+BraP1g45400C2	NA
+BraP1g48570C2	sp|Q9FZB1|Y5188_ARATH Probable LRR receptor-like serine/threonine-protein kinase At1g51880 OS=Arabidopsis thaliana OX=3702 GN=At1g51880 PE=2 SV=1
+BraP1g52410C2	sp|Q8LPK2|AB2B_ARATH ABC transporter B family member 2 OS=Arabidopsis thaliana OX=3702 GN=ABCB2 PE=1 SV=3
+BraP1g54320C2	NA
+BraP1g56830C2	sp|F4JT78|RPP2A_ARATH Disease resistance protein RPP2A OS=Arabidopsis thaliana OX=3702 GN=RPP2A PE=2 SV=1
+BraP1g57070C2	NA
+BraP1g57390C2	NA
+BraP1g57580C2	sp|Q3E7S2|FB312_ARATH F-box protein At1g19070 OS=Arabidopsis thaliana OX=3702 GN=At1g19070 PE=2 SV=1
+BraP1g61820C2	NA
+BraP1g65380C2	NA
+BraP1g66310C2	NA
+BraP1g68930C2	NA
+BraP1g68940C2	NA
+BraP1g70190C2	NA
+BraP1g70280C2	sp|O95180|CAC1H_HUMAN Voltage-dependent T-type calcium channel subunit alpha-1H OS=Homo sapiens OX=9606 GN=CACNA1H PE=1 SV=4
+BraP1g70290C2	sp|P59511|ATS20_MOUSE A disintegrin and metalloproteinase with thrombospondin motifs 20 OS=Mus musculus OX=10090 GN=Adamts20 PE=2 SV=2
+BraP1g70340C2	NA
+BraP1g70410C2	sp|Q6DCH7|SBP1B_XENLA Methanethiol oxidase OS=Xenopus laevis OX=8355 GN=selenbp1-b PE=2 SV=1
+BraP1g70450C2	NA
+BraP1g70510C2	NA
+BraP1g70520C2	sp|F4JT82|RPP2C_ARATH Probable disease resistance protein At4g19520 OS=Arabidopsis thaliana OX=3702 GN=At4g19520 PE=3 SV=1
+BraP1g70630C2	sp|Q94K05|TCPQ_ARATH T-complex protein 1 subunit theta OS=Arabidopsis thaliana OX=3702 GN=CCT8 PE=1 SV=1
+BraP1g70660C2	sp|Q8VZC7|DRL36_ARATH Probable disease resistance protein At5g45510 OS=Arabidopsis thaliana OX=3702 GN=At5g45510 PE=1 SV=2
+BraP1g70680C2	NA
+BraP1g70770C2	NA
+BraP1g70840C2	NA
+BraP1g70980C2	NA
+BraP1g71080C2	NA
+BraP1g71250C2	sp|Q9V4U7|C6A14_DROME Probable cytochrome P450 6a14 OS=Drosophila melanogaster OX=7227 GN=Cyp6a14 PE=3 SV=3
+BraP1g71280C2	sp|Q40392|TMVRN_NICGU TMV resistance protein N OS=Nicotiana glutinosa OX=35889 GN=N PE=1 SV=1
+BraP1g71310C2	sp|Q8RXF8|MIRO1_ARATH Mitochondrial Rho GTPase 1 OS=Arabidopsis thaliana OX=3702 GN=MIRO1 PE=1 SV=1
+BraP1g71360C2	sp|P35502|ESTF_MYZPE Esterase FE4 OS=Myzus persicae OX=13164 PE=1 SV=1
+BraP1g71680C2	NA
+BraP1g71760C2	sp|P35501|ESTE_MYZPE Esterase E4 OS=Myzus persicae OX=13164 PE=1 SV=1
+BraP1g72500C2	NA
+BraP1g72810C2	sp|A9X4T1|CHD1_BOMMO Chromodomain-helicase-DNA-binding protein 1 OS=Bombyx mori OX=7091 GN=CHD1 PE=1 SV=1
+BraP1g72840C2	sp|Q99PT0|DDX52_RAT Probable ATP-dependent RNA helicase DDX52 OS=Rattus norvegicus OX=10116 GN=Ddx52 PE=2 SV=1
+BraP1g72910C2	sp|P11733|CU07_LOCMI Cuticle protein 7 OS=Locusta migratoria OX=7004 PE=1 SV=2
+BraP1g73030C2	sp|Q0WVX5|SSY4_ARATH Probable starch synthase 4, chloroplastic/amyloplastic OS=Arabidopsis thaliana OX=3702 GN=SS4 PE=1 SV=1
+BraP1g73110C2	sp|Q9P2N4|ATS9_HUMAN A disintegrin and metalloproteinase with thrombospondin motifs 9 OS=Homo sapiens OX=9606 GN=ADAMTS9 PE=1 SV=4
+BraP1g73150C2	NA
+BraP1g73180C2	NA
+BraP1g73190C2	NA
+BraP1g73240C2	NA
+BraP1g73270C2	sp|B5X2B8|ERAL1_SALSA GTPase Era, mitochondrial OS=Salmo salar OX=8030 GN=eral1 PE=2 SV=1
+BraP1g73840C2	NA
+BraP1g74330C2	sp|Q9V9J3|SRC42_DROME Tyrosine-protein kinase Src42A OS=Drosophila melanogaster OX=7227 GN=Src42A PE=1 SV=1
+BraP1g74380C2	NA
+BraP1g74390C2	sp|Q9ZUM2|TOM3_ARATH Tobamovirus multiplication protein 3 OS=Arabidopsis thaliana OX=3702 GN=TOM3 PE=1 SV=2
+BraP1g74400C2	sp|Q86TV6|TTC7B_HUMAN Tetratricopeptide repeat protein 7B OS=Homo sapiens OX=9606 GN=TTC7B PE=1 SV=3
+BraP1g74540C2	NA
+BraP1g74650C2	NA
+BraP1g74810C2	NA
+BraP1g74820C2	sp|Q9VER6|MODSP_DROME Modular serine protease OS=Drosophila melanogaster OX=7227 GN=modSP PE=1 SV=2
+BraP1g74840C2	sp|Q9TRY9|BGAL_CANLF Beta-galactosidase OS=Canis lupus familiaris OX=9615 GN=GLB1 PE=1 SV=3
+BraP1g74850C2	sp|Q9SGJ6|DRE1E_ARATH Dehydration-responsive element-binding protein 1E OS=Arabidopsis thaliana OX=3702 GN=DREB1E PE=2 SV=1
+BraP1g76180C2	NA
+BraP1g76420C2	sp|Q6ZQ08|CNOT1_MOUSE CCR4-NOT transcription complex subunit 1 OS=Mus musculus OX=10090 GN=Cnot1 PE=1 SV=2
+BraP1g76520C2	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BraP1g76620C2	NA
+BraP1g76710C2	NA
+BraP1g76780C2	sp|P11734|CU08_LOCMI Cuticle protein 8 OS=Locusta migratoria OX=7004 PE=1 SV=1
+BraP1g76790C2	NA
+BraP1g76870C2	sp|Q920Q8|NS1BP_MOUSE Influenza virus NS1A-binding protein homolog OS=Mus musculus OX=10090 GN=Ivns1abp PE=1 SV=2
+BraP1g76880C2	sp|P45583|CU19_LOCMI Cuticle protein 19 OS=Locusta migratoria OX=7004 PE=1 SV=1
+BraP1g77000C2	NA
+BraP1g77010C2	sp|Q9FPS7|UBP20_ARATH Ubiquitin carboxyl-terminal hydrolase 20 OS=Arabidopsis thaliana OX=3702 GN=UBP20 PE=2 SV=1
+BraP1g77490C2	NA
+BraP1g77570C2	sp|Q9C5J3|RRC1_ARATH Protein RRC1 OS=Arabidopsis thaliana OX=3702 GN=RRC1 PE=1 SV=1
+BraP1g77760C2	NA
+BraP1g77800C2	NA
+BraP1g79240C2	NA
+BraP1g79250C2	sp|P49951|CLH1_BOVIN Clathrin heavy chain 1 OS=Bos taurus OX=9913 GN=CLTC PE=1 SV=1
+BraP1g79280C2	sp|Q8BVR6|RSPRY_MOUSE RING finger and SPRY domain-containing protein 1 OS=Mus musculus OX=10090 GN=Rspry1 PE=1 SV=1
+BraP1g79340C2	sp|B7YZU2|LINT_DROME Serine protease filzig OS=Drosophila melanogaster OX=7227 GN=flz PE=2 SV=1
+BraP1g79350C2	sp|Q8NC60|NOA1_HUMAN Nitric oxide-associated protein 1 OS=Homo sapiens OX=9606 GN=NOA1 PE=1 SV=2
+BraP1g79360C2	NA
+BraP1g79380C2	sp|Q8N3U4|STAG2_HUMAN Cohesin subunit SA-2 OS=Homo sapiens OX=9606 GN=STAG2 PE=1 SV=3
+BraP1g79390C2	sp|Q03460|GLSN_MEDSA Glutamate synthase [NADH], amyloplastic OS=Medicago sativa OX=3879 PE=1 SV=1
+BraP1g79400C2	sp|A0JP82|TET3_XENTR Methylcytosine dioxygenase tet3 OS=Xenopus tropicalis OX=8364 GN=tet3 PE=1 SV=1
+BraP1g79410C2	sp|Q23551|UNC22_CAEEL Twitchin OS=Caenorhabditis elegans OX=6239 GN=unc-22 PE=1 SV=3
+BraP1g79420C2	sp|Q9IBG7|KCP_XENLA Kielin/chordin-like protein OS=Xenopus laevis OX=8355 GN=kcp PE=2 SV=1
+BraP1g79430C2	NA
+BraP1g79470C2	sp|Q9LRZ0|TPR2_ARATH Topless-related protein 2 OS=Arabidopsis thaliana OX=3702 GN=TPR2 PE=1 SV=2
+BraP1g79490C2	sp|Q6DIJ4|UBP10_XENTR Ubiquitin carboxyl-terminal hydrolase 10 OS=Xenopus tropicalis OX=8364 GN=usp10 PE=2 SV=1
+BraP1g79510C2	sp|Q9NXZ2|DDX43_HUMAN Probable ATP-dependent RNA helicase DDX43 OS=Homo sapiens OX=9606 GN=DDX43 PE=2 SV=2
+BraP1g79530C2	sp|P0CY46|EGFR_APIME Epidermal growth factor receptor OS=Apis mellifera OX=7460 GN=Egfr PE=2 SV=1
+BraP1g79580C2	NA
+BraP1g79630C2	sp|Q14108|SCRB2_HUMAN Lysosome membrane protein 2 OS=Homo sapiens OX=9606 GN=SCARB2 PE=1 SV=2
+BraP1g79650C2	sp|Q8GYL9|BRXL2_ARATH Protein Brevis radix-like 2 OS=Arabidopsis thaliana OX=3702 GN=BRXL2 PE=2 SV=1
+BraP1g79660C2	NA
+BraP1g79670C2	NA
+BraP1g79680C2	sp|P58545|BTBD3_MOUSE BTB/POZ domain-containing protein 3 OS=Mus musculus OX=10090 GN=Btbd3 PE=2 SV=2
+BraP1g79740C2	sp|O76878|RIPL_DROME RILP-like protein homolog OS=Drosophila melanogaster OX=7227 GN=Rilpl PE=1 SV=1
+BraP1g79760C2	sp|Q9W0S9|DIP2_DROME Disco-interacting protein 2 OS=Drosophila melanogaster OX=7227 GN=DIP2 PE=1 SV=2
+BraP1g79770C2	sp|Q6DBQ8|CPTP_DANRE Ceramide-1-phosphate transfer protein OS=Danio rerio OX=7955 GN=cptp PE=2 SV=1
+BraP1g79780C2	sp|P58743|S26A5_HUMAN Prestin OS=Homo sapiens OX=9606 GN=SLC26A5 PE=2 SV=1
+BraP1g79790C2	sp|P11179|ODO2_BOVIN Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Bos taurus OX=9913 GN=DLST PE=1 SV=2
+BraP1g79870C2	sp|Q9VYN8|TENA_DROME Teneurin-a OS=Drosophila melanogaster OX=7227 GN=Ten-a PE=1 SV=2
+BraP1g79890C2	NA
+BraP1g79940C2	NA
+BraP1g80030C2	NA
+BraP1g80130C2	NA
+BraP1g80140C2	sp|Q6ZQ18|EFR3B_MOUSE Protein EFR3 homolog B OS=Mus musculus OX=10090 GN=Efr3b PE=1 SV=2
+BraP1g80150C2	sp|Q7ZWU7|EST2B_XENLA Extended synaptotagmin-2-B OS=Xenopus laevis OX=8355 GN=esyt2-b PE=2 SV=1
+BraP1g80160C2	NA
+BraP1g80240C2	NA
+BraP1g80330C2	sp|Q9W539|HR4_DROME Hormone receptor 4 OS=Drosophila melanogaster OX=7227 GN=Hr4 PE=1 SV=4
+BraP1g80490C2	sp|Q20930|MIG17_CAEEL Metalloprotease mig-17 OS=Caenorhabditis elegans OX=6239 GN=mig-17 PE=1 SV=3
+BraP1g80510C2	NA
+BraP1g80810C2	sp|Q7QC84|MMSA_ANOGA Probable methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial OS=Anopheles gambiae OX=7165 GN=AGAP002499 PE=3 SV=2
+BraP1g80850C2	NA
+BraP1g80900C2	sp|O42901|YBA9_SCHPO Uncharacterized protein C119.09c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC119.09c PE=2 SV=3
+BraP1g80930C2	sp|Q6TDP4|KLH17_HUMAN Kelch-like protein 17 OS=Homo sapiens OX=9606 GN=KLHL17 PE=1 SV=1
+BraP1g81120C2	sp|P12276|FAS_CHICK Fatty acid synthase OS=Gallus gallus OX=9031 GN=FASN PE=1 SV=5
+BraP1g81150C2	NA
+BraP1g81290C2	NA
+BraP1g81350C2	NA
+BraP1g81700C2	NA
+BraP1g82530C2	sp|P13129|LUCI_LUCCR Luciferin 4-monooxygenase OS=Luciola cruciata OX=7051 PE=1 SV=1
+BraP1g83370C2	NA
+BraP1g83380C2	NA
+BraP1g83430C2	sp|Q8L7Z3|DRE2_ARATH Anamorsin homolog OS=Arabidopsis thaliana OX=3702 GN=At5g18400 PE=1 SV=1
+BraP1g84360C2	NA
+BraP1g84370C2	sp|Q9C0D7|ZC12C_HUMAN Probable ribonuclease ZC3H12C OS=Homo sapiens OX=9606 GN=ZC3H12C PE=1 SV=2
+BraP1g84390C2	sp|Q4F883|SG101_ARATH Senescence-associated carboxylesterase 101 OS=Arabidopsis thaliana OX=3702 GN=SAG101 PE=1 SV=1
+BraP1g84430C2	NA
+BraP1g84440C2	sp|Q5ZM44|CHP1_CHICK Calcineurin B homologous protein 1 OS=Gallus gallus OX=9031 GN=CHP1 PE=1 SV=3
+BraP1g84450C2	sp|P58405|STRN3_RAT Striatin-3 OS=Rattus norvegicus OX=10116 GN=Strn3 PE=1 SV=2
+BraP1g84470C2	sp|Q9VYS3|RENT1_DROME Regulator of nonsense transcripts 1 homolog OS=Drosophila melanogaster OX=7227 GN=Upf1 PE=1 SV=2
+BraP1g84490C2	NA
+BraP1g84500C2	sp|O76902|PKHF1_DROME Pleckstrin homology domain-containing family F member 1 homolog OS=Drosophila melanogaster OX=7227 GN=rush PE=1 SV=1
+BraP1g84540C2	sp|Q5XF89|AT133_MOUSE Probable cation-transporting ATPase 13A3 OS=Mus musculus OX=10090 GN=Atp13a3 PE=1 SV=1
+BraP1g84570C2	NA
+BraP1g84580C2	sp|Q9VPH8|RBBP5_DROME Retinoblastoma-binding protein 5 homolog OS=Drosophila melanogaster OX=7227 GN=Rbbp5 PE=1 SV=2
+BraP1g84600C2	NA
+BraP1g84610C2	sp|Q9V9S7|SYDE_DROME Rho GTPase-activating protein 100F OS=Drosophila melanogaster OX=7227 GN=RhoGAP100F PE=1 SV=2
+BraP1g84630C2	sp|P13217|PIPA_DROME 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase OS=Drosophila melanogaster OX=7227 GN=norpA PE=1 SV=4
+BraP1g84690C2	NA
+BraP1g84710C2	NA
+BraP1g84720C2	sp|O14936|CSKP_HUMAN Peripheral plasma membrane protein CASK OS=Homo sapiens OX=9606 GN=CASK PE=1 SV=3
+BraP1g84730C2	sp|Q9W0S9|DIP2_DROME Disco-interacting protein 2 OS=Drosophila melanogaster OX=7227 GN=DIP2 PE=1 SV=2
+BraP1g84740C2	sp|Q9VC56|PUF_DROME Ubiquitin carboxyl-terminal hydrolase puf OS=Drosophila melanogaster OX=7227 GN=puf PE=1 SV=2
+BraP1g84750C2	sp|P49327|FAS_HUMAN Fatty acid synthase OS=Homo sapiens OX=9606 GN=FASN PE=1 SV=3
+BraP1g84760C2	sp|P49327|FAS_HUMAN Fatty acid synthase OS=Homo sapiens OX=9606 GN=FASN PE=1 SV=3
+BraP1g84780C2	sp|P07207|NOTCH_DROME Neurogenic locus Notch protein OS=Drosophila melanogaster OX=7227 GN=N PE=1 SV=3
+BraP1g84840C2	sp|Q9SIY8|LAC5_ARATH Laccase-5 OS=Arabidopsis thaliana OX=3702 GN=LAC5 PE=2 SV=1
+BraP1g84860C2	sp|P78316|NOP14_HUMAN Nucleolar protein 14 OS=Homo sapiens OX=9606 GN=NOP14 PE=1 SV=3
+BraP1g84890C2	sp|Q5RHZ6|OSGEP_DANRE Probable tRNA N6-adenosine threonylcarbamoyltransferase OS=Danio rerio OX=7955 GN=osgep PE=2 SV=1
+BraP1g84930C2	sp|Q6GLU8|PHAR1_XENLA Phosphatase and actin regulator 1 OS=Xenopus laevis OX=8355 GN=phactr1 PE=2 SV=1
+BraP1g84940C2	sp|P19096|FAS_MOUSE Fatty acid synthase OS=Mus musculus OX=10090 GN=Fasn PE=1 SV=2
+BraP1g84950C2	sp|A8E657|AASS_BOVIN Alpha-aminoadipic semialdehyde synthase, mitochondrial OS=Bos taurus OX=9913 GN=AASS PE=2 SV=1
+BraP1g85030C2	sp|Q7TSU1|BIG2_RAT Brefeldin A-inhibited guanine nucleotide-exchange protein 2 OS=Rattus norvegicus OX=10116 GN=Arfgef2 PE=1 SV=1
+BraP1g85050C2	NA
+BraP1g85070C2	NA
+BraP1g85080C2	sp|Q8C0D4|RHG12_MOUSE Rho GTPase-activating protein 12 OS=Mus musculus OX=10090 GN=Arhgap12 PE=1 SV=2
+BraP1g85100C2	sp|Q6NZZ9|RBM22_DANRE Pre-mRNA-splicing factor RBM22 OS=Danio rerio OX=7955 GN=rbm22 PE=2 SV=1
+BraP1g85110C2	NA
+BraP1g85130C2	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BraP1g85170C2	sp|Q23551|UNC22_CAEEL Twitchin OS=Caenorhabditis elegans OX=6239 GN=unc-22 PE=1 SV=3
+BraP1g85230C2	sp|Q07994|NCPR_MUSDO NADPH--cytochrome P450 reductase OS=Musca domestica OX=7370 PE=2 SV=1
+BraP1g85280C2	sp|Q96KQ7|EHMT2_HUMAN Histone-lysine N-methyltransferase EHMT2 OS=Homo sapiens OX=9606 GN=EHMT2 PE=1 SV=3
+BraP1g85310C2	sp|P29190|PCKG_HAECO Phosphoenolpyruvate carboxykinase [GTP] OS=Haemonchus contortus OX=6289 GN=PEPCK PE=2 SV=1
+BraP1g85320C2	NA
+BraP1g85330C2	sp|Q15326|ZMY11_HUMAN Zinc finger MYND domain-containing protein 11 OS=Homo sapiens OX=9606 GN=ZMYND11 PE=1 SV=2
+BraP1g85380C2	sp|P21439|MDR3_HUMAN Phosphatidylcholine translocator ABCB4 OS=Homo sapiens OX=9606 GN=ABCB4 PE=1 SV=2
+BraP1g85420C2	NA
+BraP1g85460C2	sp|Q5FVA9|RAE1L_XENTR mRNA export factor OS=Xenopus tropicalis OX=8364 GN=rae1 PE=2 SV=1
+BraP1g85540C2	sp|Q9YHZ6|CDC45_XENLA Cell division control protein 45 homolog OS=Xenopus laevis OX=8355 GN=cdc45 PE=1 SV=2
+BraP1g85570C2	NA
+BraP1g85590C2	sp|P25007|PPIA_DROME Peptidyl-prolyl cis-trans isomerase OS=Drosophila melanogaster OX=7227 GN=Cyp1 PE=1 SV=2
+BraP1g85660C2	sp|Q6SJP2|B3A2_HORSE Anion exchange protein 2 OS=Equus caballus OX=9796 GN=SLC4A2 PE=2 SV=1
+BraP1g85680C2	NA
+BraP1g85710C2	NA
+BraP1g85720C2	sp|B4GW22|NCBP1_DROPE Nuclear cap-binding protein subunit 1 OS=Drosophila persimilis OX=7234 GN=Cbp80 PE=3 SV=1
+BraP1g85730C2	NA
+BraP1g85750C2	sp|Q8I6K0|PPAF3_HOLDI Phenoloxidase-activating factor 3 OS=Holotrichia diomphalia OX=33394 GN=PPAF3 PE=1 SV=1
+BraP1g85780C2	NA
+BraP1g85800C2	NA
+BraP1g85810C2	NA
+BraP1g85820C2	NA
+BraP1g85830C2	sp|Q16878|CDO1_HUMAN Cysteine dioxygenase type 1 OS=Homo sapiens OX=9606 GN=CDO1 PE=1 SV=2
+BraP1g85870C2	NA
+BraP1g85880C2	sp|Q9I7U4|TITIN_DROME Titin OS=Drosophila melanogaster OX=7227 GN=sls PE=1 SV=3
+BraP1g85890C2	NA
+BraP1g85990C2	sp|Q56JY1|RL35A_BOVIN 60S ribosomal protein L35a OS=Bos taurus OX=9913 GN=RPL35A PE=3 SV=1
+BraP1g86030C2	sp|P30628|VPP1_CAEEL Probable V-type proton ATPase 116 kDa subunit a OS=Caenorhabditis elegans OX=6239 GN=unc-32 PE=2 SV=3
+BraP1g86040C2	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BraP1g86050C2	sp|Q24298|CADE_DROME DE-cadherin OS=Drosophila melanogaster OX=7227 GN=shg PE=1 SV=2
+BraP1g86070C2	sp|O61307|TENM_DROME Teneurin-m OS=Drosophila melanogaster OX=7227 GN=Ten-m PE=1 SV=2
+BraP1g86150C2	sp|Q68FX0|IDH3B_RAT Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial OS=Rattus norvegicus OX=10116 GN=Idh3B PE=2 SV=1
+BraP1g86170C2	sp|P40798|STC_DROME Protein shuttle craft OS=Drosophila melanogaster OX=7227 GN=stc PE=1 SV=2
+BraP1g86180C2	sp|Q8BYK4|RDH12_MOUSE Retinol dehydrogenase 12 OS=Mus musculus OX=10090 GN=Rdh12 PE=2 SV=1
+BraP1g86200C2	NA
+BraP1g86290C2	NA
+BraP1g86330C2	sp|Q93008|USP9X_HUMAN Probable ubiquitin carboxyl-terminal hydrolase FAF-X OS=Homo sapiens OX=9606 GN=USP9X PE=1 SV=3
+BraP1g86340C2	sp|B4HEJ6|KIBRA_DROSE Protein kibra OS=Drosophila sechellia OX=7238 GN=Kibra PE=3 SV=1
+BraP1g86350C2	sp|Q6P6Z8|ODO1_XENLA 2-oxoglutarate dehydrogenase, mitochondrial OS=Xenopus laevis OX=8355 GN=ogdh PE=2 SV=1
+BraP1g86390C2	NA
+BraP1g86400C2	sp|P81004|VDAC2_XENLA Voltage-dependent anion-selective channel protein 2 OS=Xenopus laevis OX=8355 GN=vdac2 PE=1 SV=1
+BraP1g86410C2	sp|Q9BX10|GTPB2_HUMAN GTP-binding protein 2 OS=Homo sapiens OX=9606 GN=GTPBP2 PE=1 SV=1
+BraP1g86420C2	sp|Q9UBS9|SUCO_HUMAN SUN domain-containing ossification factor OS=Homo sapiens OX=9606 GN=SUCO PE=1 SV=1
+BraP1g86430C2	NA
+BraP1g86480C2	sp|Q9V4U7|C6A14_DROME Probable cytochrome P450 6a14 OS=Drosophila melanogaster OX=7227 GN=Cyp6a14 PE=3 SV=3
+BraP1g86600C2	sp|Q9I7U4|TITIN_DROME Titin OS=Drosophila melanogaster OX=7227 GN=sls PE=1 SV=3
+BraP1g86640C2	sp|O15523|DDX3Y_HUMAN ATP-dependent RNA helicase DDX3Y OS=Homo sapiens OX=9606 GN=DDX3Y PE=1 SV=2
+BraP1g86700C2	NA
+BraP1g86720C2	sp|Q9Y485|DMXL1_HUMAN DmX-like protein 1 OS=Homo sapiens OX=9606 GN=DMXL1 PE=1 SV=3
+BraP1g86790C2	sp|Q8I0G5|COPG_DROME Coatomer subunit gamma OS=Drosophila melanogaster OX=7227 GN=gammaCOP PE=2 SV=1
+BraP1g86810C2	sp|Q99K67|AASS_MOUSE Alpha-aminoadipic semialdehyde synthase, mitochondrial OS=Mus musculus OX=10090 GN=Aass PE=1 SV=1
+BraP1g86840C2	NA
+BraP1g86860C2	NA
+BraP1g86930C2	sp|Q58EX7|PKHG4_HUMAN Puratrophin-1 OS=Homo sapiens OX=9606 GN=PLEKHG4 PE=1 SV=1
+BraP1g87000C2	sp|Q01780|EXOSX_HUMAN Exosome component 10 OS=Homo sapiens OX=9606 GN=EXOSC10 PE=1 SV=2
+BraP1g87090C2	NA
+BraP1g87120C2	sp|P70428|EXT2_MOUSE Exostosin-2 OS=Mus musculus OX=10090 GN=Ext2 PE=1 SV=2
+BraP1g87140C2	sp|P97489|GATA5_MOUSE Transcription factor GATA-5 OS=Mus musculus OX=10090 GN=Gata5 PE=1 SV=2
+BraP1g87160C2	sp|P35574|GDE_RABIT Glycogen debranching enzyme OS=Oryctolagus cuniculus OX=9986 GN=AGL PE=1 SV=1
+BraP1g87170C2	NA
+BraP1g87210C2	sp|Q9C8U2|IAN1_ARATH Immune-associated nucleotide-binding protein 1 OS=Arabidopsis thaliana OX=3702 GN=IAN1 PE=3 SV=1
+BraP1g87280C2	sp|Q5ZHK9|LLPH_CHICK Protein LLP homolog OS=Gallus gallus OX=9031 GN=LLPH PE=3 SV=1
+BraP1g87330C2	NA
+BraP1g87370C2	sp|Q8VEG4|EXD2_MOUSE Exonuclease 3'-5' domain-containing protein 2 OS=Mus musculus OX=10090 GN=Exd2 PE=1 SV=2
+BraP1g87450C2	sp|Q9DBE9|SPB1_MOUSE pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Mus musculus OX=10090 GN=Ftsj3 PE=1 SV=1
+BraP1g87530C2	NA
+BraP1g87620C2	sp|Q6V0I7|FAT4_HUMAN Protocadherin Fat 4 OS=Homo sapiens OX=9606 GN=FAT4 PE=1 SV=2
+BraP1g87640C2	sp|O18598|GST1_BLAGE Glutathione S-transferase OS=Blattella germanica OX=6973 PE=1 SV=3
+BraP1g87760C2	NA
+BraP1g87770C2	sp|O75937|DNJC8_HUMAN DnaJ homolog subfamily C member 8 OS=Homo sapiens OX=9606 GN=DNAJC8 PE=1 SV=2
+BraP1g87880C2	NA
+BraP1g88000C2	sp|Q9VT04|PATH_DROME Proton-coupled amino acid transporter-like protein pathetic OS=Drosophila melanogaster OX=7227 GN=path PE=1 SV=1
+BraP1g88020C2	sp|P16554|NUMB_DROME Protein numb OS=Drosophila melanogaster OX=7227 GN=numb PE=1 SV=2
+BraP1g88070C2	NA
+BraP1g88170C2	NA
+BraP1g88190C2	sp|O15020|SPTN2_HUMAN Spectrin beta chain, non-erythrocytic 2 OS=Homo sapiens OX=9606 GN=SPTBN2 PE=1 SV=3
+BraP1g88280C2	sp|P09875|UD2B1_RAT UDP-glucuronosyltransferase 2B1 OS=Rattus norvegicus OX=10116 GN=Ugt2b1 PE=2 SV=1
+BraP1g88300C2	sp|Q8R1F6|HID1_MOUSE Protein HID1 OS=Mus musculus OX=10090 GN=Hid1 PE=1 SV=1
+BraP1g88310C2	sp|Q9W5D0|Y34F_DROME Uncharacterized protein CG43867 OS=Drosophila melanogaster OX=7227 GN=CG43867 PE=1 SV=4
+BraP1g88600C2	NA
+BraP1g88830C2	sp|B4MU83|NMDA1_DROWI Glutamate [NMDA] receptor subunit 1 OS=Drosophila willistoni OX=7260 GN=Nmdar1 PE=3 SV=1
+BraP1g88840C2	NA
+BraP1g88910C2	sp|Q5ZM72|FACR1_CHICK Fatty acyl-CoA reductase 1 OS=Gallus gallus OX=9031 GN=FAR1 PE=2 SV=1
+BraP1g88920C2	sp|Q96RK0|CIC_HUMAN Protein capicua homolog OS=Homo sapiens OX=9606 GN=CIC PE=1 SV=2
+BraP1g89080C2	sp|P25439|BRM_DROME ATP-dependent helicase brm OS=Drosophila melanogaster OX=7227 GN=brm PE=1 SV=2
+BraP1g89110C2	sp|Q9SU71|EDSBC_ARATH Protein EDS1B OS=Arabidopsis thaliana OX=3702 GN=EDS1B PE=1 SV=1
+BraP1g89360C2	sp|Q6DN90|IQEC1_HUMAN IQ motif and SEC7 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=IQSEC1 PE=1 SV=1
+BraP1g89410C2	NA
+BraP1g90110C2	NA
+BraP1g90140C2	sp|P48375|FKB12_DROME 12 kDa FK506-binding protein OS=Drosophila melanogaster OX=7227 GN=FK506-bp2 PE=3 SV=2
+BraP1g91040C2	NA
+BraP1g91120C2	NA
+BraP1g91420C2	sp|O22719|LHTL3_ARATH Lysine histidine transporter-like 3 OS=Arabidopsis thaliana OX=3702 GN=At1g61270 PE=3 SV=2
+BraP1g91510C2	NA
+BraP1g91580C2	NA
+BraP1g93530C2	NA
+BraP1g93550C2	sp|Q59HJ6|LONM_BOVIN Lon protease homolog, mitochondrial OS=Bos taurus OX=9913 GN=LONP1 PE=1 SV=1
+BraP1g93600C2	NA
+BraP1g93640C2	sp|P43246|MSH2_HUMAN DNA mismatch repair protein Msh2 OS=Homo sapiens OX=9606 GN=MSH2 PE=1 SV=1
+BraP1g93660C2	NA
+BraP1g93670C2	sp|Q9VEN1|FLNA_DROME Filamin-A OS=Drosophila melanogaster OX=7227 GN=cher PE=1 SV=2
+BraP1g93720C2	NA
+BraP1g93790C2	NA
+BraP1g93800C2	sp|Q6P2Z6|NMD3_XENTR 60S ribosomal export protein NMD3 OS=Xenopus tropicalis OX=8364 GN=nmd3 PE=2 SV=1
+BraP1g93830C2	NA
+BraP1g93850C2	sp|Q5SF07|IF2B2_MOUSE Insulin-like growth factor 2 mRNA-binding protein 2 OS=Mus musculus OX=10090 GN=Igf2bp2 PE=1 SV=1
+BraP1g93880C2	sp|Q7Z2Z2|EFL1_HUMAN Elongation factor-like GTPase 1 OS=Homo sapiens OX=9606 GN=EFL1 PE=1 SV=2
+BraP1g93910C2	sp|Q9W0V1|PDPK1_DROME 3-phosphoinositide-dependent protein kinase 1 OS=Drosophila melanogaster OX=7227 GN=Pdk1 PE=1 SV=4
+BraP1g93960C2	sp|Q9VW71|FAT2_DROME Fat-like cadherin-related tumor suppressor homolog OS=Drosophila melanogaster OX=7227 GN=kug PE=2 SV=3
+BraP1g93970C2	sp|Q2TAZ0|ATG2A_HUMAN Autophagy-related protein 2 homolog A OS=Homo sapiens OX=9606 GN=ATG2A PE=1 SV=3
+BraP1g93980C2	sp|Q7PQV7|ADT2_ANOGA ADP,ATP carrier protein 2 OS=Anopheles gambiae OX=7165 GN=AGAP002358 PE=3 SV=2
+BraP1g94000C2	NA
+BraP1g94040C2	sp|O61369|PICO_DROAN Putative inorganic phosphate cotransporter OS=Drosophila ananassae OX=7217 GN=Picot PE=3 SV=1
+BraP1g94050C2	sp|O74889|SAC31_SCHPO SAC3 family protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC576.05 PE=1 SV=1
+BraP1g94070C2	sp|P80517|CU26_ARADI Adult-specific rigid cuticular protein 12.6 OS=Araneus diadematus OX=45920 PE=1 SV=1
+BraP1g94110C2	NA
+BraP1g94130C2	sp|Q9NYG5|APC11_HUMAN Anaphase-promoting complex subunit 11 OS=Homo sapiens OX=9606 GN=ANAPC11 PE=1 SV=1
+BraP1g94140C2	sp|P29993|ITPR_DROME Inositol 1,4,5-trisphosphate receptor OS=Drosophila melanogaster OX=7227 GN=Itpr PE=2 SV=3
+BraP1g94150C2	NA
+BraP1g94170C2	NA
+BraP1g94190C2	sp|P95928|APE2_SACS2 Leucyl aminopeptidase OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=ape2 PE=1 SV=1
+BraP1g94270C2	NA
+BraP1g94310C2	NA
+BraP1g94320C2	sp|Q964R0|CP6K1_BLAGE Cytochrome P450 6k1 OS=Blattella germanica OX=6973 GN=CYP6K1 PE=2 SV=1
+BraP1g94350C2	sp|A6QB84|SYI_SULNB Isoleucine--tRNA ligase OS=Sulfurovum sp. (strain NBC37-1) OX=387093 GN=ileS PE=3 SV=1
+BraP1g94360C2	sp|Q25490|APLP_MANSE Apolipophorins OS=Manduca sexta OX=7130 PE=2 SV=1
+BraP1g94370C2	NA
+BraP1g94390C2	sp|B3LWS4|KIBRA_DROAN Protein kibra OS=Drosophila ananassae OX=7217 GN=Kibra PE=3 SV=1
+BraP1g94400C2	sp|Q7YR76|MYCD_PIG Myocardin OS=Sus scrofa OX=9823 GN=MYOCD PE=2 SV=1
+BraP1g94410C2	sp|Q90WJ3|PAXI1_XENLA PAX-interacting protein 1 OS=Xenopus laevis OX=8355 GN=paxip1 PE=1 SV=1
+BraP1g94440C2	sp|F4JT78|RPP2A_ARATH Disease resistance protein RPP2A OS=Arabidopsis thaliana OX=3702 GN=RPP2A PE=2 SV=1
+BraP1g94480C2	sp|Q2KJG3|SYNC_BOVIN Asparagine--tRNA ligase, cytoplasmic OS=Bos taurus OX=9913 GN=NARS PE=2 SV=3
+BraP1g94570C2	NA
+BraP1g94660C2	NA
+BraP1g94680C2	sp|Q90ZK6|ACVR1_CHICK Activin receptor type-1 OS=Gallus gallus OX=9031 GN=ACVR1 PE=2 SV=1
+BraP1g94710C2	sp|P83994|CU18A_LOCMI Cuticle protein 18.6, isoform A OS=Locusta migratoria OX=7004 PE=1 SV=1
+BraP1g94730C2	sp|Q95078|CP18A_DROME Cytochrome P450 18a1 OS=Drosophila melanogaster OX=7227 GN=Cyp18a1 PE=2 SV=2
+BraP1g94760C2	sp|Q16HH9|MED23_AEDAE Mediator of RNA polymerase II transcription subunit 23 OS=Aedes aegypti OX=7159 GN=MED23 PE=3 SV=1
+BraP1g94790C2	NA
+BraP1g94800C2	NA
+BraP1g94820C2	sp|Q1HDZ5|EIF3B_BOMMO Eukaryotic translation initiation factor 3 subunit B OS=Bombyx mori OX=7091 GN=eIF3-S9 PE=2 SV=1
+BraP1g94830C2	sp|A1L2H9|RFA2B_XENLA Replication protein A 32 kDa subunit-B OS=Xenopus laevis OX=8355 GN=rpa2-b PE=2 SV=1
+BraP1g94860C2	sp|P98160|PGBM_HUMAN Basement membrane-specific heparan sulfate proteoglycan core protein OS=Homo sapiens OX=9606 GN=HSPG2 PE=1 SV=4
+BraP1g94870C2	sp|A3QJU3|COQ8B_DANRE Atypical kinase COQ8B, mitochondrial OS=Danio rerio OX=7955 GN=coq8b PE=3 SV=2
+BraP1g94900C2	sp|Q297L2|NRBP_DROPS Nuclear receptor-binding protein homolog OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Madm PE=3 SV=2
+BraP1g94930C2	sp|Q00963|SPTCB_DROME Spectrin beta chain OS=Drosophila melanogaster OX=7227 GN=beta-Spec PE=1 SV=2
+BraP1g94990C2	sp|Q27772|C1TC_SPOFR C-1-tetrahydrofolate synthase, cytoplasmic OS=Spodoptera frugiperda OX=7108 PE=2 SV=3
+BraP1g95030C2	sp|Q8VHZ7|IMP4_MOUSE U3 small nucleolar ribonucleoprotein protein IMP4 OS=Mus musculus OX=10090 GN=Imp4 PE=2 SV=1
+BraP1g95080C2	sp|Q9BKZ9|FEH1_CAEEL Protein Fe65 homolog OS=Caenorhabditis elegans OX=6239 GN=feh-1 PE=1 SV=2
+BraP1g95110C2	sp|Q96PH1|NOX5_HUMAN NADPH oxidase 5 OS=Homo sapiens OX=9606 GN=NOX5 PE=1 SV=1
+BraP1g95120C2	NA
+BraP1g95160C2	sp|P40796|LA_DROME La protein homolog OS=Drosophila melanogaster OX=7227 GN=La PE=1 SV=2
+BraP1g95180C2	sp|P52899|ODPA_CAEEL Probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=T05H10.6 PE=3 SV=1
+BraP1g95210C2	sp|P21127|CD11B_HUMAN Cyclin-dependent kinase 11B OS=Homo sapiens OX=9606 GN=CDK11B PE=1 SV=4
+BraP1g95220C2	sp|Q9ULH0|KDIS_HUMAN Kinase D-interacting substrate of 220 kDa OS=Homo sapiens OX=9606 GN=KIDINS220 PE=1 SV=3
+BraP1g95240C2	sp|Q29IL2|POMT2_DROPS Protein O-mannosyl-transferase 2 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=tw PE=3 SV=1
+BraP1g95260C2	sp|P12265|BGLR_MOUSE Beta-glucuronidase OS=Mus musculus OX=10090 GN=Gusb PE=1 SV=2
+BraP1g95280C2	sp|Q19417|YSNK_CAEEL Glycosyltransferase family 92 protein F13G3.3 OS=Caenorhabditis elegans OX=6239 GN=F13G3.3 PE=3 SV=2
+BraP1g95310C2	sp|P02468|LAMC1_MOUSE Laminin subunit gamma-1 OS=Mus musculus OX=10090 GN=Lamc1 PE=1 SV=2
+BraP1g95330C2	sp|X1WER2|UBA5_DANRE Ubiquitin-like modifier-activating enzyme 5 OS=Danio rerio OX=7955 GN=uba5 PE=3 SV=2
+BraP1g95350C2	sp|O70496|CLCN7_MOUSE H(+)/Cl(-) exchange transporter 7 OS=Mus musculus OX=10090 GN=Clcn7 PE=1 SV=1
+BraP1g95390C2	NA
+BraP1g95420C2	NA
+BraP1g95440C2	sp|Q9VSR3|ORB2_DROME Translational regulator orb2 OS=Drosophila melanogaster OX=7227 GN=orb2 PE=1 SV=1
+BraP1g95450C2	NA
+BraP1g95510C2	NA
+BraP1g95520C2	sp|Q9WVG9|MS3L1_MOUSE Male-specific lethal 3 homolog OS=Mus musculus OX=10090 GN=Msl3 PE=1 SV=3
+BraP1g95600C2	sp|Q3B7T1|EDRF1_HUMAN Erythroid differentiation-related factor 1 OS=Homo sapiens OX=9606 GN=EDRF1 PE=1 SV=1
+BraP1g95610C2	sp|Q24312|EWG_DROME DNA-binding protein Ewg OS=Drosophila melanogaster OX=7227 GN=ewg PE=2 SV=2
+BraP1g95620C2	sp|P14318|MP20_DROME Muscle-specific protein 20 OS=Drosophila melanogaster OX=7227 GN=Mp20 PE=2 SV=2
+BraP1g95640C2	sp|P54385|DHE3_DROME Glutamate dehydrogenase, mitochondrial OS=Drosophila melanogaster OX=7227 GN=Gdh PE=1 SV=2
+BraP1g95710C2	sp|Q8NFA0|UBP32_HUMAN Ubiquitin carboxyl-terminal hydrolase 32 OS=Homo sapiens OX=9606 GN=USP32 PE=1 SV=1
+BraP1g95720C2	NA
+BraP1g95730C2	NA
+BraP1g95750C2	sp|O16109|VATA_AEDAE V-type proton ATPase catalytic subunit A OS=Aedes aegypti OX=7159 GN=VhaA PE=2 SV=2
+BraP1g95870C2	sp|Q924X2|CPT1B_MOUSE Carnitine O-palmitoyltransferase 1, muscle isoform OS=Mus musculus OX=10090 GN=Cpt1b PE=1 SV=1
+BraP1g95940C2	NA
+BraP1g95950C2	sp|Q24524|SING_DROME Protein singed OS=Drosophila melanogaster OX=7227 GN=sn PE=1 SV=1
+BraP1g95970C2	sp|O77633|ADA10_PIG Disintegrin and metalloproteinase domain-containing protein 10 OS=Sus scrofa OX=9823 GN=ADAM10 PE=2 SV=2
+BraP1g95980C2	sp|Q5ZJP9|CCNL1_CHICK Cyclin-L1 OS=Gallus gallus OX=9031 GN=CCNL1 PE=2 SV=1
+BraP1g96030C2	sp|Q9VUX2|MIB_DROME E3 ubiquitin-protein ligase mind-bomb OS=Drosophila melanogaster OX=7227 GN=mib1 PE=1 SV=3
+BraP1g96070C2	NA
+BraP1g96090C2	NA
+BraP1g96160C2	sp|P49419|AL7A1_HUMAN Alpha-aminoadipic semialdehyde dehydrogenase OS=Homo sapiens OX=9606 GN=ALDH7A1 PE=1 SV=5
+BraP1g96210C2	sp|Q9Y5W8|SNX13_HUMAN Sorting nexin-13 OS=Homo sapiens OX=9606 GN=SNX13 PE=1 SV=4
+BraP1g96230C2	sp|Q9CTG6|AT132_MOUSE Cation-transporting ATPase 13A2 OS=Mus musculus OX=10090 GN=Atp13a2 PE=2 SV=3
+BraP1g96240C2	NA
+BraP1g96250C2	sp|Q9ESJ0|XPO4_MOUSE Exportin-4 OS=Mus musculus OX=10090 GN=Xpo4 PE=1 SV=2
+BraP1g96260C2	sp|P04052|RPB1_DROME DNA-directed RNA polymerase II subunit RPB1 OS=Drosophila melanogaster OX=7227 GN=RpII215 PE=3 SV=4
+BraP1g96300C2	sp|P37276|DYHC_DROME Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster OX=7227 GN=Dhc64C PE=2 SV=2
+BraP1g96310C2	NA
+BraP1g96320C2	sp|Q9VRJ1|SYAM_DROME Alanine--tRNA ligase, mitochondrial OS=Drosophila melanogaster OX=7227 GN=AlaRS-m PE=2 SV=1
+BraP1g96330C2	NA
+BraP1g96350C2	sp|Q80VL1|TDRKH_MOUSE Tudor and KH domain-containing protein OS=Mus musculus OX=10090 GN=Tdrkh PE=1 SV=1
+BraP1g96370C2	sp|P29993|ITPR_DROME Inositol 1,4,5-trisphosphate receptor OS=Drosophila melanogaster OX=7227 GN=Itpr PE=2 SV=3
+BraP1g96500C2	sp|O46037|VINC_DROME Vinculin OS=Drosophila melanogaster OX=7227 GN=Vinc PE=1 SV=1
+BraP1g96510C2	NA
+BraP1g96550C2	sp|Q23551|UNC22_CAEEL Twitchin OS=Caenorhabditis elegans OX=6239 GN=unc-22 PE=1 SV=3
+BraP1g96630C2	sp|Q9NTZ6|RBM12_HUMAN RNA-binding protein 12 OS=Homo sapiens OX=9606 GN=RBM12 PE=1 SV=1
+BraP1g96660C2	sp|Q5VXI9|LIPN_HUMAN Lipase member N OS=Homo sapiens OX=9606 GN=LIPN PE=2 SV=2
+BraP1g96720C2	sp|Q6IQU4|CWC15_DANRE Protein CWC15 homolog OS=Danio rerio OX=7955 GN=cwc15 PE=2 SV=1
+BraP1g96800C2	sp|Q76KB1|HS2ST_CHICK Heparan sulfate 2-O-sulfotransferase 1 OS=Gallus gallus OX=9031 GN=HS2ST1 PE=1 SV=1
+BraP1g96820C2	NA
+BraP1g96840C2	sp|Q99MR8|MCCA_MOUSE Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial OS=Mus musculus OX=10090 GN=Mccc1 PE=1 SV=2
+BraP1g96850C2	sp|Q3UEZ8|NTCP4_MOUSE Sodium/bile acid cotransporter 4 OS=Mus musculus OX=10090 GN=Slc10a4 PE=2 SV=1
+BraP1g96900C2	NA
+BraP1g96910C2	NA
+BraP1g96980C2	sp|O95487|SC24B_HUMAN Protein transport protein Sec24B OS=Homo sapiens OX=9606 GN=SEC24B PE=1 SV=2
+BraP1g97100C2	sp|P14755|CRYL1_RABIT Lambda-crystallin OS=Oryctolagus cuniculus OX=9986 GN=CRYL1 PE=1 SV=3
+BraP1g97110C2	sp|B2RUR8|OTU7B_MOUSE OTU domain-containing protein 7B OS=Mus musculus OX=10090 GN=Otud7b PE=1 SV=1
+BraP1g97190C2	NA
+BraP1g97200C2	NA
+BraP1g97220C2	sp|Q9NDJ2|DOM_DROME Helicase domino OS=Drosophila melanogaster OX=7227 GN=dom PE=1 SV=2
+BraP1g97230C2	sp|Q6DGR4|HGH1_DANRE Protein HGH1 homolog OS=Danio rerio OX=7955 GN=hgh1 PE=2 SV=1
+BraP1g97250C2	NA
+BraP1g97270C2	sp|Q9V8R9|41_DROME Protein 4.1 homolog OS=Drosophila melanogaster OX=7227 GN=cora PE=1 SV=1
+BraP1g97330C2	NA
+BraP1g97360C2	sp|P16621|LAR_DROME Tyrosine-protein phosphatase Lar OS=Drosophila melanogaster OX=7227 GN=Lar PE=1 SV=2
+BraP1g97420C2	sp|Q9VL06|UFD4_DROME E3 ubiquitin-protein ligase Ufd4 OS=Drosophila melanogaster OX=7227 GN=Ufd4 PE=2 SV=1
+BraP1g97450C2	sp|B2LU20|SFXN1_SHEEP Sideroflexin-1 OS=Ovis aries OX=9940 GN=SFXN1 PE=2 SV=1
+BraP1g97550C2	NA
+BraP1g97580C2	sp|Q91738|FAK1_XENLA Focal adhesion kinase 1 OS=Xenopus laevis OX=8355 GN=ptk2 PE=2 SV=2
+BraP1g97600C2	sp|O95405|ZFYV9_HUMAN Zinc finger FYVE domain-containing protein 9 OS=Homo sapiens OX=9606 GN=ZFYVE9 PE=1 SV=2
+BraP1g97610C2	sp|Q8CFG5|CA2D3_RAT Voltage-dependent calcium channel subunit alpha-2/delta-3 OS=Rattus norvegicus OX=10116 GN=Cacna2d3 PE=1 SV=1
+BraP1g97620C2	sp|Q9BMX5|RS6_APLCA 40S ribosomal protein S6 OS=Aplysia californica OX=6500 GN=RPS6 PE=2 SV=1
+BraP1g97650C2	sp|Q9LU93|MAD2_ARATH Mitotic spindle checkpoint protein MAD2 OS=Arabidopsis thaliana OX=3702 GN=MAD2 PE=1 SV=1
+BraP1g97680C2	sp|Q9GKI7|CERT_BOVIN Ceramide transfer protein OS=Bos taurus OX=9913 GN=CERT1 PE=2 SV=1
+BraP1g97700C2	sp|Q90744|NAGAB_CHICK Alpha-N-acetylgalactosaminidase OS=Gallus gallus OX=9031 GN=NAGA PE=1 SV=1
+BraP1g97720C2	NA
+BraP1g97730C2	sp|Q9V5N8|STAN_DROME Protocadherin-like wing polarity protein stan OS=Drosophila melanogaster OX=7227 GN=stan PE=1 SV=4
+BraP1g97790C2	NA
+BraP1g97810C2	sp|Q8R4G9|ACHA3_MOUSE Neuronal acetylcholine receptor subunit alpha-3 OS=Mus musculus OX=10090 GN=Chrna3 PE=2 SV=1
+BraP1g97940C2	sp|Q15382|RHEB_HUMAN GTP-binding protein Rheb OS=Homo sapiens OX=9606 GN=RHEB PE=1 SV=1
+BraP1g98080C2	sp|Q9BQ70|TCF25_HUMAN Transcription factor 25 OS=Homo sapiens OX=9606 GN=TCF25 PE=1 SV=1
+BraP1g98120C2	sp|P0C5E4|PTPRQ_MOUSE Phosphatidylinositol phosphatase PTPRQ OS=Mus musculus OX=10090 GN=Ptprq PE=1 SV=1
+BraP1g98140C2	sp|O75460|ERN1_HUMAN Serine/threonine-protein kinase/endoribonuclease IRE1 OS=Homo sapiens OX=9606 GN=ERN1 PE=1 SV=2
+BraP1g98190C2	sp|Q66JD1|ATPF1_XENTR ATP synthase mitochondrial F1 complex assembly factor 1 OS=Xenopus tropicalis OX=8364 GN=atpaf1 PE=2 SV=1
+BraP1g98220C2	sp|P35992|PTP10_DROME Tyrosine-protein phosphatase 10D OS=Drosophila melanogaster OX=7227 GN=Ptp10D PE=1 SV=4
+BraP1g98250C2	sp|P91645|CAC1A_DROME Voltage-dependent calcium channel type A subunit alpha-1 OS=Drosophila melanogaster OX=7227 GN=cac PE=1 SV=3
+BraP1g98310C2	NA
+BraP1g98410C2	sp|Q9VS29|DSCL_DROME Down syndrome cell adhesion molecule-like protein Dscam2 OS=Drosophila melanogaster OX=7227 GN=Dscam2 PE=2 SV=3
+BraP1g98460C2	sp|Q9CQR6|PPP6_MOUSE Serine/threonine-protein phosphatase 6 catalytic subunit OS=Mus musculus OX=10090 GN=Ppp6c PE=1 SV=1
+BraP1g98470C2	sp|Q9VEG6|PERC_DROME Chorion peroxidase OS=Drosophila melanogaster OX=7227 GN=Pxt PE=2 SV=3
+BraP1g98480C2	sp|Q767L0|ABCF1_PIG ATP-binding cassette sub-family F member 1 OS=Sus scrofa OX=9823 GN=ABCF1 PE=3 SV=1
+BraP1g98500C2	NA
+BraP1g98510C2	sp|Q811A3|PLOD2_RAT Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 OS=Rattus norvegicus OX=10116 GN=Plod2 PE=2 SV=1
+BraP1g98530C2	sp|Q868Z9|PPN_DROME Papilin OS=Drosophila melanogaster OX=7227 GN=Ppn PE=1 SV=2
+BraP1g98550C2	sp|Q8T0G4|CONU_DROME Rho GTPase-activating protein conundrum OS=Drosophila melanogaster OX=7227 GN=conu PE=1 SV=1
+BraP1g98690C2	NA
+BraP1g98720C2	NA
+BraP1g98750C2	sp|Q8CD92|TTC27_MOUSE Tetratricopeptide repeat protein 27 OS=Mus musculus OX=10090 GN=Ttc27 PE=1 SV=2
+BraP1g98760C2	sp|Q8BVG4|DPP9_MOUSE Dipeptidyl peptidase 9 OS=Mus musculus OX=10090 GN=Dpp9 PE=1 SV=2
+BraP1g98970C2	sp|Q8BPM0|DAAM1_MOUSE Disheveled-associated activator of morphogenesis 1 OS=Mus musculus OX=10090 GN=Daam1 PE=1 SV=4
+BraP1g98990C2	sp|Q96RW7|HMCN1_HUMAN Hemicentin-1 OS=Homo sapiens OX=9606 GN=HMCN1 PE=1 SV=2
+BraP1g99080C2	sp|O15943|CADN_DROME Neural-cadherin OS=Drosophila melanogaster OX=7227 GN=CadN PE=1 SV=2
+BraP1g99100C2	sp|Q9VSS2|SRP68_DROME Signal recognition particle subunit SRP68 OS=Drosophila melanogaster OX=7227 GN=Srp68 PE=2 SV=1
+BraP1g99140C2	NA
+BraP1g99190C2	sp|P80147|GABT_PIG 4-aminobutyrate aminotransferase, mitochondrial OS=Sus scrofa OX=9823 GN=ABAT PE=1 SV=2
+BraP1g99240C2	sp|Q19749|ODP2_CAEEL Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=dlat-1 PE=1 SV=1
+BraP1g99320C2	sp|P55201|BRPF1_HUMAN Peregrin OS=Homo sapiens OX=9606 GN=BRPF1 PE=1 SV=2
+BraP1g99330C2	sp|Q8HXM1|CSTF2_BOVIN Cleavage stimulation factor subunit 2 OS=Bos taurus OX=9913 GN=CSTF2 PE=2 SV=1
+BraP1g99350C2	sp|P98164|LRP2_HUMAN Low-density lipoprotein receptor-related protein 2 OS=Homo sapiens OX=9606 GN=LRP2 PE=1 SV=3
+BraP1g99360C2	NA
+BraP1g99380C2	sp|Q5RB37|ITIH3_PONAB Inter-alpha-trypsin inhibitor heavy chain H3 OS=Pongo abelii OX=9601 GN=ITIH3 PE=2 SV=1
+BraP1g99390C2	sp|A1ZA47|ZASP_DROME PDZ and LIM domain protein Zasp OS=Drosophila melanogaster OX=7227 GN=Zasp52 PE=1 SV=2
+BraP1g99420C2	sp|Q7Q5R7|CTLH1_ANOGA CTL-like protein 1 OS=Anopheles gambiae OX=7165 GN=AGAP006244 PE=3 SV=4
+BraP1g99490C2	sp|Q99NG0|ARIP4_MOUSE Helicase ARIP4 OS=Mus musculus OX=10090 GN=Rad54l2 PE=1 SV=1
+BraP1g99630C2	NA
+BraP1g99700C2	sp|Q9W770|SPON1_CHICK Spondin-1 OS=Gallus gallus OX=9031 GN=SPON1 PE=2 SV=1
+BraP1g99770C2	sp|P12785|FAS_RAT Fatty acid synthase OS=Rattus norvegicus OX=10116 GN=Fasn PE=1 SV=3
+BraP1g99830C2	sp|O75376|NCOR1_HUMAN Nuclear receptor corepressor 1 OS=Homo sapiens OX=9606 GN=NCOR1 PE=1 SV=2
+BraP1g99940C2	sp|Q63170|DYH7_RAT Dynein heavy chain 7, axonemal OS=Rattus norvegicus OX=10116 GN=Dnah7 PE=2 SV=2
+BraP1g99990C2	NA
+BraP1g100020C2	sp|H9JIQ1|MESH_BOMMO Protein mesh OS=Bombyx mori OX=7091 PE=1 SV=1
+BraP1g100110C2	sp|G5EBQ8|CHS2_CAEEL Chitin synthase chs-2 OS=Caenorhabditis elegans OX=6239 GN=chs-2 PE=1 SV=1
+BraP1g100290C2	sp|Q8IN94|OSA_DROME Trithorax group protein osa OS=Drosophila melanogaster OX=7227 GN=osa PE=1 SV=1
+BraP1g100330C2	sp|Q9VEX9|SAP18_DROME Histone deacetylase complex subunit SAP18 OS=Drosophila melanogaster OX=7227 GN=Bin1 PE=1 SV=1
+BraP1g100390C2	NA
+BraP1g100410C2	NA
+BraP1g100590C2	NA
+BraP1g100700C2	sp|Q7PLI2|NIPB_DROME Nipped-B protein OS=Drosophila melanogaster OX=7227 GN=Nipped-B PE=1 SV=3
+BraP1g100730C2	sp|Q961D9|BCL9_DROME Protein BCL9 homolog OS=Drosophila melanogaster OX=7227 GN=lgs PE=1 SV=1
+BraP1g100820C2	sp|Q91YJ2|SNX4_MOUSE Sorting nexin-4 OS=Mus musculus OX=10090 GN=Snx4 PE=1 SV=1
+BraP1g100890C2	sp|P12785|FAS_RAT Fatty acid synthase OS=Rattus norvegicus OX=10116 GN=Fasn PE=1 SV=3
+BraP1g100960C2	sp|Q1RMJ7|TSAP1_BOVIN tRNA selenocysteine 1-associated protein 1 OS=Bos taurus OX=9913 GN=TRNAU1AP PE=2 SV=1
+BraP1g101540C2	NA
+BraP1g101550C2	sp|O95373|IPO7_HUMAN Importin-7 OS=Homo sapiens OX=9606 GN=IPO7 PE=1 SV=1
+BraP1g101620C2	NA
+BraP1g101640C2	NA
+BraP1g101670C2	sp|Q24498|RYR_DROME Ryanodine receptor OS=Drosophila melanogaster OX=7227 GN=RyR PE=1 SV=3
+BraP1g102010C2	sp|Q9M0V3|DDB1A_ARATH DNA damage-binding protein 1a OS=Arabidopsis thaliana OX=3702 GN=DDB1A PE=1 SV=1
+BraP1g102020C2	NA
+BraP1g102580C2	sp|Q9UJX6|ANC2_HUMAN Anaphase-promoting complex subunit 2 OS=Homo sapiens OX=9606 GN=ANAPC2 PE=1 SV=1
+BraP1g102630C2	sp|A5D6U8|ACP7_DANRE Acid phosphatase type 7 OS=Danio rerio OX=7955 GN=acp7 PE=2 SV=1
+BraP1g102860C2	sp|P23739|SUIS_RAT Sucrase-isomaltase, intestinal OS=Rattus norvegicus OX=10116 GN=Si PE=1 SV=5
+BraP1g102960C2	sp|Q175F8|GLYR1_AEDAE Putative oxidoreductase GLYR1 homolog OS=Aedes aegypti OX=7159 GN=AAEL006684 PE=3 SV=1
+BraP1g102970C2	sp|P70336|ROCK2_MOUSE Rho-associated protein kinase 2 OS=Mus musculus OX=10090 GN=Rock2 PE=1 SV=1
+BraP1g103460C2	NA
+BraP1g103610C2	sp|Q80TY0|FNBP1_MOUSE Formin-binding protein 1 OS=Mus musculus OX=10090 GN=Fnbp1 PE=1 SV=2
+BraP1g104220C2	NA
+BraP1g104640C2	NA
+BraP1g104890C2	sp|Q8TAQ2|SMRC2_HUMAN SWI/SNF complex subunit SMARCC2 OS=Homo sapiens OX=9606 GN=SMARCC2 PE=1 SV=1
+BraP1g105210C2	sp|Q9SU71|EDSBC_ARATH Protein EDS1B OS=Arabidopsis thaliana OX=3702 GN=EDS1B PE=1 SV=1
+BraP1g105230C2	sp|P29742|CLH_DROME Clathrin heavy chain OS=Drosophila melanogaster OX=7227 GN=Chc PE=1 SV=1
+BraP1g105890C2	NA
+BraP1g105900C2	sp|O81905|SD18_ARATH Receptor-like serine/threonine-protein kinase SD1-8 OS=Arabidopsis thaliana OX=3702 GN=SD18 PE=1 SV=1
+BraP1g106180C2	NA
+BraP1g107380C2	NA
+BraP1g108840C2	sp|Q9V4U7|C6A14_DROME Probable cytochrome P450 6a14 OS=Drosophila melanogaster OX=7227 GN=Cyp6a14 PE=3 SV=3
+BraP1g108990C2	NA
+BraP1g109110C2	sp|Q9FV50|MAP1D_ARATH Methionine aminopeptidase 1D, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=MAP1D PE=1 SV=1
+BraP1g110240C2	NA
+BraP1g111580C2	NA
+BraP1g112450C2	sp|O01639|E75_CHOFU Ecdysone-inducible protein E75 OS=Choristoneura fumiferana OX=7141 GN=E75 PE=2 SV=1
+BraP1g112580C2	NA
+BraP1g112600C2	sp|Q9VCC0|CHRD1_DROME Cysteine and histidine-rich domain-containing protein OS=Drosophila melanogaster OX=7227 GN=CHORD PE=1 SV=1
+BraP1g112610C2	NA
+BraP1g113490C2	sp|Q76MJ5|ERN2_HUMAN Serine/threonine-protein kinase/endoribonuclease IRE2 OS=Homo sapiens OX=9606 GN=ERN2 PE=1 SV=4
+BraP1g113500C2	sp|M9PD06|UBP32_DROME Ubiquitin carboxyl-terminal hydrolase 32 OS=Drosophila melanogaster OX=7227 GN=Usp32 PE=3 SV=1
+BraP1g113540C2	NA
+BraP1g113650C2	NA
+BraP1g113710C2	sp|Q64261|CDK6_MOUSE Cyclin-dependent kinase 6 OS=Mus musculus OX=10090 GN=Cdk6 PE=1 SV=2
+BraP1g113820C2	sp|Q8TC12|RDH11_HUMAN Retinol dehydrogenase 11 OS=Homo sapiens OX=9606 GN=RDH11 PE=1 SV=2
+BraP1g113850C2	NA
+BraP1g114340C2	sp|Q291L4|SYCC_DROPS Cysteine--tRNA ligase, cytoplasmic OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=Aats-cys PE=3 SV=1
+BraP1g114830C2	sp|G5EFJ9|UN103_CAEEL Potassium voltage-gated channel unc-103 OS=Caenorhabditis elegans OX=6239 GN=unc-103 PE=1 SV=1
+BraP1g114920C2	sp|Q9BY12|SCAPE_HUMAN S phase cyclin A-associated protein in the endoplasmic reticulum OS=Homo sapiens OX=9606 GN=SCAPER PE=1 SV=2
+BraP1g114940C2	sp|Q1LVC2|JARD2_DANRE Protein Jumonji OS=Danio rerio OX=7955 GN=jarid2b PE=3 SV=2
+BraP1g114950C2	NA
+BraP1g115030C2	sp|O61613|NMT_DROME Glycylpeptide N-tetradecanoyltransferase OS=Drosophila melanogaster OX=7227 GN=Nmt PE=2 SV=2
+BraP1g115040C2	sp|P91887|AMPN_PLUXY Aminopeptidase N OS=Plutella xylostella OX=51655 GN=APN1 PE=1 SV=1
+BraP1g115050C2	NA
+BraP1g115080C2	sp|Q5E9F9|PRS7_BOVIN 26S proteasome regulatory subunit 7 OS=Bos taurus OX=9913 GN=PSMC2 PE=2 SV=3
+BraP1g115130C2	sp|Q9Z2I9|SUCB1_MOUSE Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial OS=Mus musculus OX=10090 GN=Sucla2 PE=1 SV=2
+BraP1g115180C2	sp|Q28C44|C19L2_XENTR CWF19-like protein 2 OS=Xenopus tropicalis OX=8364 GN=cwf19l2 PE=2 SV=1
+BraP1g115200C2	NA
+BraP1g115230C2	sp|A1L272|S29A4_DANRE Equilibrative nucleoside transporter 4 OS=Danio rerio OX=7955 GN=slc29a4 PE=2 SV=1
+BraP1g115250C2	sp|Q6R327|RICTR_HUMAN Rapamycin-insensitive companion of mTOR OS=Homo sapiens OX=9606 GN=RICTOR PE=1 SV=1
+BraP1g115280C2	sp|Q5XF89|AT133_MOUSE Probable cation-transporting ATPase 13A3 OS=Mus musculus OX=10090 GN=Atp13a3 PE=1 SV=1
+BraP1g115290C2	NA
+BraP1g115380C2	NA
+BraP1g115450C2	sp|Q9Y2L1|RRP44_HUMAN Exosome complex exonuclease RRP44 OS=Homo sapiens OX=9606 GN=DIS3 PE=1 SV=2
+BraP1g115480C2	sp|A8JQX3|NOCT_DROME Nocturnin OS=Drosophila melanogaster OX=7227 GN=cu PE=1 SV=1
+BraP1g115500C2	sp|Q6ZSS7|MFSD6_HUMAN Major facilitator superfamily domain-containing protein 6 OS=Homo sapiens OX=9606 GN=MFSD6 PE=1 SV=2
+BraP1g115530C2	sp|Q4FZW5|SEH1A_XENLA Nucleoporin SEH1-A OS=Xenopus laevis OX=8355 GN=seh1l-a PE=2 SV=1
+BraP1g115540C2	sp|Q16478|GRIK5_HUMAN Glutamate receptor ionotropic, kainate 5 OS=Homo sapiens OX=9606 GN=GRIK5 PE=2 SV=2
+BraP1g115550C2	sp|Q5ZKN1|CDK9_CHICK Cyclin-dependent kinase 9 OS=Gallus gallus OX=9031 GN=CDK9 PE=2 SV=1
+BraP1g115570C2	sp|O88665|BRD7_MOUSE Bromodomain-containing protein 7 OS=Mus musculus OX=10090 GN=Brd7 PE=1 SV=1
+BraP1g115580C2	sp|Q99056|LAC5_TRAVI Laccase-5 OS=Trametes villosa OX=47662 GN=LCC5 PE=3 SV=2
+BraP1g115590C2	sp|Q5VWQ8|DAB2P_HUMAN Disabled homolog 2-interacting protein OS=Homo sapiens OX=9606 GN=DAB2IP PE=1 SV=2
+BraP1g115620C2	sp|Q17GM7|CISY1_AEDAE Probable citrate synthase 1, mitochondrial OS=Aedes aegypti OX=7159 GN=AAEL002956 PE=3 SV=1
+BraP1g115640C2	sp|Q9QZB9|DCTN5_MOUSE Dynactin subunit 5 OS=Mus musculus OX=10090 GN=Dctn5 PE=1 SV=1
+BraP1g115650C2	sp|Q8IUR5|TMTC1_HUMAN Protein O-mannosyl-transferase TMTC1 OS=Homo sapiens OX=9606 GN=TMTC1 PE=1 SV=3
+BraP1g115660C2	sp|Q9V411|NOG1_DROME Nucleolar GTP-binding protein 1 OS=Drosophila melanogaster OX=7227 GN=Non1 PE=2 SV=1
+BraP1g115670C2	NA
+BraP1g115850C2	sp|M9NDE3|BARK_DROME Protein bark beetle OS=Drosophila melanogaster OX=7227 GN=bark PE=1 SV=1
+BraP1g115890C2	sp|Q6DEE7|FA76B_XENLA Protein FAM76B OS=Xenopus laevis OX=8355 GN=fam76b PE=2 SV=1
+BraP1g115910C2	sp|O95340|PAPS2_HUMAN Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2 OS=Homo sapiens OX=9606 GN=PAPSS2 PE=1 SV=2
+BraP1g115920C2	sp|P46863|KL61_DROME Kinesin-like protein Klp61F OS=Drosophila melanogaster OX=7227 GN=Klp61F PE=1 SV=2
+BraP1g115930C2	sp|Q94517|HDAC1_DROME Histone deacetylase HDAC1 OS=Drosophila melanogaster OX=7227 GN=HDAC1 PE=1 SV=2
+BraP1g115970C2	NA
+BraP1g115990C2	NA
+BraP1g116020C2	NA
+BraP1g116030C2	sp|Q8T3L6|FABD_DROME Probable malonyl-CoA-acyl carrier protein transacylase, mitochondrial OS=Drosophila melanogaster OX=7227 GN=beg PE=2 SV=2
+BraP1g116050C2	sp|Q9UL51|HCN2_HUMAN Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 OS=Homo sapiens OX=9606 GN=HCN2 PE=1 SV=3
+BraP1g116060C2	NA
+BraP1g116130C2	NA
+BraP1g116200C2	sp|Q05048|CSTF1_HUMAN Cleavage stimulation factor subunit 1 OS=Homo sapiens OX=9606 GN=CSTF1 PE=1 SV=1
+BraP1g116260C2	NA
+BraP1g116280C2	NA
+BraP1g116540C2	sp|Q2HJ41|PRP18_BOVIN Pre-mRNA-splicing factor 18 OS=Bos taurus OX=9913 GN=PRPF18 PE=2 SV=1
+BraP1g116550C2	sp|Q58DT4|P5CR1_BOVIN Pyrroline-5-carboxylate reductase 1, mitochondrial OS=Bos taurus OX=9913 GN=PYCR1 PE=2 SV=1
+BraP1g117410C2	NA
+BraP1g117780C2	NA
+BraP1g117810C2	NA
+BraP1g117940C2	NA
+BraP1g118830C2	NA
+BraP1g119330C2	sp|A4IGL7|PXDN_XENTR Peroxidasin OS=Xenopus tropicalis OX=8364 GN=pxdn PE=2 SV=1
+BraP1g119520C2	NA
+BraP1g119740C2	sp|Q99315|YG31B_YEAST Transposon Ty3-G Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-G PE=1 SV=3
+BraP1g120810C2	sp|B4GMC3|TMEDE_DROPE Transmembrane emp24 domain-containing protein eca OS=Drosophila persimilis OX=7234 GN=eca PE=3 SV=1
+BraP1g120840C2	sp|P52034|PFKA_DROME ATP-dependent 6-phosphofructokinase OS=Drosophila melanogaster OX=7227 GN=Pfk PE=2 SV=2
+BraP1g120910C2	sp|Q7Z6B7|SRGP1_HUMAN SLIT-ROBO Rho GTPase-activating protein 1 OS=Homo sapiens OX=9606 GN=SRGAP1 PE=1 SV=1
+BraP1g120920C2	sp|P37276|DYHC_DROME Dynein heavy chain, cytoplasmic OS=Drosophila melanogaster OX=7227 GN=Dhc64C PE=2 SV=2
+BraP1g120960C2	sp|Q58DN7|ACSF3_BOVIN Malonate--CoA ligase ACSF3, mitochondrial OS=Bos taurus OX=9913 GN=ACSF3 PE=2 SV=1
+BraP1g121010C2	sp|Q9UBC2|EP15R_HUMAN Epidermal growth factor receptor substrate 15-like 1 OS=Homo sapiens OX=9606 GN=EPS15L1 PE=1 SV=1
+BraP1g121030C2	sp|P49866|HNF4_DROME Transcription factor HNF-4 homolog OS=Drosophila melanogaster OX=7227 GN=Hnf4 PE=1 SV=3
+BraP1g121180C2	sp|Q0KIA2|Y9801_DROME PP2C-like domain-containing protein CG9801 OS=Drosophila melanogaster OX=7227 GN=CG9801 PE=2 SV=1
+BraP1g121260C2	sp|Q86XE3|MICU3_HUMAN Calcium uptake protein 3, mitochondrial OS=Homo sapiens OX=9606 GN=MICU3 PE=1 SV=1
+BraP1g121350C2	NA
+BraP1g121400C2	sp|Q9VAC5|ADA17_DROME ADAM 17-like protease OS=Drosophila melanogaster OX=7227 GN=Tace PE=2 SV=2
+BraP1g122130C2	NA
+BraP1g123950C2	NA
+BraP1g125800C2	NA
+BraP1g126010C2	sp|Q9FH87|PP447_ARATH Putative pentatricopeptide repeat-containing protein At5g65820 OS=Arabidopsis thaliana OX=3702 GN=At5g65820 PE=3 SV=1
+BraP1g126680C2	sp|Q9M0V3|DDB1A_ARATH DNA damage-binding protein 1a OS=Arabidopsis thaliana OX=3702 GN=DDB1A PE=1 SV=1
+BraP1g126950C2	NA
+BraP1g128300C2	sp|Q8L540|LTO1_ARATH Thiol-disulfide oxidoreductase LTO1 OS=Arabidopsis thaliana OX=3702 GN=LTO1 PE=1 SV=1
+BraP1g128320C2	NA
+BraP1g128630C2	NA
+BraP1g128640C2	NA
+BraP1g129070C2	NA
+BraP1g129890C2	NA
+BraP1g130070C2	NA
+BraP1g131030C2	sp|Q8RXF8|MIRO1_ARATH Mitochondrial Rho GTPase 1 OS=Arabidopsis thaliana OX=3702 GN=MIRO1 PE=1 SV=1
+BraP1g131420C2	NA

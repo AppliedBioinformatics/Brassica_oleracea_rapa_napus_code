@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0043531	ADP binding	652	369	216.65	< 1e-30
+GO:0003953	NAD+ nucleosidase activity	338	216	112.31	< 1e-30
+GO:0050135	NAD(P)+ nucleosidase activity	338	216	112.31	< 1e-30
+GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose gen...	338	216	112.31	< 1e-30
+GO:0016799	hydrolase activity, hydrolyzing N-glycos...	453	266	150.53	6.6e-29
+GO:0032553	ribonucleotide binding	10808	3908	3591.37	5.6e-13
+GO:0097367	carbohydrate derivative binding	10933	3947	3632.91	1.1e-12
+GO:0032555	purine ribonucleotide binding	10682	3854	3549.5	3.1e-12
+GO:0017076	purine nucleotide binding	10694	3858	3553.49	3.2e-12
+GO:0030554	adenyl nucleotide binding	9726	3524	3231.84	4.0e-12
+GO:0032559	adenyl ribonucleotide binding	9718	3521	3229.18	4.1e-12
+GO:0008144	drug binding	10173	3666	3380.37	2.5e-11
+GO:0035639	purine ribonucleoside triphosphate bindi...	10494	3774	3487.03	3.5e-11
+GO:0005524	ATP binding	9530	3441	3166.71	4.8e-11
+GO:0000166	nucleotide binding	11881	4230	3947.92	4.7e-10
+GO:1901265	nucleoside phosphate binding	11881	4230	3947.92	4.7e-10
+GO:0036094	small molecule binding	12692	4503	4217.4	7.2e-10
+GO:0043168	anion binding	12678	4487	4212.75	3.1e-09
+GO:0016810	hydrolase activity, acting on carbon-nit...	479	214	159.17	1.1e-07
+GO:0140097	catalytic activity, acting on DNA	1395	555	463.54	1.2e-07
+GO:0043167	ion binding	24154	8303	8026.09	4.2e-07
+GO:0016811	hydrolase activity, acting on carbon-nit...	269	126	89.39	2.4e-06
+GO:0030275	LRR domain binding	31	23	10.3	3.6e-06
+GO:0004747	ribokinase activity	22	18	7.31	3.9e-06
+GO:1901363	heterocyclic compound binding	26477	9051	8798	4.2e-06
+GO:0003916	DNA topoisomerase activity	54	34	17.94	7.4e-06
+GO:0097159	organic cyclic compound binding	26553	9069	8823.25	7.6e-06
+GO:0080150	S-adenosyl-L-methionine:benzoic acid car...	38	26	12.63	9.7e-06
+GO:0003735	structural constituent of ribosome	1436	551	477.17	1.9e-05
+GO:0008121	ubiquinol-cytochrome-c reductase activit...	26	19	8.64	3.8e-05

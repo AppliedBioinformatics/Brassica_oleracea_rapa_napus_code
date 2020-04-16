@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0005737	cytoplasm	22744	7137	6321.45	< 1e-30
+GO:0044422	organelle part	13495	4532	3750.79	< 1e-30
+GO:0044446	intracellular organelle part	13459	4513	3740.78	< 1e-30
+GO:0044444	cytoplasmic part	19383	6098	5387.3	< 1e-30
+GO:0032991	protein-containing complex	7277	2580	2022.56	< 1e-30
+GO:0005622	intracellular	30263	8840	8411.28	< 1e-30
+GO:0044424	intracellular part	30263	8840	8411.28	< 1e-30
+GO:0044428	nuclear part	3843	1384	1068.12	< 1e-30
+GO:0005623	cell	33740	9632	9377.67	< 1e-30
+GO:0044464	cell part	33699	9616	9366.27	2.2e-30
+GO:0031974	membrane-enclosed lumen	3570	1288	992.24	3.8e-30
+GO:0043233	organelle lumen	3570	1288	992.24	3.8e-30
+GO:0070013	intracellular organelle lumen	3570	1288	992.24	3.8e-30
+GO:0043228	non-membrane-bounded organelle	4622	1597	1284.64	2.8e-27
+GO:0043232	intracellular non-membrane-bounded organ...	4622	1597	1284.64	2.8e-27
+GO:0031981	nuclear lumen	3012	1079	837.15	6.5e-24
+GO:0005829	cytosol	8075	2601	2244.36	1.7e-23
+GO:1902494	catalytic complex	2333	856	648.43	2.7e-22
+GO:0005739	mitochondrion	3718	1281	1033.38	3.7e-21
+GO:0043226	organelle	27130	7882	7540.49	1.5e-20
+GO:0043229	intracellular organelle	27087	7863	7528.54	1.0e-19
+GO:0097458	neuron part	184	110	51.14	1.1e-19
+GO:0005856	cytoskeleton	1248	491	346.87	2.0e-19
+GO:0044430	cytoskeletal part	987	395	274.33	3.1e-17
+GO:0099081	supramolecular polymer	676	288	187.89	5.7e-17
+GO:0099512	supramolecular fiber	676	288	187.89	5.7e-17
+GO:0045202	synapse	142	86	39.47	3.3e-16
+GO:0005654	nucleoplasm	1540	571	428.03	3.9e-16
+GO:0099080	supramolecular complex	685	288	190.39	4.5e-16
+GO:0030016	myofibril	27	27	7.5	9.5e-16

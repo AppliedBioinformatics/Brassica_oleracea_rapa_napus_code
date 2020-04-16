@@ -1,0 +1,954 @@
+BnaA01g32250D3	NA
+BnaA01g38170D3	NA
+BnaA01g38250D3	NA
+BnaC01g63910D3	NA
+BnaC01g65740D3	sp|F4J339|RPP1_ARATH Probable disease resistance protein RPP1 OS=Arabidopsis thaliana OX=3702 GN=RPP1 PE=1 SV=1
+BnaC01g65210D3	NA
+BnaA02g12800D3	NA
+BnaA02g34870D3	sp|Q9ASQ6|Y1972_ARATH Probable LRR receptor-like serine/threonine-protein kinase At1g29720 OS=Arabidopsis thaliana OX=3702 GN=RFK1 PE=2 SV=3
+BnaA02g40370D3	sp|Q9LE59|GAUT1_ARATH Polygalacturonate 4-alpha-galacturonosyltransferase OS=Arabidopsis thaliana OX=3702 GN=GAUT1 PE=1 SV=1
+BnaA02g43470D3	NA
+BnaA02g09260D3	NA
+BnaA02g10340D3	NA
+BnaA03g06740D3	sp|Q9ASS4|Y5838_ARATH Probably inactive leucine-rich repeat receptor-like protein kinase At5g48380 OS=Arabidopsis thaliana OX=3702 GN=At5g48380 PE=1 SV=1
+BnaA03g19310D3	NA
+BnaA03g19320D3	sp|Q56XW8|FBL30_ARATH F-box/LRR-repeat protein At1g48400 OS=Arabidopsis thaliana OX=3702 GN=At1g48400 PE=2 SV=2
+BnaA03g19720D3	NA
+BnaA03g50610D3	NA
+BnaA03g50620D3	NA
+BnaA03g50720D3	NA
+BnaA03g50780D3	NA
+BnaA02g01070D3	NA
+BnaA04g12820D3	NA
+BnaA04g14100D3	NA
+BnaA04g14620D3	NA
+BnaA04g15130D3	NA
+BnaA04g17630D3	NA
+BnaA04g17680D3	NA
+BnaA05g09510D3	NA
+BnaA01g14190D3	NA
+BnaU01g29690D3	NA
+BnaU01g29670D3	NA
+BnaA05g19160D3	sp|Q9SZ67|WRK19_ARATH Probable WRKY transcription factor 19 OS=Arabidopsis thaliana OX=3702 GN=WRKY19 PE=3 SV=1
+BnaA05g17730D3	NA
+BnaA05g16270D3	NA
+BnaA05g14340D3	NA
+BnaC02g61380D3	sp|Q7LHG5|YI31B_YEAST Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-I PE=1 SV=2
+BnaA05g28570D3	NA
+BnaA05g28580D3	NA
+BnaA05g42720D3	NA
+BnaC05g15750D3	sp|Q9FZ52|FDL3_ARATH F-box/FBD/LRR-repeat protein At1g16930 OS=Arabidopsis thaliana OX=3702 GN=At1g16930 PE=2 SV=1
+BnaC05g15760D3	sp|Q9FZ52|FDL3_ARATH F-box/FBD/LRR-repeat protein At1g16930 OS=Arabidopsis thaliana OX=3702 GN=At1g16930 PE=2 SV=1
+BnaC05g15850D3	sp|Q9FZ52|FDL3_ARATH F-box/FBD/LRR-repeat protein At1g16930 OS=Arabidopsis thaliana OX=3702 GN=At1g16930 PE=2 SV=1
+BnaA06g02000D3	sp|Q8RZA1|UMPS2_ORYSJ Uridine 5'-monophosphate synthase OS=Oryza sativa subsp. japonica OX=39947 GN=UMPS2 PE=2 SV=1
+BnaA06g14700D3	NA
+BnaA06g23180D3	NA
+BnaA06g23620D3	NA
+BnaA06g25260D3	NA
+BnaA06g10150D3	NA
+BnaA06g10260D3	NA
+BnaA06g10620D3	NA
+BnaC07g35130D3	NA
+BnaA07g15510D3	sp|B5X561|SHA_ARATH SH2 domain-containing protein A OS=Arabidopsis thaliana OX=3702 GN=SHA PE=1 SV=1
+BnaA07g14970D3	sp|Q9SMZ4|AASS_ARATH Alpha-aminoadipic semialdehyde synthase OS=Arabidopsis thaliana OX=3702 GN=LKR/SDH PE=1 SV=1
+BnaA07g05030D3	NA
+BnaA07g24730D3	NA
+BnaC07g72370D3	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BnaC07g72500D3	sp|Q84W65|SUFE1_ARATH SufE-like protein 1, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=SUFE1 PE=1 SV=2
+BnaA07g07410D3	sp|Q9SIF2|HS905_ARATH Heat shock protein 90-5, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=HSP90-5 PE=1 SV=1
+BnaA07g07120D3	NA
+BnaA07g00670D3	NA
+BnaA08g12540D3	NA
+BnaA08g12580D3	NA
+BnaA08g12590D3	NA
+BnaA08g08940D3	sp|F4HWL4|SYYC2_ARATH Tyrosine--tRNA ligase 2, cytoplasmic OS=Arabidopsis thaliana OX=3702 GN=At1g28350 PE=1 SV=1
+BnaA08g17060D3	NA
+BnaA08g02290D3	sp|Q9LQ31|JAL4_ARATH Jacalin-related lectin 4 OS=Arabidopsis thaliana OX=3702 GN=JAL4 PE=2 SV=1
+BnaA07g38210D3	NA
+BnaA07g41120D3	sp|Q9SKK2|RLP21_ARATH Receptor like protein 21 OS=Arabidopsis thaliana OX=3702 GN=RLP21 PE=3 SV=2
+BnaA07g44840D3	NA
+BnaA08g22200D3	sp|F4JUY5|GAMT1_ARATH Gibberellic acid methyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=GAMT1 PE=1 SV=1
+BnaA08g23440D3	sp|Q9FL92|RRS1B_ARATH Disease resistance protein RRS1B OS=Arabidopsis thaliana OX=3702 GN=RRS1B PE=1 SV=1
+BnaA08g04900D3	NA
+BnaA09g15040D3	NA
+BnaA09g21870D3	NA
+BnaA09g26400D3	NA
+BnaA09g32190D3	NA
+BnaA09g35750D3	NA
+BnaA09g38860D3	NA
+BnaA09g43060D3	NA
+BnaA09g55060D3	sp|Q9C5C0|MPK18_ARATH Mitogen-activated protein kinase 18 OS=Arabidopsis thaliana OX=3702 GN=MPK18 PE=1 SV=4
+BnaA09g62390D3	NA
+BnaA09g64260D3	sp|Q8GXN6|VP201_ARATH Vacuolar protein sorting-associated protein 20 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=VPS20.1 PE=1 SV=1
+BnaA06g33060D3	NA
+BnaA06g35740D3	sp|F4K1B1|RPAP2_ARATH Putative RNA polymerase II subunit B1 CTD phosphatase RPAP2 homolog OS=Arabidopsis thaliana OX=3702 GN=At5g26760 PE=2 SV=1
+BnaA10g27950D3	NA
+BnaA10g02780D3	NA
+BnaA10g04190D3	NA
+BnaA10g01400D3	NA
+BnaA10g06610D3	NA
+BnaA10g00910D3	sp|F4KCE9|KNL2_ARATH Kinetochore-associated protein KNL-2 homolog OS=Arabidopsis thaliana OX=3702 GN=KNL2 PE=1 SV=1
+BnaA10g07820D3	NA
+BnaA10g07900D3	NA
+BnaC01g10490D3	sp|Q9SFF6|PAE12_ARATH Pectin acetylesterase 12 OS=Arabidopsis thaliana OX=3702 GN=PAE12 PE=2 SV=1
+BnaC01g10590D3	NA
+BnaC01g10660D3	sp|Q9SFF6|PAE12_ARATH Pectin acetylesterase 12 OS=Arabidopsis thaliana OX=3702 GN=PAE12 PE=2 SV=1
+BnaC01g11270D3	sp|Q9M0U2|FB222_ARATH Putative F-box protein At4g05620 OS=Arabidopsis thaliana OX=3702 GN=At4g05620 PE=4 SV=1
+BnaC01g11530D3	NA
+BnaC01g11910D3	sp|Q8GT73|BH119_ARATH Transcription factor bHLH119 OS=Arabidopsis thaliana OX=3702 GN=BHLH119 PE=2 SV=2
+BnaC01g11940D3	NA
+BnaC01g12650D3	sp|Q9S7T7|SCC11_ARATH Sister chromatid cohesion 1 protein 1 OS=Arabidopsis thaliana OX=3702 GN=SYN1 PE=2 SV=2
+BnaC01g12660D3	sp|Q9LHT0|TRNHF_ARATH Tropinone reductase homolog At5g06060 OS=Arabidopsis thaliana OX=3702 GN=At5g06060 PE=2 SV=1
+BnaC01g12670D3	NA
+BnaC01g12680D3	sp|Q9S7T7|SCC11_ARATH Sister chromatid cohesion 1 protein 1 OS=Arabidopsis thaliana OX=3702 GN=SYN1 PE=2 SV=2
+BnaC01g14190D3	NA
+BnaC01g14510D3	NA
+BnaC01g23070D3	NA
+BnaC01g23080D3	NA
+BnaC01g23090D3	NA
+BnaC01g25330D3	sp|O04244|Y4200_ARATH Uncharacterized protein At4g02000 OS=Arabidopsis thaliana OX=3702 GN=At4g02000 PE=2 SV=1
+BnaC01g25440D3	NA
+BnaC01g25970D3	NA
+BnaC01g26000D3	NA
+BnaC01g26500D3	NA
+BnaC01g26510D3	NA
+BnaC01g26520D3	NA
+BnaC04g37030D3	NA
+BnaC04g38140D3	sp|Q9C800|FB34_ARATH Putative F-box protein At1g33530 OS=Arabidopsis thaliana OX=3702 GN=At1g33530 PE=4 SV=1
+BnaC04g38150D3	NA
+BnaC04g39050D3	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BnaC04g40080D3	sp|Q7LHG5|YI31B_YEAST Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-I PE=1 SV=2
+BnaC04g41210D3	sp|C0LGG3|Y5182_ARATH Probable LRR receptor-like serine/threonine-protein kinase At1g51820 OS=Arabidopsis thaliana OX=3702 GN=At1g51820 PE=1 SV=1
+BnaC04g41370D3	NA
+BnaC04g41380D3	NA
+BnaC04g41390D3	NA
+BnaC04g41510D3	sp|Q9M2F9|RH52_ARATH DEAD-box ATP-dependent RNA helicase 52 OS=Arabidopsis thaliana OX=3702 GN=RH52 PE=1 SV=1
+BnaC04g41540D3	NA
+BnaC01g34670D3	NA
+BnaC01g34680D3	NA
+BnaC01g34720D3	NA
+BnaC01g34730D3	NA
+BnaC01g37750D3	NA
+BnaC01g37760D3	NA
+BnaC01g38380D3	NA
+BnaC01g38400D3	NA
+BnaC01g38580D3	sp|C0Z361|CPNB3_ARATH Chaperonin 60 subunit beta 3, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CPN60B3 PE=1 SV=1
+BnaC01g38610D3	NA
+BnaC04g35420D3	sp|Q9SI72|PMEI9_ARATH Pectinesterase inhibitor 9 OS=Arabidopsis thaliana OX=3702 GN=PMEI9 PE=2 SV=1
+BnaC01g05490D3	NA
+BnaC01g45930D3	NA
+BnaC01g46040D3	NA
+BnaC03g34960D3	NA
+BnaC01g47660D3	NA
+BnaC01g49040D3	NA
+BnaC01g49510D3	sp|P25248|ACEA_BRANA Isocitrate lyase OS=Brassica napus OX=3708 PE=2 SV=1
+BnaC01g49520D3	NA
+BnaC01g49980D3	sp|P52410|KASC1_ARATH 3-oxoacyl-[acyl-carrier-protein] synthase I, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=KAS1 PE=1 SV=2
+BnaC01g50890D3	NA
+BnaC01g51610D3	NA
+BnaC01g51890D3	sp|Q9LJX8|VPED_ARATH Vacuolar-processing enzyme delta-isozyme OS=Arabidopsis thaliana OX=3702 GN=dVPE PE=1 SV=1
+BnaC01g52170D3	sp|Q03274|PO22_POPJA Retrovirus-related Pol polyprotein from type-1 retrotransposable element R2 (Fragment) OS=Popillia japonica OX=7064 PE=4 SV=1
+BnaC01g54820D3	NA
+BnaC01g54830D3	sp|Q99315|YG31B_YEAST Transposon Ty3-G Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-G PE=1 SV=3
+BnaC01g55460D3	sp|P10978|POLX_TOBAC Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum OX=4097 PE=2 SV=1
+BnaC03g35870D3	sp|Q9SMY7|PME44_ARATH Probable pectinesterase/pectinesterase inhibitor 44 OS=Arabidopsis thaliana OX=3702 GN=PME44 PE=2 SV=2
+BnaC01g06900D3	NA
+BnaC01g61950D3	NA
+BnaC01g58830D3	NA
+BnaC01g58610D3	NA
+BnaC01g57070D3	sp|O04244|Y4200_ARATH Uncharacterized protein At4g02000 OS=Arabidopsis thaliana OX=3702 GN=At4g02000 PE=2 SV=1
+BnaC01g64270D3	NA
+BnaC01g08930D3	NA
+BnaA02g07110D3	NA
+BnaC02g03020D3	sp|Q8GYY1|HSFA3_ARATH Heat stress transcription factor A-3 OS=Arabidopsis thaliana OX=3702 GN=HSFA3 PE=1 SV=2
+BnaC02g03000D3	NA
+BnaC02g15150D3	sp|Q9FN93|Y5596_ARATH Probable LRR receptor-like serine/threonine-protein kinase At5g59680 OS=Arabidopsis thaliana OX=3702 GN=At5g59680 PE=1 SV=1
+BnaC02g18920D3	NA
+BnaC02g19130D3	sp|O00370|LORF2_HUMAN LINE-1 retrotransposable element ORF2 protein OS=Homo sapiens OX=9606 PE=1 SV=1
+BnaC02g19280D3	sp|Q9LQ27|TPS22_ARATH Terpenoid synthase 22 OS=Arabidopsis thaliana OX=3702 GN=TPS22 PE=2 SV=2
+BnaC02g19360D3	NA
+BnaC02g20690D3	sp|Q9FI78|HST_ARATH Shikimate O-hydroxycinnamoyltransferase OS=Arabidopsis thaliana OX=3702 GN=HST PE=1 SV=1
+BnaC09g38700D3	NA
+BnaC09g38690D3	NA
+BnaC02g36490D3	NA
+BnaC02g36750D3	NA
+BnaC02g37280D3	sp|Q96254|GDI1_ARATH Guanosine nucleotide diphosphate dissociation inhibitor 1 OS=Arabidopsis thaliana OX=3702 GN=GDI1 PE=1 SV=1
+BnaC02g39280D3	NA
+BnaA02g21160D3	NA
+BnaA02g21130D3	NA
+BnaA02g21060D3	NA
+BnaC02g40030D3	NA
+BnaC02g41020D3	NA
+BnaC02g41030D3	NA
+BnaC02g41200D3	sp|Q56X72|RTNLS_ARATH Reticulon-like protein B21 OS=Arabidopsis thaliana OX=3702 GN=RTNLB21 PE=2 SV=2
+BnaC02g41220D3	sp|O65351|SBT17_ARATH Subtilisin-like protease SBT1.7 OS=Arabidopsis thaliana OX=3702 GN=SBT1.7 PE=1 SV=1
+BnaC02g37790D3	NA
+BnaC02g37820D3	NA
+BnaC02g44730D3	NA
+BnaC02g08010D3	sp|Q8RUF8|NILP3_ARATH Omega-amidase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=NLP3 PE=1 SV=1
+BnaC02g44690D3	NA
+BnaC02g44670D3	NA
+BnaC02g43510D3	NA
+BnaC02g42420D3	NA
+BnaC02g42410D3	NA
+BnaC02g55030D3	NA
+BnaC02g48120D3	NA
+BnaC02g68300D3	NA
+BnaC02g69260D3	NA
+BnaC02g69320D3	NA
+BnaC02g71120D3	sp|Q4KSH9|BARS_ARATH Alpha-barbatene synthase OS=Arabidopsis thaliana OX=3702 GN=BS PE=1 SV=2
+BnaC02g71400D3	sp|P36397|ARF1_ARATH ADP-ribosylation factor 1 OS=Arabidopsis thaliana OX=3702 GN=ARF1 PE=1 SV=2
+BnaC02g71410D3	sp|Q9M2R0|FTIP3_ARATH FT-interacting protein 3 OS=Arabidopsis thaliana OX=3702 GN=FTIP3 PE=1 SV=1
+BnaC02g71420D3	sp|Q9M2R0|FTIP3_ARATH FT-interacting protein 3 OS=Arabidopsis thaliana OX=3702 GN=FTIP3 PE=1 SV=1
+BnaC02g71450D3	NA
+BnaC02g71490D3	NA
+BnaC02g71520D3	NA
+BnaC02g72120D3	sp|Q9FKK2|AGL62_ARATH Agamous-like MADS-box protein AGL62 OS=Arabidopsis thaliana OX=3702 GN=AGL62 PE=1 SV=1
+BnaC02g09000D3	sp|Q3ECL0|RLF9_ARATH Protein RALF-like 9 OS=Arabidopsis thaliana OX=3702 GN=RALFL9 PE=3 SV=1
+BnaC02g09030D3	NA
+BnaC02g09060D3	NA
+BnaC02g09120D3	NA
+BnaC02g09190D3	NA
+BnaC02g75590D3	sp|Q9LK43|TMK4_ARATH Receptor-like kinase TMK4 OS=Arabidopsis thaliana OX=3702 GN=TMK4 PE=1 SV=1
+BnaC02g75600D3	sp|Q9LK43|TMK4_ARATH Receptor-like kinase TMK4 OS=Arabidopsis thaliana OX=3702 GN=TMK4 PE=1 SV=1
+BnaC02g75630D3	sp|P17818|CHSY_MATIN Chalcone synthase OS=Matthiola incana OX=3724 GN=CHS PE=2 SV=1
+BnaC02g75760D3	sp|Q0WWE3|QCR61_ARATH Cytochrome b-c1 complex subunit 6-1, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=QCR6-1 PE=1 SV=1
+BnaC02g78980D3	NA
+BnaA05g23760D3	sp|Q9VHI7|IRU_DROME E3 ubiquitin-protein ligase Iruka OS=Drosophila melanogaster OX=7227 GN=Iru PE=1 SV=1
+BnaC02g11330D3	NA
+BnaC02g92500D3	NA
+BnaC02g26520D3	sp|Q93Y31|ARL8B_ARATH ADP-ribosylation factor-like protein 8b OS=Arabidopsis thaliana OX=3702 GN=ARL8B PE=2 SV=1
+BnaC02g12480D3	NA
+BnaC02g12500D3	NA
+BnaC02g03200D3	NA
+BnaC02g12640D3	NA
+BnaC02g12780D3	sp|Q8LPJ4|AB2E_ARATH ABC transporter E family member 2 OS=Arabidopsis thaliana OX=3702 GN=ABCE2 PE=2 SV=1
+BnaC02g12790D3	sp|Q8LPJ4|AB2E_ARATH ABC transporter E family member 2 OS=Arabidopsis thaliana OX=3702 GN=ABCE2 PE=2 SV=1
+BnaC02g12800D3	NA
+BnaC02g12830D3	NA
+BnaC03g94540D3	NA
+BnaC03g10510D3	sp|Q93ZK9|FDL29_ARATH F-box/FBD/LRR-repeat protein At5g18770 OS=Arabidopsis thaliana OX=3702 GN=At5g18770 PE=2 SV=1
+BnaC03g01290D3	sp|Q9LZ39|CAND6_ARATH Protein CANDIDATE G-PROTEIN COUPLED RECEPTOR 6 OS=Arabidopsis thaliana OX=3702 GN=CAND6 PE=2 SV=1
+BnaC03g97370D3	NA
+BnaC03g97380D3	NA
+BnaC03g97390D3	NA
+BnaC03g12270D3	sp|Q9SD53|Y3720_ARATH UPF0481 protein At3g47200 OS=Arabidopsis thaliana OX=3702 GN=At3g47200 PE=2 SV=1
+BnaC03g12690D3	sp|Q9M9H4|PD338_ARATH Protein PIGMENT DEFECTIVE 338, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PDE338 PE=1 SV=1
+BnaC03g14910D3	NA
+BnaC03g15400D3	sp|Q9FGH9|E70B1_ARATH Exocyst complex component EXO70B1 OS=Arabidopsis thaliana OX=3702 GN=EXO70B1 PE=1 SV=1
+BnaC03g15990D3	NA
+BnaC03g17840D3	NA
+BnaC03g17850D3	NA
+BnaC03g20930D3	sp|P93015|SPL3_ARATH Squamosa promoter-binding-like protein 3 OS=Arabidopsis thaliana OX=3702 GN=SPL3 PE=1 SV=2
+BnaC03g20940D3	NA
+BnaC03g21570D3	sp|Q9SA05|POT10_ARATH Potassium transporter 10 OS=Arabidopsis thaliana OX=3702 GN=POT10 PE=2 SV=2
+BnaC03g22550D3	NA
+BnaC03g23090D3	NA
+BnaC03g25780D3	sp|Q1JPN0|STR7_ARATH Rhodanese-like domain-containing protein 7 OS=Arabidopsis thaliana OX=3702 GN=STR7 PE=2 SV=1
+BnaC03g26160D3	NA
+BnaC03g27990D3	sp|Q9ZS96|Y4478_ARATH Uncharacterized protein At4g04775 OS=Arabidopsis thaliana OX=3702 GN=At4g04775 PE=2 SV=1
+BnaC03g03110D3	sp|Q9FVQ1|NUCL1_ARATH Nucleolin 1 OS=Arabidopsis thaliana OX=3702 GN=NUCL1 PE=1 SV=1
+BnaC03g30910D3	NA
+BnaC07g40450D3	NA
+BnaC07g40430D3	NA
+BnaC07g39270D3	sp|Q9UR07|TF211_SCHPO Transposon Tf2-11 polyprotein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=Tf2-11 PE=3 SV=1
+BnaC07g38080D3	NA
+BnaC07g37920D3	sp|Q9STZ2|SELT_ARATH SelT-like protein OS=Arabidopsis thaliana OX=3702 GN=At3g47300 PE=2 SV=2
+BnaC07g37620D3	NA
+BnaC07g37190D3	NA
+BnaC03g31800D3	sp|Q8GUK6|PIS2_ARATH Probable CDP-diacylglycerol--inositol 3-phosphatidyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=PIS2 PE=2 SV=2
+BnaC03g36340D3	sp|Q9C5C0|MPK18_ARATH Mitogen-activated protein kinase 18 OS=Arabidopsis thaliana OX=3702 GN=MPK18 PE=1 SV=4
+BnaC03g37200D3	sp|O04259|DI195_ARATH Protein DEHYDRATION-INDUCED 19 homolog 5 OS=Arabidopsis thaliana OX=3702 GN=DI19-5 PE=1 SV=2
+BnaC03g41220D3	sp|Q9LZL3|PCS1L_ARATH Aspartic proteinase PCS1 OS=Arabidopsis thaliana OX=3702 GN=PCS1 PE=2 SV=1
+BnaC03g43740D3	NA
+BnaC03g43750D3	NA
+BnaC03g45020D3	NA
+BnaC03g45030D3	NA
+BnaC03g46600D3	NA
+BnaC03g51510D3	sp|P08770|TRA1_MAIZE Putative AC transposase OS=Zea mays OX=4577 PE=2 SV=2
+BnaC03g51520D3	NA
+BnaC03g05620D3	NA
+BnaC03g51690D3	NA
+BnaC03g51700D3	NA
+BnaC03g52690D3	NA
+BnaC03g52910D3	NA
+BnaC08g06210D3	sp|Q84WU0|OFUT5_ARATH O-fucosyltransferase 5 OS=Arabidopsis thaliana OX=3702 GN=OFUT5 PE=2 SV=1
+BnaC08g07910D3	NA
+BnaC08g08090D3	NA
+BnaC08g08100D3	NA
+BnaC08g08290D3	NA
+BnaC03g00840D3	NA
+BnaC03g54600D3	sp|O22633|NOI4_ARATH Protein NOI4 OS=Arabidopsis thaliana OX=3702 GN=NOI4 PE=1 SV=1
+BnaC03g54610D3	sp|O65468|CRK8_ARATH Cysteine-rich receptor-like protein kinase 8 OS=Arabidopsis thaliana OX=3702 GN=CRK8 PE=3 SV=2
+BnaC03g77540D3	sp|Q8LEG1|BH054_ARATH Transcription factor bHLH54 OS=Arabidopsis thaliana OX=3702 GN=BHLH54 PE=2 SV=1
+BnaC03g77260D3	NA
+BnaC03g77270D3	NA
+BnaC03g77280D3	NA
+BnaC03g77290D3	NA
+BnaC03g77560D3	NA
+BnaC03g77600D3	NA
+BnaC03g77610D3	sp|Q8LEG1|BH054_ARATH Transcription factor bHLH54 OS=Arabidopsis thaliana OX=3702 GN=BHLH54 PE=2 SV=1
+BnaC03g77630D3	NA
+BnaC03g77390D3	NA
+BnaC03g77400D3	NA
+BnaC03g77430D3	NA
+BnaC03g77440D3	NA
+BnaC03g78140D3	NA
+BnaC03g78260D3	NA
+BnaC03g78300D3	NA
+BnaC03g78350D3	sp|Q1PFC5|PP130_ARATH Pentatricopeptide repeat-containing protein At1g77405 OS=Arabidopsis thaliana OX=3702 GN=At1g77405 PE=2 SV=1
+BnaC03g78430D3	NA
+BnaC03g79460D3	NA
+BnaC03g80110D3	sp|Q9LXT4|PCO5_ARATH Plant cysteine oxidase 5 OS=Arabidopsis thaliana OX=3702 GN=PCO5 PE=1 SV=1
+BnaC03g09000D3	sp|Q9ASS4|Y5838_ARATH Probably inactive leucine-rich repeat receptor-like protein kinase At5g48380 OS=Arabidopsis thaliana OX=3702 GN=At5g48380 PE=1 SV=1
+BnaC02g27390D3	NA
+BnaC03g09410D3	sp|Q8LGH4|CUL4_ARATH Cullin-4 OS=Arabidopsis thaliana OX=3702 GN=CUL4 PE=1 SV=1
+BnaC03g85290D3	NA
+BnaC03g90990D3	NA
+BnaC03g91000D3	NA
+BnaC03g91020D3	NA
+BnaC03g91090D3	NA
+BnaC04g10600D3	NA
+BnaC04g12250D3	NA
+BnaC04g12360D3	NA
+BnaC04g12420D3	NA
+BnaC04g13450D3	NA
+BnaC04g13460D3	NA
+BnaC04g13470D3	NA
+BnaC04g13490D3	NA
+BnaC04g13520D3	NA
+BnaC04g13990D3	NA
+BnaC04g14090D3	sp|Q9LNF4|P2C13_ARATH Probable protein phosphatase 2C 13 OS=Arabidopsis thaliana OX=3702 GN=At1g48040 PE=2 SV=2
+BnaC04g14100D3	sp|Q9SIV9|PPA10_ARATH Purple acid phosphatase 10 OS=Arabidopsis thaliana OX=3702 GN=PAP10 PE=2 SV=1
+BnaC04g14130D3	NA
+BnaC04g14140D3	sp|P54609|CD48A_ARATH Cell division control protein 48 homolog A OS=Arabidopsis thaliana OX=3702 GN=CDC48A PE=1 SV=1
+BnaC04g14330D3	sp|Q9XEE6|C3H29_ARATH Zinc finger CCCH domain-containing protein 29 OS=Arabidopsis thaliana OX=3702 GN=At2g40140 PE=1 SV=1
+BnaC04g15790D3	NA
+BnaC04g18710D3	NA
+BnaC04g18920D3	NA
+BnaC04g18930D3	NA
+BnaC04g19840D3	sp|Q9FZI2|LUP5_ARATH Lupeol synthase 5 OS=Arabidopsis thaliana OX=3702 GN=LUP5 PE=2 SV=1
+BnaC04g46660D3	NA
+BnaC04g48030D3	NA
+BnaC04g51160D3	NA
+BnaC04g52830D3	NA
+BnaC04g54410D3	sp|Q84P25|4CLL2_ARATH 4-coumarate--CoA ligase-like 2 OS=Arabidopsis thaliana OX=3702 GN=4CLL2 PE=2 SV=2
+BnaC04g57290D3	sp|P10978|POLX_TOBAC Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum OX=4097 PE=2 SV=1
+BnaC04g74150D3	NA
+BnaC04g71580D3	NA
+BnaC04g04530D3	NA
+BnaC04g68820D3	sp|Q9C811|NU160_ARATH Nuclear pore complex protein NUP160 OS=Arabidopsis thaliana OX=3702 GN=NUP160 PE=1 SV=2
+BnaC04g66470D3	NA
+BnaC04g66460D3	NA
+BnaC04g62370D3	NA
+BnaA04g27980D3	sp|O04244|Y4200_ARATH Uncharacterized protein At4g02000 OS=Arabidopsis thaliana OX=3702 GN=At4g02000 PE=2 SV=1
+BnaC04g81360D3	sp|O64635|C76C4_ARATH Cytochrome P450 76C4 OS=Arabidopsis thaliana OX=3702 GN=CYP76C4 PE=3 SV=1
+BnaC04g06660D3	NA
+BnaC04g06680D3	NA
+BnaC04g00700D3	NA
+BnaC04g08620D3	NA
+BnaC04g09940D3	NA
+BnaC05g12150D3	NA
+BnaC05g14100D3	sp|P10978|POLX_TOBAC Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum OX=4097 PE=2 SV=1
+BnaC05g16160D3	NA
+BnaC05g16540D3	NA
+BnaC05g17780D3	NA
+BnaC05g18950D3	sp|Q9FXH5|PUP14_ARATH Purine permease 14 OS=Arabidopsis thaliana OX=3702 GN=PUP14 PE=1 SV=1
+BnaC05g19270D3	NA
+BnaC05g22390D3	sp|Q9LMF0|U85A5_ARATH UDP-glycosyltransferase 85A5 OS=Arabidopsis thaliana OX=3702 GN=UGT85A5 PE=2 SV=1
+BnaC05g22590D3	sp|Q9ZS96|Y4478_ARATH Uncharacterized protein At4g04775 OS=Arabidopsis thaliana OX=3702 GN=At4g04775 PE=2 SV=1
+BnaC05g23190D3	sp|Q9SJG6|PP200_ARATH Pentatricopeptide repeat-containing protein At2g42920, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PCMP-E75 PE=2 SV=1
+BnaC05g27200D3	sp|Q9ZS96|Y4478_ARATH Uncharacterized protein At4g04775 OS=Arabidopsis thaliana OX=3702 GN=At4g04775 PE=2 SV=1
+BnaC05g27220D3	NA
+BnaC05g27450D3	NA
+BnaC05g28140D3	NA
+BnaC05g28200D3	NA
+BnaC05g28450D3	sp|O04244|Y4200_ARATH Uncharacterized protein At4g02000 OS=Arabidopsis thaliana OX=3702 GN=At4g02000 PE=2 SV=1
+BnaC05g29200D3	NA
+BnaC05g37940D3	NA
+BnaC05g45560D3	sp|P0C2F8|FB71_ARATH Putative F-box protein At1g64540 OS=Arabidopsis thaliana OX=3702 GN=At1g64540 PE=4 SV=1
+BnaC05g48150D3	NA
+BnaC05g50690D3	NA
+BnaC05g51870D3	NA
+BnaC05g54660D3	NA
+BnaC04g26840D3	NA
+BnaC05g59070D3	NA
+BnaC05g59150D3	sp|O22703|RZ1B_ARATH Glycine-rich RNA-binding protein RZ1B OS=Arabidopsis thaliana OX=3702 GN=RZ1B PE=2 SV=1
+BnaC05g59240D3	NA
+BnaC05g59350D3	NA
+BnaC05g59400D3	NA
+BnaC05g59560D3	sp|O80742|PUB19_ARATH U-box domain-containing protein 19 OS=Arabidopsis thaliana OX=3702 GN=PUB19 PE=2 SV=1
+BnaC05g63640D3	NA
+BnaC05g07420D3	NA
+BnaC05g68000D3	NA
+BnaC05g07540D3	sp|F4HT77|RBA1_ARATH Disease resistance protein RBA1 OS=Arabidopsis thaliana OX=3702 GN=RBA1 PE=1 SV=1
+BnaA10g38710D3	NA
+BnaC05g09830D3	NA
+BnaC06g09580D3	sp|O23614|CTPA2_ARATH Carboxyl-terminal-processing peptidase 2, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CTPA2 PE=1 SV=1
+BnaC06g09910D3	NA
+BnaC06g10110D3	NA
+BnaC06g10210D3	sp|Q8VZ79|IDN2_ARATH Protein INVOLVED IN DE NOVO 2 OS=Arabidopsis thaliana OX=3702 GN=IDN2 PE=1 SV=1
+BnaC06g10290D3	NA
+BnaC06g20800D3	NA
+BnaC06g20680D3	NA
+BnaC06g20340D3	NA
+BnaC06g20330D3	NA
+BnaC06g16830D3	NA
+BnaC06g16600D3	sp|Q3EAI1|BH060_ARATH Transcription factor bHLH60 OS=Arabidopsis thaliana OX=3702 GN=BHLH60 PE=1 SV=1
+BnaC06g16570D3	NA
+BnaC06g16560D3	sp|Q9FI14|TAO1_ARATH Disease resistance protein TAO1 OS=Arabidopsis thaliana OX=3702 GN=TAO1 PE=3 SV=1
+BnaC06g15520D3	NA
+BnaC01g41610D3	NA
+BnaC06g24220D3	sp|Q9M8W7|GLR11_ARATH Glutamate receptor 1.1 OS=Arabidopsis thaliana OX=3702 GN=GLR1.1 PE=2 SV=1
+BnaC06g24240D3	NA
+BnaC06g01970D3	NA
+BnaC06g25970D3	NA
+BnaC06g25980D3	NA
+BnaC06g27800D3	NA
+BnaC06g28410D3	NA
+BnaC06g28420D3	NA
+BnaC06g28820D3	NA
+BnaC06g28920D3	NA
+BnaC06g28950D3	NA
+BnaC06g28970D3	sp|Q9M1I7|NPR6_ARATH Regulatory protein NPR6 OS=Arabidopsis thaliana OX=3702 GN=NPR6 PE=1 SV=1
+BnaC06g28980D3	sp|B8BJ39|KPYC1_ORYSI Pyruvate kinase 1, cytosolic OS=Oryza sativa subsp. indica OX=39946 GN=OsI_35105 PE=3 SV=1
+BnaC06g29400D3	NA
+BnaC06g36660D3	sp|Q9SRG3|PDI12_ARATH Protein disulfide isomerase-like 1-2 OS=Arabidopsis thaliana OX=3702 GN=PDIL1-2 PE=2 SV=1
+BnaC06g36800D3	sp|Q8LJW3|ACR4_ARATH ACT domain-containing protein ACR4 OS=Arabidopsis thaliana OX=3702 GN=ACR4 PE=2 SV=1
+BnaC06g36830D3	sp|O80654|ERF37_ARATH Ethylene-responsive transcription factor ERF037 OS=Arabidopsis thaliana OX=3702 GN=ERF037 PE=2 SV=1
+BnaC06g39160D3	NA
+BnaC06g39190D3	NA
+BnaC06g40660D3	NA
+BnaC06g41890D3	sp|Q9LQC8|ARF2A_ARATH ADP-ribosylation factor 2-A OS=Arabidopsis thaliana OX=3702 GN=ARF2-A PE=2 SV=2
+BnaC06g00280D3	NA
+BnaC06g47710D3	NA
+BnaC06g48280D3	NA
+BnaC06g50050D3	NA
+BnaC06g50760D3	sp|Q9LRQ8|PMAT2_ARATH Phenolic glucoside malonyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=PMAT2 PE=1 SV=1
+BnaC06g51140D3	sp|Q9M1R2|SYPC_ARATH Proline--tRNA ligase, cytoplasmic OS=Arabidopsis thaliana OX=3702 GN=At3g62120 PE=1 SV=1
+BnaC06g51150D3	NA
+BnaC06g04840D3	NA
+BnaC06g53900D3	sp|A3DDY8|ACP_HUNT2 Acyl carrier protein OS=Hungateiclostridium thermocellum (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372) OX=203119 GN=acpP PE=3 SV=1
+BnaC06g54400D3	sp|P10978|POLX_TOBAC Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum OX=4097 PE=2 SV=1
+BnaC06g54660D3	NA
+BnaC06g05500D3	NA
+BnaC06g05530D3	NA
+BnaC06g05540D3	NA
+BnaC06g59790D3	NA
+BnaC06g60310D3	NA
+BnaC06g08450D3	sp|Q8RWE5|PIRL8_ARATH Plant intracellular Ras-group-related LRR protein 8 OS=Arabidopsis thaliana OX=3702 GN=PIRL8 PE=2 SV=1
+BnaC07g07060D3	NA
+BnaC07g07050D3	NA
+BnaC07g07010D3	NA
+BnaC07g26530D3	NA
+BnaC07g27020D3	NA
+BnaC07g27030D3	NA
+BnaC07g27590D3	sp|Q9SKD3|OXA1L_ARATH Mitochondrial inner membrane protein OXA1-like OS=Arabidopsis thaliana OX=3702 GN=OXA1L PE=2 SV=1
+BnaC07g27730D3	NA
+BnaC07g27750D3	NA
+BnaC07g27760D3	NA
+BnaC07g27790D3	NA
+BnaC07g28750D3	NA
+BnaC07g32480D3	NA
+BnaC07g32490D3	NA
+BnaC07g33030D3	sp|Q39193|SRK2I_ARATH Serine/threonine-protein kinase SRK2I OS=Arabidopsis thaliana OX=3702 GN=SRK2I PE=1 SV=1
+BnaC07g33060D3	sp|Q9LRA7|TPS9_ARATH Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 9 OS=Arabidopsis thaliana OX=3702 GN=TPS9 PE=2 SV=1
+BnaC07g45640D3	NA
+BnaC07g45650D3	NA
+BnaC07g45660D3	NA
+BnaC07g46860D3	NA
+BnaC07g46870D3	NA
+BnaC07g46920D3	NA
+BnaC07g47610D3	sp|O81057|ASK14_ARATH SKP1-like protein 14 OS=Arabidopsis thaliana OX=3702 GN=ASK14 PE=1 SV=1
+BnaC07g47620D3	sp|O81057|ASK14_ARATH SKP1-like protein 14 OS=Arabidopsis thaliana OX=3702 GN=ASK14 PE=1 SV=1
+BnaC07g48330D3	NA
+BnaC07g50390D3	NA
+BnaC07g51330D3	NA
+BnaC07g52110D3	NA
+BnaC07g53080D3	NA
+BnaC07g53090D3	NA
+BnaC07g53100D3	NA
+BnaC07g54720D3	NA
+BnaC07g21350D3	NA
+BnaC07g21310D3	NA
+BnaC07g56520D3	NA
+BnaC07g18950D3	sp|Q9SD34|C3H44_ARATH Zinc finger CCCH domain-containing protein 44 OS=Arabidopsis thaliana OX=3702 GN=At3g51120 PE=2 SV=3
+BnaC07g18940D3	sp|Q9SD34|C3H44_ARATH Zinc finger CCCH domain-containing protein 44 OS=Arabidopsis thaliana OX=3702 GN=At3g51120 PE=2 SV=3
+BnaC07g00190D3	NA
+BnaC07g16700D3	NA
+BnaC08g16410D3	NA
+BnaC08g18540D3	NA
+BnaC08g19450D3	NA
+BnaC08g22730D3	sp|Q5PP65|C3H28_ARATH Zinc finger CCCH domain-containing protein 28 OS=Arabidopsis thaliana OX=3702 GN=At2g35430 PE=1 SV=1
+BnaC08g22740D3	NA
+BnaC08g25850D3	sp|Q94HW2|POLR1_ARATH Retrovirus-related Pol polyprotein from transposon RE1 OS=Arabidopsis thaliana OX=3702 GN=RE1 PE=2 SV=1
+BnaC08g25990D3	sp|Q2V3H2|PUP7_ARATH Probable purine permease 7 OS=Arabidopsis thaliana OX=3702 GN=PUP7 PE=2 SV=1
+BnaC08g26070D3	sp|Q9FF29|PR5K_ARATH PR5-like receptor kinase OS=Arabidopsis thaliana OX=3702 GN=PR5K PE=1 SV=1
+BnaC08g26200D3	NA
+BnaC08g26580D3	sp|P49692|RL7A1_ARATH 60S ribosomal protein L7a-1 OS=Arabidopsis thaliana OX=3702 GN=RPL7AA PE=2 SV=2
+BnaC08g26590D3	sp|Q8VY78|SAE1A_ARATH SUMO-activating enzyme subunit 1A OS=Arabidopsis thaliana OX=3702 GN=SAE1A PE=1 SV=1
+BnaC08g26840D3	sp|P49692|RL7A1_ARATH 60S ribosomal protein L7a-1 OS=Arabidopsis thaliana OX=3702 GN=RPL7AA PE=2 SV=2
+BnaC08g02050D3	NA
+BnaC08g02060D3	NA
+BnaC08g02070D3	NA
+BnaC08g29100D3	NA
+BnaC08g02410D3	NA
+BnaC08g36540D3	NA
+BnaA05g27810D3	sp|Q9SRU2|BIG_ARATH Auxin transport protein BIG OS=Arabidopsis thaliana OX=3702 GN=BIG PE=1 SV=2
+BnaA05g27830D3	sp|Q5M7P5|NOL6_XENTR Nucleolar protein 6 OS=Xenopus tropicalis OX=8364 GN=nol6 PE=2 SV=1
+BnaC08g13540D3	NA
+BnaC08g13550D3	NA
+BnaC08g41180D3	NA
+BnaC08g03960D3	NA
+BnaC08g47730D3	NA
+BnaC08g49140D3	sp|Q7LHG5|YI31B_YEAST Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TY3B-I PE=1 SV=2
+BnaC08g49160D3	sp|Q2V3N5|FB211_ARATH F-box protein At3g59000 OS=Arabidopsis thaliana OX=3702 GN=At3g59000 PE=1 SV=2
+BnaC08g49280D3	sp|Q9LQC1|FB65_ARATH Putative F-box protein At1g58310 OS=Arabidopsis thaliana OX=3702 GN=At1g58310 PE=4 SV=2
+BnaC08g51460D3	sp|Q9LEX5|PP290_ARATH Pentatricopeptide repeat-containing protein At3g60980, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At3g60980 PE=2 SV=1
+BnaC08g51470D3	sp|Q9LEX5|PP290_ARATH Pentatricopeptide repeat-containing protein At3g60980, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At3g60980 PE=2 SV=1
+BnaC08g52340D3	NA
+BnaC08g54680D3	NA
+BnaC08g55540D3	sp|O65373|BAG5_ARATH BAG family molecular chaperone regulator 5, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=BAG5 PE=1 SV=1
+BnaC08g57790D3	sp|Q9FFB3|VP241_ARATH Vacuolar protein sorting-associated protein 24 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=VPS24-1 PE=1 SV=1
+BnaC08g30040D3	sp|C0SUT9|JMJ16_ARATH Putative lysine-specific demethylase JMJ16 OS=Arabidopsis thaliana OX=3702 GN=JMJ16 PE=2 SV=1
+BnaC08g31330D3	sp|F4I116|SYLC_ARATH Leucine--tRNA ligase, cytoplasmic OS=Arabidopsis thaliana OX=3702 GN=At1g09620 PE=1 SV=1
+BnaC08g69380D3	NA
+BnaC08g69280D3	NA
+BnaC08g67890D3	sp|Q9FUS9|GSTUI_ARATH Glutathione S-transferase U18 OS=Arabidopsis thaliana OX=3702 GN=GSTU18 PE=2 SV=1
+BnaC08g67880D3	sp|Q9SE83|DRP2A_ARATH Dynamin-2A OS=Arabidopsis thaliana OX=3702 GN=DRP2A PE=1 SV=2
+BnaC08g65100D3	NA
+BnaC08g65090D3	sp|Q94C37|HDG2_ARATH Homeobox-leucine zipper protein HDG2 OS=Arabidopsis thaliana OX=3702 GN=HDG2 PE=1 SV=1
+BnaC08g15580D3	NA
+BnaC08g15840D3	sp|Q9LVD8|CAP7_ARATH Putative clathrin assembly protein At5g57200 OS=Arabidopsis thaliana OX=3702 GN=At5g57200 PE=3 SV=1
+BnaC08g16330D3	NA
+BnaC09g09260D3	NA
+BnaC09g13650D3	sp|Q8L6Z8|XYLL1_ARATH D-xylose-proton symporter-like 1 OS=Arabidopsis thaliana OX=3702 GN=At3g03090 PE=2 SV=1
+BnaC09g14220D3	NA
+BnaC09g14230D3	NA
+BnaC09g14580D3	NA
+BnaC09g14590D3	NA
+BnaC09g15310D3	NA
+BnaC09g16190D3	NA
+BnaC09g16670D3	NA
+BnaA09g03120D3	sp|Q8VYA3|WAKLJ_ARATH Wall-associated receptor kinase-like 10 OS=Arabidopsis thaliana OX=3702 GN=WAKL10 PE=2 SV=1
+BnaC09g17560D3	NA
+BnaA09g08390D3	NA
+BnaC09g18030D3	NA
+BnaC09g18040D3	sp|O22715|AP1M2_ARATH AP-1 complex subunit mu-2 OS=Arabidopsis thaliana OX=3702 GN=AP1M2 PE=1 SV=1
+BnaC09g20160D3	NA
+BnaC09g24400D3	NA
+BnaC09g24440D3	sp|Q8VYM2|PHT11_ARATH Inorganic phosphate transporter 1-1 OS=Arabidopsis thaliana OX=3702 GN=PHT1-1 PE=1 SV=2
+BnaC09g00530D3	NA
+BnaC09g00990D3	sp|Q2T9U1|SRP54_BOVIN Signal recognition particle 54 kDa protein OS=Bos taurus OX=9913 GN=SRP54 PE=2 SV=1
+BnaC09g25790D3	NA
+BnaC09g27410D3	sp|F4KHH8|RPS6C_ARATH Disease resistance protein RPS6 OS=Arabidopsis thaliana OX=3702 GN=RPS6 PE=1 SV=1
+BnaC09g27600D3	NA
+BnaC09g28280D3	sp|P42750|UBC6_ARATH Ubiquitin-conjugating enzyme E2 6 OS=Arabidopsis thaliana OX=3702 GN=UBC6 PE=2 SV=2
+BnaC09g29150D3	NA
+BnaC09g29160D3	NA
+BnaC09g29190D3	NA
+BnaC09g29390D3	NA
+BnaC09g29400D3	NA
+BnaC09g29410D3	NA
+BnaC09g29560D3	sp|Q9FMP5|CDPKH_ARATH Calcium-dependent protein kinase 17 OS=Arabidopsis thaliana OX=3702 GN=CPK17 PE=2 SV=1
+BnaC09g29580D3	NA
+BnaC09g30240D3	NA
+BnaC09g41980D3	sp|Q9FI44|SDAF2_ARATH Succinate dehydrogenase assembly factor 2, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=SDHAF2 PE=1 SV=1
+BnaC09g44450D3	sp|Q8L636|NCL_ARATH Sodium/calcium exchanger NCL OS=Arabidopsis thaliana OX=3702 GN=NCL PE=2 SV=1
+BnaC09g48200D3	NA
+BnaC09g48560D3	NA
+BnaC09g48650D3	NA
+BnaC09g51070D3	NA
+BnaC09g51770D3	NA
+BnaC09g51810D3	sp|Q5XF78|GAMT2_ARATH Gibberellic acid methyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=GAMT2 PE=1 SV=1
+BnaC09g54540D3	NA
+BnaC09g54550D3	NA
+BnaC09g54560D3	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BnaC09g54730D3	sp|Q6EWX0|ORC5_ARATH Origin of replication complex subunit 5 OS=Arabidopsis thaliana OX=3702 GN=ORC5 PE=1 SV=1
+BnaC09g55740D3	NA
+BnaC09g55750D3	sp|P10978|POLX_TOBAC Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum OX=4097 PE=2 SV=1
+BnaC09g55850D3	NA
+BnaC09g55860D3	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BnaC09g55870D3	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BnaC09g55880D3	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BnaC09g55890D3	sp|O81025|IAN10_ARATH Immune-associated nucleotide-binding protein 10 OS=Arabidopsis thaliana OX=3702 GN=IAN10 PE=3 SV=1
+BnaC09g55910D3	NA
+BnaC09g63630D3	sp|P16149|RS16_LUPPO 40S ribosomal protein S16 OS=Lupinus polyphyllus OX=3874 GN=RPS16 PE=2 SV=1
+BnaC09g64860D3	NA
+BnaC09g66900D3	NA
+BnaC09g67250D3	NA
+BnaC09g05320D3	NA
+BnaA07g01350D3	NA
+BnaC09g67900D3	NA
+BnaC09g70170D3	NA
+BnaC09g71600D3	sp|Q9FN75|AATPI_ARATH AAA-ATPase At5g17760 OS=Arabidopsis thaliana OX=3702 GN=At5g17760 PE=3 SV=1
+BnaC09g71610D3	sp|Q9LXB8|PLPK1_ARATH Protein PELPK1 OS=Arabidopsis thaliana OX=3702 GN=PELPK1 PE=2 SV=1
+BnaC09g71660D3	sp|Q38866|EXPA2_ARATH Expansin-A2 OS=Arabidopsis thaliana OX=3702 GN=EXPA2 PE=2 SV=2
+BnaC09g77340D3	NA
+BnaC09g77350D3	NA
+BnaP1g00180D3	NA
+BnaP1g00250D3	NA
+BnaP1g00270D3	NA
+BnaP1g00280D3	sp|Q9SYS7|CRK39_ARATH Putative cysteine-rich receptor-like protein kinase 39 OS=Arabidopsis thaliana OX=3702 GN=CRK39 PE=3 SV=1
+BnaP1g00300D3	sp|F4IE66|PRP22_ARATH Pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH10 OS=Arabidopsis thaliana OX=3702 GN=RID1 PE=1 SV=1
+BnaP1g00310D3	sp|Q9FFG1|SDN2_ARATH Small RNA degrading nuclease 2 OS=Arabidopsis thaliana OX=3702 GN=SDN2 PE=2 SV=1
+BnaP1g00320D3	sp|Q941L0|CESA3_ARATH Cellulose synthase A catalytic subunit 3 [UDP-forming] OS=Arabidopsis thaliana OX=3702 GN=CESA3 PE=1 SV=2
+BnaP1g00360D3	sp|Q84WT8|CYT4_ARATH Cysteine proteinase inhibitor 4 OS=Arabidopsis thaliana OX=3702 GN=CYS4 PE=3 SV=2
+BnaP1g00380D3	sp|Q4VCM1|LCAT2_ARATH Phospholipid--sterol O-acyltransferase OS=Arabidopsis thaliana OX=3702 GN=PSAT PE=2 SV=2
+BnaP1g00490D3	NA
+BnaP1g00520D3	sp|F4JTI1|PHOX4_ARATH Protein PHOX4 OS=Arabidopsis thaliana OX=3702 GN=PHOX4 PE=2 SV=1
+BnaP1g00570D3	NA
+BnaP1g00610D3	NA
+BnaP1g00620D3	NA
+BnaP1g00630D3	sp|Q8H100|AGD8_ARATH Probable ADP-ribosylation factor GTPase-activating protein AGD8 OS=Arabidopsis thaliana OX=3702 GN=AGD8 PE=1 SV=1
+BnaP1g00640D3	NA
+BnaP1g00750D3	NA
+BnaP1g00760D3	sp|O42820|EF1A_SCHCO Elongation factor 1-alpha OS=Schizophyllum commune OX=5334 GN=TEF1 PE=3 SV=1
+BnaP1g00770D3	sp|Q149F3|ERF3B_MOUSE Eukaryotic peptide chain release factor GTP-binding subunit ERF3B OS=Mus musculus OX=10090 GN=Gspt2 PE=1 SV=1
+BnaP1g00780D3	sp|O74970|PRP39_SCHPO Pre-mRNA-processing factor 39 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=prp39 PE=3 SV=1
+BnaP1g00830D3	NA
+BnaP1g00890D3	sp|Q9FHK4|EDR4_ARATH Protein ENHANCED DISEASE RESISTANCE 4 OS=Arabidopsis thaliana OX=3702 GN=EDR4 PE=1 SV=1
+BnaP1g00910D3	sp|Q9M0M4|MO25M_ARATH Putative MO25-like protein At4g17270 OS=Arabidopsis thaliana OX=3702 GN=At4g17270 PE=2 SV=1
+BnaP1g01030D3	NA
+BnaP1g01120D3	NA
+BnaP1g01130D3	NA
+BnaP1g01220D3	NA
+BnaP1g01230D3	NA
+BnaP1g01240D3	NA
+BnaP1g01250D3	sp|O23596|GLPT4_ARATH Putative glycerol-3-phosphate transporter 4 OS=Arabidopsis thaliana OX=3702 GN=At4g17550 PE=3 SV=2
+BnaP1g01290D3	NA
+BnaP1g01300D3	NA
+BnaP1g01320D3	sp|P92939|ECA1_ARATH Calcium-transporting ATPase 1, endoplasmic reticulum-type OS=Arabidopsis thaliana OX=3702 GN=ECA1 PE=1 SV=2
+BnaP1g01330D3	sp|Q9XES1|ECA4_ARATH Calcium-transporting ATPase 4, endoplasmic reticulum-type OS=Arabidopsis thaliana OX=3702 GN=ECA4 PE=2 SV=2
+BnaP1g01360D3	NA
+BnaP1g01450D3	sp|P51430|RS62_ARATH 40S ribosomal protein S6-2 OS=Arabidopsis thaliana OX=3702 GN=RPS6B PE=1 SV=3
+BnaP1g01620D3	sp|Q0WL81|RNL_ARATH tRNA ligase 1 OS=Arabidopsis thaliana OX=3702 GN=RNL PE=1 SV=1
+BnaP1g01940D3	NA
+BnaP1g01950D3	sp|C0Z361|CPNB3_ARATH Chaperonin 60 subunit beta 3, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CPN60B3 PE=1 SV=1
+BnaP1g02020D3	NA
+BnaP1g02070D3	NA
+BnaP1g02090D3	sp|Q9FLC0|PER52_ARATH Peroxidase 52 OS=Arabidopsis thaliana OX=3702 GN=PER52 PE=2 SV=1
+BnaP1g02120D3	sp|Q9LNC5|CLO_ARATH 110 kDa U5 small nuclear ribonucleoprotein component CLO OS=Arabidopsis thaliana OX=3702 GN=CLO PE=1 SV=1
+BnaP1g02400D3	NA
+BnaP1g02410D3	sp|Q93XW7|C3H40_ARATH Zinc finger CCCH domain-containing protein 40 OS=Arabidopsis thaliana OX=3702 GN=At3g21810 PE=1 SV=1
+BnaP1g02480D3	sp|Q9SXA1|P4KA1_ARATH Phosphatidylinositol 4-kinase alpha 1 OS=Arabidopsis thaliana OX=3702 GN=PI4KA1 PE=1 SV=2
+BnaP1g02560D3	sp|O04195|Y2992_ARATH Uncharacterized protein At2g39920 OS=Arabidopsis thaliana OX=3702 GN=At2g39920 PE=2 SV=2
+BnaP1g02850D3	sp|Q9LSL9|PP445_ARATH Pentatricopeptide repeat-containing protein At5g65560 OS=Arabidopsis thaliana OX=3702 GN=At5g65560 PE=2 SV=1
+BnaP1g02950D3	sp|Q8L748|NU107_ARATH Nuclear pore complex protein NUP107 OS=Arabidopsis thaliana OX=3702 GN=NUP107 PE=1 SV=1
+BnaP1g03230D3	NA
+BnaP1g03260D3	sp|Q9LNC5|CLO_ARATH 110 kDa U5 small nuclear ribonucleoprotein component CLO OS=Arabidopsis thaliana OX=3702 GN=CLO PE=1 SV=1
+BnaP1g03290D3	NA
+BnaP1g03380D3	NA
+BnaP1g03420D3	NA
+BnaP1g03470D3	NA
+BnaP1g03490D3	NA
+BnaP1g03550D3	NA
+BnaP1g03790D3	NA
+BnaP1g04250D3	sp|O04267|SAR1B_BRACM GTP-binding protein SAR1B OS=Brassica campestris OX=3711 GN=SAR1B PE=2 SV=1
+BnaP1g04310D3	NA
+BnaP1g04400D3	NA
+BnaP1g04460D3	NA
+BnaP1g04490D3	sp|Q9SZZ8|BCH1_ARATH Beta-carotene 3-hydroxylase 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=BETA-OHASE 1 PE=1 SV=1
+BnaP1g04610D3	sp|Q9CA56|PP121_ARATH Pentatricopeptide repeat-containing protein At1g74600, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PCMP-E69 PE=3 SV=1
+BnaP1g04680D3	NA
+BnaP1g04700D3	NA
+BnaP1g05080D3	sp|Q9FG72|OPT1_ARATH Oligopeptide transporter 1 OS=Arabidopsis thaliana OX=3702 GN=OPT1 PE=2 SV=1
+BnaP1g05150D3	NA
+BnaP1g05390D3	sp|F4KBF3|AAE17_ARATH Probable acyl-activating enzyme 17, peroxisomal OS=Arabidopsis thaliana OX=3702 GN=AAE17 PE=2 SV=1
+BnaP1g05490D3	NA
+BnaP1g05650D3	NA
+BnaP1g05780D3	NA
+BnaP1g05930D3	NA
+BnaP1g05980D3	NA
+BnaP1g06010D3	sp|Q9LTS6|RS16B_ARATH 30S ribosomal protein S16-2, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=RPS16-2 PE=2 SV=1
+BnaP1g06200D3	NA
+BnaP1g06430D3	NA
+BnaP1g06470D3	NA
+BnaP1g06480D3	NA
+BnaP1g06550D3	NA
+BnaP1g06680D3	NA
+BnaP1g06690D3	NA
+BnaP1g06770D3	sp|Q9S7E4|FDH_ARATH Formate dehydrogenase, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=FDH1 PE=1 SV=1
+BnaP1g06820D3	sp|Q9C6A6|RLP13_ARATH Receptor-like protein 13 OS=Arabidopsis thaliana OX=3702 GN=RLP13 PE=3 SV=1
+BnaP1g06850D3	NA
+BnaP1g06900D3	sp|Q8RX63|RLP31_ARATH Receptor-like protein 31 OS=Arabidopsis thaliana OX=3702 GN=RLP31 PE=2 SV=1
+BnaP1g06930D3	NA
+BnaP1g06940D3	sp|Q93VG8|PPDEX_ARATH DeSI-like protein At4g17486 OS=Arabidopsis thaliana OX=3702 GN=At4g17486 PE=2 SV=1
+BnaP1g06990D3	NA
+BnaP1g07000D3	sp|Q9ZTX9|ARFD_ARATH Auxin response factor 4 OS=Arabidopsis thaliana OX=3702 GN=ARF4 PE=1 SV=1
+BnaP1g07040D3	NA
+BnaP1g07120D3	NA
+BnaP1g07210D3	NA
+BnaP1g07250D3	sp|Q8GYW8|SCT_ARATH Spermidine coumaroyl-CoA acyltransferase OS=Arabidopsis thaliana OX=3702 GN=SCT PE=1 SV=1
+BnaP1g07370D3	NA
+BnaP1g07390D3	sp|Q9FJL0|SMC4_ARATH Structural maintenance of chromosomes protein 4 OS=Arabidopsis thaliana OX=3702 GN=SMC4 PE=1 SV=1
+BnaP1g07600D3	NA
+BnaP1g07700D3	sp|C0LGN2|Y3148_ARATH Probable leucine-rich repeat receptor-like serine/threonine-protein kinase At3g14840 OS=Arabidopsis thaliana OX=3702 GN=LRR-RLK PE=1 SV=1
+BnaP1g07950D3	NA
+BnaP1g08010D3	sp|Q9C9L5|WAKLH_ARATH Wall-associated receptor kinase-like 9 OS=Arabidopsis thaliana OX=3702 GN=WAKL9 PE=2 SV=1
+BnaP1g08090D3	NA
+BnaP1g08230D3	NA
+BnaP1g08270D3	sp|Q9ZVJ6|ANXD4_ARATH Annexin D4 OS=Arabidopsis thaliana OX=3702 GN=ANN4 PE=1 SV=1
+BnaP1g08280D3	NA
+BnaP1g08410D3	sp|Q9LF41|UBE4_ARATH Probable ubiquitin conjugation factor E4 OS=Arabidopsis thaliana OX=3702 GN=PUB1 PE=2 SV=1
+BnaP1g08430D3	NA
+BnaP1g08740D3	NA
+BnaP1g08850D3	sp|P0CJ46|ACT1_ARATH Actin-1 OS=Arabidopsis thaliana OX=3702 GN=ACT1 PE=1 SV=1
+BnaP1g08910D3	sp|Q84VQ4|NDHU_ARATH NAD(P)H-quinone oxidoreductase subunit U, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ndhU PE=1 SV=1
+BnaP1g08940D3	sp|Q9FN93|Y5596_ARATH Probable LRR receptor-like serine/threonine-protein kinase At5g59680 OS=Arabidopsis thaliana OX=3702 GN=At5g59680 PE=1 SV=1
+BnaP1g08950D3	sp|Q5S2C4|NCKP1_ARATH Protein NAP1 OS=Arabidopsis thaliana OX=3702 GN=NAP1 PE=1 SV=2
+BnaP1g09360D3	NA
+BnaP1g09450D3	sp|P31853|ATPX_SPIOL ATP synthase subunit b', chloroplastic OS=Spinacia oleracea OX=3562 GN=ATPG PE=1 SV=2
+BnaP1g09530D3	sp|Q9FV50|MAP1D_ARATH Methionine aminopeptidase 1D, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=MAP1D PE=1 SV=1
+BnaP1g09580D3	NA
+BnaP1g09680D3	sp|Q9SX33|ALA9_ARATH Putative phospholipid-transporting ATPase 9 OS=Arabidopsis thaliana OX=3702 GN=ALA9 PE=3 SV=1
+BnaP1g09830D3	sp|D1KF50|SRS2L_ARATH ATP-dependent DNA helicase SRS2-like protein At4g25120 OS=Arabidopsis thaliana OX=3702 GN=SRS2 PE=1 SV=1
+BnaP1g09850D3	sp|O64973|RPS5_ARATH Disease resistance protein RPS5 OS=Arabidopsis thaliana OX=3702 GN=RPS5 PE=1 SV=2
+BnaP1g09960D3	NA
+BnaP1g10040D3	sp|Q96262|PCAP1_ARATH Plasma membrane-associated cation-binding protein 1 OS=Arabidopsis thaliana OX=3702 GN=PCAP1 PE=1 SV=1
+BnaP1g10240D3	NA
+BnaP1g10360D3	sp|Q8LEG3|MA652_ARATH 65-kDa microtubule-associated protein 2 OS=Arabidopsis thaliana OX=3702 GN=MAP65-2 PE=1 SV=1
+BnaP1g10970D3	sp|Q9S7G7|MB3R1_ARATH Transcription factor MYB3R-1 OS=Arabidopsis thaliana OX=3702 GN=MYB3R1 PE=2 SV=1
+BnaP1g10980D3	sp|Q588V7|TEB_ARATH Helicase and polymerase-containing protein TEBICHI OS=Arabidopsis thaliana OX=3702 GN=TEB PE=2 SV=1
+BnaP1g10990D3	sp|Q588V7|TEB_ARATH Helicase and polymerase-containing protein TEBICHI OS=Arabidopsis thaliana OX=3702 GN=TEB PE=2 SV=1
+BnaP1g11030D3	sp|Q9LU85|PAP4_ARATH Probable plastid-lipid-associated protein 4, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PAP4 PE=1 SV=1
+BnaP1g11330D3	sp|Q9M2N5|DSLE_ARATH Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana OX=3702 GN=HAT PE=1 SV=1
+BnaP1g11430D3	sp|Q8L611|SC31B_ARATH Protein transport protein SEC31 homolog B OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+BnaP1g11570D3	sp|Q9SCJ9|UBP26_ARATH Ubiquitin carboxyl-terminal hydrolase 26 OS=Arabidopsis thaliana OX=3702 GN=UBP26 PE=1 SV=3
+BnaP1g11580D3	sp|F4HQ23|LRL27_ARATH LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 2.7 OS=Arabidopsis thaliana OX=3702 GN=LRK10L-2.7 PE=3 SV=3
+BnaP1g11730D3	NA
+BnaP1g11780D3	NA
+BnaP1g11900D3	NA
+BnaP1g11930D3	NA
+BnaP1g11940D3	NA
+BnaP1g12070D3	sp|P49236|E13B_BRACM Glucan endo-1,3-beta-glucosidase OS=Brassica campestris OX=3711 GN=BGL PE=1 SV=1
+BnaP1g12160D3	NA
+BnaP1g12230D3	sp|Q5T280|CI114_HUMAN Putative methyltransferase C9orf114 OS=Homo sapiens OX=9606 GN=SPOUT1 PE=1 SV=3
+BnaP1g12310D3	NA
+BnaP1g12510D3	NA
+BnaP1g12820D3	sp|Q94A88|Y1397_ARATH UPF0725 protein At1g23970 OS=Arabidopsis thaliana OX=3702 GN=At1g23970 PE=2 SV=1
+BnaP1g12830D3	sp|Q9LR97|Y1239_ARATH UPF0725 protein At1g23950 OS=Arabidopsis thaliana OX=3702 GN=At1g23950 PE=1 SV=1
+BnaP1g12850D3	NA
+BnaP1g13060D3	NA
+BnaP1g13420D3	sp|Q9FFF9|APC1_ARATH Anaphase-promoting complex subunit 1 OS=Arabidopsis thaliana OX=3702 GN=APC1 PE=2 SV=1
+BnaP1g13540D3	sp|F4J4C8|EVN_ARATH Dolichol kinase EVAN OS=Arabidopsis thaliana OX=3702 GN=EVN PE=2 SV=1
+BnaP1g13690D3	sp|Q9FX45|ORRM6_ARATH Organelle RRM domain-containing protein 6, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ORRM6 PE=1 SV=1
+BnaP1g13900D3	sp|Q9M9X7|IMPA7_ARATH Importin subunit alpha-7 OS=Arabidopsis thaliana OX=3702 GN=IMPA7 PE=2 SV=1
+BnaP1g14000D3	NA
+BnaP1g14320D3	sp|O82462|SYEC_ARATH Glutamate--tRNA ligase, cytoplasmic OS=Arabidopsis thaliana OX=3702 GN=At5g26710 PE=1 SV=1
+BnaP1g14500D3	sp|Q9ASQ6|Y1972_ARATH Probable LRR receptor-like serine/threonine-protein kinase At1g29720 OS=Arabidopsis thaliana OX=3702 GN=RFK1 PE=2 SV=3
+BnaP1g14520D3	NA
+BnaP1g14780D3	sp|Q9XI05|PSB3A_ARATH Proteasome subunit beta type-3-A OS=Arabidopsis thaliana OX=3702 GN=PBC1 PE=1 SV=2
+BnaP1g15080D3	sp|F4JTJ2|EREL1_ARATH PX domain-containing protein EREL1 OS=Arabidopsis thaliana OX=3702 GN=EREL1 PE=2 SV=1
+BnaP1g15270D3	sp|Q9FM67|TI205_ARATH Protein TIC 20-v, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=TIC20-V PE=2 SV=1
+BnaP1g15930D3	NA
+BnaP1g16000D3	sp|F4K0C4|TR130_ARATH Trafficking protein particle complex II-specific subunit 130 homolog OS=Arabidopsis thaliana OX=3702 GN=TRS130 PE=1 SV=1
+BnaP1g16010D3	sp|Q8GWD2|CNG12_ARATH Probable cyclic nucleotide-gated ion channel 12 OS=Arabidopsis thaliana OX=3702 GN=CNGC12 PE=2 SV=2
+BnaP1g16130D3	sp|Q9FGM0|FTSHB_ARATH ATP-dependent zinc metalloprotease FTSH 11, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=FTSH11 PE=1 SV=1
+BnaP1g16410D3	sp|Q8GWA7|MCD1_ARATH Protein MULTIPLE CHLOROPLAST DIVISION SITE 1 OS=Arabidopsis thaliana OX=3702 GN=MCD1 PE=1 SV=1
+BnaP1g16530D3	sp|Q9C9K3|PFPA2_ARATH Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2 OS=Arabidopsis thaliana OX=3702 GN=PFP-ALPHA2 PE=2 SV=1
+BnaP1g16550D3	NA
+BnaP1g16650D3	sp|Q9LTS6|RS16B_ARATH 30S ribosomal protein S16-2, chloroplastic/mitochondrial OS=Arabidopsis thaliana OX=3702 GN=RPS16-2 PE=2 SV=1
+BnaP1g16760D3	sp|Q9SE43|REV_ARATH Homeobox-leucine zipper protein REVOLUTA OS=Arabidopsis thaliana OX=3702 GN=REV PE=1 SV=2
+BnaP1g16770D3	sp|Q9LRZ0|TPR2_ARATH Topless-related protein 2 OS=Arabidopsis thaliana OX=3702 GN=TPR2 PE=1 SV=2
+BnaP1g17410D3	sp|Q9M325|IPCS1_ARATH Phosphatidylinositol:ceramide inositolphosphotransferase 1 OS=Arabidopsis thaliana OX=3702 GN=IPCS1 PE=2 SV=1
+BnaP1g17440D3	NA
+BnaP1g17730D3	NA
+BnaP1g17740D3	NA
+BnaP1g17840D3	NA
+BnaP1g17930D3	NA
+BnaP1g18040D3	NA
+BnaP1g18180D3	NA
+BnaP1g18640D3	sp|Q9SCQ6|IDD2_ARATH Zinc finger protein GAI-ASSOCIATED FACTOR 1 OS=Arabidopsis thaliana OX=3702 GN=GAF1 PE=1 SV=1
+BnaP1g18820D3	sp|F4KBF3|AAE17_ARATH Probable acyl-activating enzyme 17, peroxisomal OS=Arabidopsis thaliana OX=3702 GN=AAE17 PE=2 SV=1
+BnaP1g18890D3	sp|Q9LZX1|LOR15_ARATH Protein LURP-one-related 15 OS=Arabidopsis thaliana OX=3702 GN=At5g01750 PE=1 SV=1
+BnaP1g18950D3	NA
+BnaP1g18960D3	NA
+BnaP1g19310D3	sp|Q93ZV7|LA1_ARATH La protein 1 OS=Arabidopsis thaliana OX=3702 GN=LA1 PE=1 SV=1
+BnaP1g19320D3	sp|Q93ZV7|LA1_ARATH La protein 1 OS=Arabidopsis thaliana OX=3702 GN=LA1 PE=1 SV=1
+BnaP1g19350D3	sp|O24331|DEF4_RAPSA Defensin-like protein 4 OS=Raphanus sativus OX=3726 GN=AFP4 PE=3 SV=1
+BnaP1g19870D3	NA
+BnaP1g20300D3	NA
+BnaP1g20330D3	sp|A8MQN2|LNK1_ARATH Protein LNK1 OS=Arabidopsis thaliana OX=3702 GN=LNK1 PE=1 SV=1
+BnaP1g20540D3	NA
+BnaP1g20550D3	NA
+BnaP1g20570D3	NA
+BnaP1g20840D3	sp|Q9M5P3|CCDA_ARATH Cytochrome c-type biogenesis ccda-like chloroplastic protein OS=Arabidopsis thaliana OX=3702 GN=CCDA PE=1 SV=1
+BnaP1g20860D3	sp|Q8L5Y9|PANK2_ARATH Pantothenate kinase 2 OS=Arabidopsis thaliana OX=3702 GN=PANK2 PE=1 SV=2
+BnaP1g20870D3	sp|F4JTJ2|EREL1_ARATH PX domain-containing protein EREL1 OS=Arabidopsis thaliana OX=3702 GN=EREL1 PE=2 SV=1
+BnaP1g20980D3	sp|Q8GYN9|MENB_ARATH 1,4-dihydroxy-2-naphthoyl-CoA synthase, peroxisomal OS=Arabidopsis thaliana OX=3702 GN=MENB PE=1 SV=2
+BnaP1g21070D3	NA
+BnaP1g21110D3	sp|Q9C9U1|DTX17_ARATH Protein DETOXIFICATION 17 OS=Arabidopsis thaliana OX=3702 GN=DTX17 PE=2 SV=1
+BnaP1g21620D3	NA
+BnaP1g23060D3	NA
+BnaP1g23290D3	NA
+BnaP1g23360D3	sp|O49403|HFA4A_ARATH Heat stress transcription factor A-4a OS=Arabidopsis thaliana OX=3702 GN=HSFA4A PE=2 SV=1
+BnaP1g23720D3	NA
+BnaP1g23730D3	NA
+BnaP1g24030D3	NA
+BnaP1g24200D3	NA
+BnaP1g24880D3	NA
+BnaP1g25070D3	sp|Q8GYL9|BRXL2_ARATH Protein Brevis radix-like 2 OS=Arabidopsis thaliana OX=3702 GN=BRXL2 PE=2 SV=1
+BnaP1g25120D3	sp|Q9SYS3|CRK40_ARATH Cysteine-rich receptor-like protein kinase 40 OS=Arabidopsis thaliana OX=3702 GN=CRK40 PE=2 SV=1
+BnaP1g25420D3	sp|Q9M2U2|TECR_ARATH Very-long-chain enoyl-CoA reductase OS=Arabidopsis thaliana OX=3702 GN=ECR PE=1 SV=1
+BnaP1g25630D3	NA
+BnaP1g25690D3	NA
+BnaP1g25750D3	NA
+BnaP1g25980D3	sp|O81755|PER48_ARATH Putative Peroxidase 48 OS=Arabidopsis thaliana OX=3702 GN=PER48 PE=3 SV=3
+BnaP1g26100D3	NA
+BnaP1g26420D3	NA
+BnaP1g26500D3	sp|Q5XEP2|HSOP2_ARATH Hsp70-Hsp90 organizing protein 2 OS=Arabidopsis thaliana OX=3702 GN=HOP2 PE=1 SV=1
+BnaP1g26560D3	NA
+BnaP1g27050D3	NA
+BnaP1g27460D3	NA
+BnaP1g27560D3	sp|Q9XIE6|ALA3_ARATH Phospholipid-transporting ATPase 3 OS=Arabidopsis thaliana OX=3702 GN=ALA3 PE=1 SV=2
+BnaP1g27630D3	NA
+BnaP1g27700D3	sp|Q93ZR6|WSD1_ARATH O-acyltransferase WSD1 OS=Arabidopsis thaliana OX=3702 GN=WSD1 PE=2 SV=1
+BnaP1g27710D3	NA
+BnaP1g28050D3	sp|B9RAJ0|DNPEP_RICCO Probable aspartyl aminopeptidase OS=Ricinus communis OX=3988 GN=RCOM_1506700 PE=2 SV=2
+BnaP1g28070D3	sp|Q9FMD5|TIC40_ARATH Protein TIC 40, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=TIC40 PE=1 SV=1
+BnaP1g29160D3	sp|Q0WW17|RWA2_ARATH Protein REDUCED WALL ACETYLATION 2 OS=Arabidopsis thaliana OX=3702 GN=RWA2 PE=1 SV=1
+BnaP1g29220D3	sp|P39697|RT19_ARATH 40S ribosomal protein S19, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=RPS19 PE=1 SV=2
+BnaP1g29260D3	NA
+BnaP1g29370D3	NA
+BnaP1g29810D3	sp|Q9M8K2|REM21_ARATH B3 domain-containing protein REM21 OS=Arabidopsis thaliana OX=3702 GN=REM21 PE=3 SV=1
+BnaP1g29890D3	NA
+BnaP1g29980D3	NA
+BnaP1g30020D3	NA
+BnaP1g30110D3	NA
+BnaP1g30120D3	sp|Q8P5Z8|Y3184_XANCP Macro domain-containing protein XCC3184 OS=Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25) OX=190485 GN=XCC3184 PE=4 SV=1
+BnaP1g30190D3	NA
+BnaP1g30270D3	sp|Q3SZ85|PTRD1_BOVIN Putative peptidyl-tRNA hydrolase PTRHD1 OS=Bos taurus OX=9913 GN=PTRHD1 PE=2 SV=2
+BnaP1g30360D3	sp|Q8RX88|FACE1_ARATH CAAX prenyl protease 1 homolog OS=Arabidopsis thaliana OX=3702 GN=FACE1 PE=1 SV=1
+BnaP1g30590D3	sp|Q8RWT0|LUP2_ARATH Amyrin synthase LUP2 OS=Arabidopsis thaliana OX=3702 GN=LUP2 PE=1 SV=1
+BnaP1g30600D3	NA
+BnaP1g30700D3	sp|Q9SF85|ADK1_ARATH Adenosine kinase 1 OS=Arabidopsis thaliana OX=3702 GN=ADK1 PE=1 SV=1
+BnaP1g32020D3	sp|O22229|TRXB3_ARATH NADPH-dependent thioredoxin reductase 3 OS=Arabidopsis thaliana OX=3702 GN=NTRC PE=1 SV=2
+BnaP1g32410D3	sp|Q9FVQ1|NUCL1_ARATH Nucleolin 1 OS=Arabidopsis thaliana OX=3702 GN=NUCL1 PE=1 SV=1
+BnaP1g32980D3	NA
+BnaP1g33200D3	NA
+BnaP1g33300D3	sp|Q9C5A4|ARI16_ARATH Probable E3 ubiquitin-protein ligase ARI16 OS=Arabidopsis thaliana OX=3702 GN=ARI16 PE=2 SV=1
+BnaP1g33430D3	NA
+BnaP1g33520D3	sp|Q9SGG3|ALA5_ARATH Probable phospholipid-transporting ATPase 5 OS=Arabidopsis thaliana OX=3702 GN=ALA5 PE=3 SV=1
+BnaP1g33720D3	sp|Q9LVQ7|IDD1_ARATH Zinc finger protein ENHYDROUS OS=Arabidopsis thaliana OX=3702 GN=ENY PE=1 SV=1
+BnaP1g34050D3	sp|Q96321|IMPA1_ARATH Importin subunit alpha-1 OS=Arabidopsis thaliana OX=3702 GN=IMPA1 PE=1 SV=2
+BnaP1g34170D3	sp|Q86IC9|CAMT1_DICDI Probable caffeoyl-CoA O-methyltransferase 1 OS=Dictyostelium discoideum OX=44689 GN=omt5 PE=3 SV=1
+BnaP1g34470D3	NA
+BnaP1g34520D3	sp|P42744|AXR1_ARATH NEDD8-activating enzyme E1 regulatory subunit AXR1 OS=Arabidopsis thaliana OX=3702 GN=AXR1 PE=1 SV=1
+BnaP1g34600D3	sp|O65583|UKL4_ARATH Uridine kinase-like protein 4 OS=Arabidopsis thaliana OX=3702 GN=UKL4 PE=2 SV=2
+BnaP1g34690D3	sp|Q84WP6|NAC43_ARATH NAC domain-containing protein 43 OS=Arabidopsis thaliana OX=3702 GN=NAC043 PE=2 SV=2
+BnaP1g34920D3	NA
+BnaP1g35110D3	NA
+BnaP1g35420D3	sp|Q9SUG7|ATG11_ARATH Autophagy-related protein 11 OS=Arabidopsis thaliana OX=3702 GN=ATG11 PE=1 SV=1
+BnaP1g35460D3	NA
+BnaP1g35470D3	NA
+BnaP1g35480D3	sp|Q84JR9|TTL4_ARATH TPR repeat-containing thioredoxin TTL4 OS=Arabidopsis thaliana OX=3702 GN=TTL4 PE=2 SV=1
+BnaP1g35570D3	sp|Q9FGI6|NDUS1_ARATH NADH dehydrogenase [ubiquinone] iron-sulfur protein 1, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=EMB1467 PE=1 SV=2
+BnaP1g35690D3	sp|O49623|DPNP2_ARATH SAL2 phosphatase OS=Arabidopsis thaliana OX=3702 GN=SAL2 PE=2 SV=1
+BnaP1g35840D3	NA
+BnaP1g35930D3	NA
+BnaP1g35960D3	NA
+BnaP1g36280D3	sp|Q9FJF8|HTT2_ARATH Protein HEAT-INDUCED TAS1 TARGET 2 OS=Arabidopsis thaliana OX=3702 GN=HTT2 PE=2 SV=1
+BnaP1g36440D3	sp|O22854|ETFQO_ARATH Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=ETFQO PE=2 SV=1
+BnaP1g36660D3	NA
+BnaP1g38970D3	NA
+BnaP1g39390D3	NA
+BnaP1g39930D3	sp|Q9FJT8|HATB_ARATH Histone acetyltransferase type B catalytic subunit OS=Arabidopsis thaliana OX=3702 GN=HAG2 PE=2 SV=1
+BnaP1g40180D3	NA
+BnaP1g40340D3	NA
+BnaP1g40510D3	sp|Q9SYS3|CRK40_ARATH Cysteine-rich receptor-like protein kinase 40 OS=Arabidopsis thaliana OX=3702 GN=CRK40 PE=2 SV=1
+BnaP1g40550D3	NA
+BnaP1g40640D3	NA
+BnaP1g40700D3	sp|Q9SS38|GYRBP_ARATH DNA gyrase subunit B, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=GYRBC PE=2 SV=3
+BnaP1g40710D3	NA
+BnaP1g40850D3	NA
+BnaP1g41350D3	NA
+BnaP1g41570D3	sp|Q9SLG0|NFYB1_ARATH Nuclear transcription factor Y subunit B-1 OS=Arabidopsis thaliana OX=3702 GN=NFYB1 PE=1 SV=2
+BnaP1g41840D3	sp|Q9LSX7|PEX22_ARATH Peroxisome biogenesis protein 22 OS=Arabidopsis thaliana OX=3702 GN=PEX22 PE=1 SV=1
+BnaP1g41990D3	sp|A8MRY9|UGNT1_ARATH UDP-N-acetylglucosamine transporter UGNT1 OS=Arabidopsis thaliana OX=3702 GN=UGNT1 PE=1 SV=1
+BnaP1g42160D3	sp|O81755|PER48_ARATH Putative Peroxidase 48 OS=Arabidopsis thaliana OX=3702 GN=PER48 PE=3 SV=3
+BnaP1g42240D3	sp|Q9M2H9|MCC26_ARATH MATH domain and coiled-coil domain-containing protein At3g58370 OS=Arabidopsis thaliana OX=3702 GN=At3g58370 PE=4 SV=3
+BnaP1g42370D3	NA
+BnaP1g42860D3	NA
+BnaP1g42930D3	sp|D9IL24|LCYE_ONCHC Lycopene epsilon cyclase, chloroplastic OS=Oncidium hybrid cultivar OX=141207 GN=LCY-E PE=2 SV=1
+BnaP1g42970D3	sp|O81851|BOI_ARATH E3 ubiquitin-protein ligase BOI OS=Arabidopsis thaliana OX=3702 GN=BOI PE=1 SV=1
+BnaP1g43080D3	NA
+BnaP1g43110D3	NA
+BnaP1g43650D3	NA
+BnaP1g43720D3	sp|O22898|LACS1_ARATH Long chain acyl-CoA synthetase 1 OS=Arabidopsis thaliana OX=3702 GN=LACS1 PE=2 SV=1
+BnaP1g43960D3	NA
+BnaP1g43990D3	sp|Q9FKN7|DAR4_ARATH Protein DA1-related 4 OS=Arabidopsis thaliana OX=3702 GN=DAR4 PE=1 SV=2
+BnaP1g44100D3	sp|Q9ZUM2|TOM3_ARATH Tobamovirus multiplication protein 3 OS=Arabidopsis thaliana OX=3702 GN=TOM3 PE=1 SV=2
+BnaP1g44110D3	sp|Q948R8|THH1_ARATH Protein TOM THREE HOMOLOG 1 OS=Arabidopsis thaliana OX=3702 GN=THH1 PE=2 SV=1
+BnaP1g44350D3	sp|Q93VI8|TLP7_ARATH Tubby-like F-box protein 7 OS=Arabidopsis thaliana OX=3702 GN=TULP7 PE=2 SV=1
+BnaP1g44510D3	sp|Q42533|BCCP1_ARATH Biotin carboxyl carrier protein of acetyl-CoA carboxylase 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=BCCP1 PE=1 SV=2
+BnaP1g45000D3	NA
+BnaP1g45060D3	NA
+BnaP1g45170D3	NA
+BnaP1g45260D3	sp|Q9SPE5|SNAG_ARATH Gamma-soluble NSF attachment protein OS=Arabidopsis thaliana OX=3702 GN=GSNAP PE=2 SV=1
+BnaP1g45490D3	sp|Q9SLN5|MAP1A_ARATH Methionine aminopeptidase 1A OS=Arabidopsis thaliana OX=3702 GN=MAP1A PE=1 SV=1
+BnaP1g45560D3	sp|Q9C5Z2|EIF3H_ARATH Eukaryotic translation initiation factor 3 subunit H OS=Arabidopsis thaliana OX=3702 GN=TIF3H1 PE=1 SV=2
+BnaP1g45730D3	sp|Q9SIH0|RS141_ARATH 40S ribosomal protein S14-1 OS=Arabidopsis thaliana OX=3702 GN=RPS14A PE=1 SV=1
+BnaP1g45850D3	sp|Q9SYS3|CRK40_ARATH Cysteine-rich receptor-like protein kinase 40 OS=Arabidopsis thaliana OX=3702 GN=CRK40 PE=2 SV=1
+BnaP1g46310D3	sp|Q04264|PDS5_YEAST Sister chromatid cohesion protein PDS5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PDS5 PE=1 SV=1
+BnaP1g46330D3	NA
+BnaP1g46360D3	NA
+BnaP1g46410D3	NA
+BnaP1g46510D3	sp|Q93YU5|SEC8_ARATH Exocyst complex component SEC8 OS=Arabidopsis thaliana OX=3702 GN=SEC8 PE=1 SV=1
+BnaP1g46670D3	NA
+BnaP1g47080D3	NA
+BnaP1g47090D3	sp|F6HDT7|MTND2_VITVI 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase 2 OS=Vitis vinifera OX=29760 GN=VIT_05s0020g04080 PE=3 SV=1
+BnaP1g47490D3	NA
+BnaP1g47580D3	sp|O24331|DEF4_RAPSA Defensin-like protein 4 OS=Raphanus sativus OX=3726 GN=AFP4 PE=3 SV=1
+BnaP1g47770D3	sp|Q94AP0|ALN_ARATH Allantoinase OS=Arabidopsis thaliana OX=3702 GN=ALN PE=1 SV=1
+BnaP1g47780D3	sp|Q94AP0|ALN_ARATH Allantoinase OS=Arabidopsis thaliana OX=3702 GN=ALN PE=1 SV=1
+BnaP1g48890D3	NA
+BnaP1g48900D3	sp|Q8LDN8|UGE3_ARATH Bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 3 OS=Arabidopsis thaliana OX=3702 GN=UGE3 PE=1 SV=1
+BnaP1g48910D3	sp|Q8LDB8|RING2_ARATH E3 ubiquitin-protein ligase At1g63170 OS=Arabidopsis thaliana OX=3702 GN=At1g63170 PE=2 SV=2
+BnaP1g49130D3	sp|Q94AF2|NNRD_ARATH ATP-dependent (S)-NAD(P)H-hydrate dehydratase OS=Arabidopsis thaliana OX=3702 GN=At5g19150 PE=1 SV=1
+BnaP1g49870D3	sp|Q8VZU2|SY132_ARATH Syntaxin-132 OS=Arabidopsis thaliana OX=3702 GN=SYP132 PE=1 SV=1
+BnaP1g50410D3	sp|Q2HB00|SEC23_CHAGB Protein transport protein SEC23 OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX=306901 GN=SEC23 PE=3 SV=1
+BnaP1g50480D3	NA
+BnaP1g50490D3	NA
+BnaP1g50990D3	NA
+BnaP1g51030D3	NA
+BnaP1g51260D3	sp|B9I2J6|AXEP_POPTR L-Ala-D/L-amino acid epimerase OS=Populus trichocarpa OX=3694 GN=POPTR_0012s05040g PE=3 SV=2
+BnaP1g51590D3	sp|Q9SY55|ECA3_ARATH Calcium-transporting ATPase 3, endoplasmic reticulum-type OS=Arabidopsis thaliana OX=3702 GN=ECA3 PE=2 SV=3
+BnaP1g52010D3	sp|Q39238|TSL_ARATH Serine/threonine-protein kinase TOUSLED OS=Arabidopsis thaliana OX=3702 GN=TOUSLED PE=1 SV=1
+BnaP1g52020D3	sp|Q39238|TSL_ARATH Serine/threonine-protein kinase TOUSLED OS=Arabidopsis thaliana OX=3702 GN=TOUSLED PE=1 SV=1
+BnaP1g52150D3	NA
+BnaP1g52200D3	sp|Q9C720|TMN6_ARATH Transmembrane 9 superfamily member 6 OS=Arabidopsis thaliana OX=3702 GN=TMN6 PE=2 SV=1
+BnaP1g52210D3	sp|Q9LIC2|TMN7_ARATH Transmembrane 9 superfamily member 7 OS=Arabidopsis thaliana OX=3702 GN=TMN7 PE=2 SV=1
+BnaP1g52410D3	sp|Q9M7J9|POT8_ARATH Potassium transporter 8 OS=Arabidopsis thaliana OX=3702 GN=POT8 PE=2 SV=2
+BnaP1g52530D3	sp|Q9ZT94|POLR2_ARATH Retrovirus-related Pol polyprotein from transposon RE2 OS=Arabidopsis thaliana OX=3702 GN=RE2 PE=4 SV=1
+BnaP1g52600D3	NA
+BnaP1g52610D3	sp|Q5M729|ODP23_ARATH Dihydrolipoyllysine-residue acetyltransferase component 3 of pyruvate dehydrogenase complex, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At1g54220 PE=1 SV=1
+BnaP1g52760D3	sp|Q60P81|RL18_CAEBR 60S ribosomal protein L18 OS=Caenorhabditis briggsae OX=6238 GN=rpl-18 PE=3 SV=1
+BnaP1g52770D3	sp|O65919|RLF10_ARATH Protein RALF-like 10 OS=Arabidopsis thaliana OX=3702 GN=RALFL10 PE=2 SV=1
+BnaP1g53470D3	sp|Q6R8G7|PHO13_ARATH Phosphate transporter PHO1 homolog 3 OS=Arabidopsis thaliana OX=3702 GN=PHO1;H3 PE=2 SV=2
+BnaP1g53560D3	sp|Q8VWG7|TDX_ARATH TPR repeat-containing thioredoxin TDX OS=Arabidopsis thaliana OX=3702 GN=TDX PE=1 SV=1
+BnaP1g53570D3	sp|Q8VYF5|NILP1_ARATH N-carbamoylputrescine amidase OS=Arabidopsis thaliana OX=3702 GN=CPA PE=1 SV=2
+BnaP1g53640D3	NA
+BnaP1g53660D3	NA
+BnaP1g53700D3	NA
+BnaP1g53820D3	NA
+BnaP1g53850D3	NA
+BnaP1g54400D3	NA
+BnaP1g54680D3	sp|Q9FX01|HSDD1_ARATH 3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 1 OS=Arabidopsis thaliana OX=3702 GN=3BETAHSD/D1 PE=2 SV=1
+BnaP1g54830D3	NA
+BnaP1g54840D3	sp|Q9FIN1|6PGL4_ARATH Probable 6-phosphogluconolactonase 4 OS=Arabidopsis thaliana OX=3702 GN=PGL4 PE=2 SV=1
+BnaP1g55180D3	NA
+BnaP1g55190D3	sp|F4IBE4|DRL10_ARATH Probable disease resistance protein RF45 OS=Arabidopsis thaliana OX=3702 GN=RF45 PE=2 SV=1
+BnaP1g55310D3	NA
+BnaP1g55320D3	NA
+BnaP1g55650D3	sp|P43255|CSN8_ARATH COP9 signalosome complex subunit 8 OS=Arabidopsis thaliana OX=3702 GN=CSN8 PE=1 SV=1
+BnaP1g55670D3	NA
+BnaP1g55720D3	NA
+BnaP1g55860D3	NA
+BnaP1g55990D3	NA
+BnaP1g56250D3	sp|Q8GWE6|EER5_ARATH Enhanced ethylene response protein 5 OS=Arabidopsis thaliana OX=3702 GN=EER5 PE=1 SV=1
+BnaP1g57190D3	NA
+BnaC02g67040D3	NA
+BnaC03g77680D3	NA
+BnaC03g77670D3	NA
+BnaU01g25170D3	NA

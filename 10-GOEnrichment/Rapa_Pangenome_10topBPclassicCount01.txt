@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0048513	animal organ development	283	204	79.28	< 1e-30
+GO:0007399	nervous system development	242	159	67.79	< 1e-30
+GO:0009887	animal organ morphogenesis	111	91	31.09	< 1e-30
+GO:0060429	epithelium development	179	125	50.14	< 1e-30
+GO:1901564	organonitrogen compound metabolic proces...	13026	4123	3649	2.9e-30
+GO:0030182	neuron differentiation	173	119	48.46	8.4e-29
+GO:0048699	generation of neurons	193	128	54.07	1.8e-28
+GO:0022008	neurogenesis	203	132	56.87	4.9e-28
+GO:0006928	movement of cell or subcellular componen...	423	222	118.5	1.6e-26
+GO:0035295	tube development	134	96	37.54	1.2e-25
+GO:0006996	organelle organization	4572	1577	1280.76	8.9e-25
+GO:0003008	system process	96	75	26.89	2.7e-24
+GO:0048729	tissue morphogenesis	97	75	27.17	8.6e-24
+GO:0048666	neuron development	158	105	44.26	1.0e-23
+GO:0019637	organophosphate metabolic process	1768	684	495.27	1.9e-23
+GO:0032990	cell part morphogenesis	118	84	33.06	2.5e-22
+GO:0031175	neuron projection development	141	95	39.5	2.9e-22
+GO:0007049	cell cycle	1882	715	527.21	4.5e-22
+GO:0002009	morphogenesis of an epithelium	93	71	26.05	5.0e-22
+GO:0006796	phosphate-containing compound metabolic ...	5350	1794	1498.71	6.5e-22
+GO:0030030	cell projection organization	202	121	56.59	2.6e-21
+GO:0035239	tube morphogenesis	109	78	30.53	4.6e-21
+GO:0007010	cytoskeleton organization	833	358	233.35	6.7e-21
+GO:0120036	plasma membrane bounded cell projection ...	193	116	54.07	1.2e-20
+GO:0006753	nucleoside phosphate metabolic process	1124	456	314.87	2.6e-20
+GO:0097485	neuron projection guidance	39	38	10.93	2.7e-20
+GO:0090407	organophosphate biosynthetic process	1136	460	318.23	2.7e-20
+GO:0048812	neuron projection morphogenesis	111	78	31.09	2.8e-20
+GO:1901566	organonitrogen compound biosynthetic pro...	4170	1423	1168.15	3.0e-20
+GO:0006793	phosphorus metabolic process	5452	1812	1527.28	3.1e-20

@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	p.value
+GO:0043531	ADP binding	652	369	216.65	< 1e-30
+GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose gen...	338	216	112.31	< 1e-30
+GO:0050135	NAD(P)+ nucleosidase activity	338	216	112.31	< 1e-30
+GO:0005524	ATP binding	9530	3441	3166.71	4.8e-11
+GO:0030275	LRR domain binding	31	23	10.3	3.6e-06
+GO:0004747	ribokinase activity	22	18	7.31	3.9e-06
+GO:0080150	S-adenosyl-L-methionine:benzoic acid car...	38	26	12.63	9.7e-06
+GO:0003735	structural constituent of ribosome	1436	551	477.17	1.9e-05
+GO:0004519	endonuclease activity	1132	434	376.15	2.5e-05
+GO:0008121	ubiquinol-cytochrome-c reductase activit...	26	19	8.64	3.8e-05
+GO:0052624	2-phytyl-1,4-naphthoquinone methyltransf...	40	26	13.29	3.9e-05
+GO:0016747	transferase activity, transferring acyl ...	1376	433	457.23	4.0e-05
+GO:0016992	lipoate synthase activity	9	9	2.99	4.9e-05
+GO:0004326	tetrahydrofolylpolyglutamate synthase ac...	21	16	6.98	6.9e-05
+GO:0033925	mannosyl-glycoprotein endo-beta-N-acetyl...	14	12	4.65	7.9e-05
+GO:0003918	DNA topoisomerase type II (ATP-hydrolyzi...	31	21	10.3	8.9e-05
+GO:0004643	phosphoribosylaminoimidazolecarboxamide ...	16	13	5.32	0.00011
+GO:0003937	IMP cyclohydrolase activity	16	13	5.32	0.00011
+GO:0003676	nucleic acid binding	14518	4818	4824.16	0.00013
+GO:0046510	UDP-sulfoquinovose:DAG sulfoquinovosyltr...	8	8	2.66	0.00015
+GO:0003964	RNA-directed DNA polymerase activity	855	334	284.11	0.00015
+GO:0010333	terpene synthase activity	105	52	34.89	0.00020
+GO:0003844	1,4-alpha-glucan branching enzyme activi...	19	14	6.31	0.00037
+GO:0102752	1,4-alpha-glucan branching enzyme activi...	19	14	6.31	0.00037
+GO:0001671	ATPase activator activity	28	16	9.3	0.00085
+GO:0005272	sodium channel activity	9	8	2.99	0.00094
+GO:0005267	potassium channel activity	82	24	27.25	0.00094
+GO:0009678	hydrogen-translocating pyrophosphatase a...	45	25	14.95	0.00169
+GO:0015165	pyrimidine nucleotide-sugar transmembran...	123	50	40.87	0.00197
+GO:0018025	calmodulin-lysine N-methyltransferase ac...	8	7	2.66	0.00254

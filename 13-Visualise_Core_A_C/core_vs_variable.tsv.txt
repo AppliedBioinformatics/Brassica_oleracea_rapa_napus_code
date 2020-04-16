@@ -1,0 +1,29 @@
+Status	Species	Genome	Count	Perc	Total
+Variable	B. rapa	A-genome	19974	33.33110837	59926
+Variable	"B. napus
+(with syn-
+thetics)"	A-genome	13948	31.39744282	44424
+Variable	"B. napus
+(no syn-
+thetics)"	A-genome	7940	17.87322168	44424
+Core	B. rapa	A-genome	39952	66.66889163	59926
+Core	"B. napus
+(with syn-
+thetics)"	A-genome	30476	68.60255718	44424
+Core	"B. napus
+(no syn-
+thetics)"	A-genome	36484	82.12677832	44424
+Variable	B. oleracea	C-genome	12354	21.18494384	58315
+Variable	"B. napus
+(with syn-
+thetics)"	C-genome	21703	37.55299085	57793
+Variable	"B. napus
+(no syn-
+thetics)"	C-genome	14102	24.400879	57793
+Core	B. oleracea	C-genome	45961	78.81505616	58315
+Core	"B. napus
+(with syn-
+thetics)"	C-genome	36090	62.44700915	57793
+Core	"B. napus
+(no syn-
+thetics)"	C-genome	43691	75.599121	57793
