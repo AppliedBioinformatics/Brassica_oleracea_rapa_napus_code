@@ -7,21 +7,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(eulerr)
+library(grid)
+library(gridtext)
+
+# Set the labels to italics and bold since species names
+eulerr_options(labels = list(font=4))
 ```
 
 The following actually works:
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=104465, "napus&oleracea"=684, "napus&rapa"=2512, "oleracea&rapa"=0, napus=955, rapa=0, oleracea=0))
-napus <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa'))
 
-#, labels=c(expression(italic('B. napus')), 'OLER', 'RAPA'))
-                
-                
-                
-#                expression(italic('B. napus')), 
-#                          expression(italic('B. oleracea')), 
-#                          expression(italic('B. rapa'))))
-napus
+napus <- plot(vd, labels = c("B. napus", 'B. oleracea', 'B. rapa'))
 ggsave('Napus_pangenome.png', plot=napus)
 
 ```
@@ -30,7 +27,7 @@ Now for *B. oleracea*:
 
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=57717, "napus&oleracea"=226, "napus&rapa"=0, "oleracea&rapa"=12, napus=0, rapa=0, oleracea=360))
-oleracea <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa')) #labels=c(expression(italic('B. napus')), expression(italic('B. oleracea')), expression(italic('B. rapa'))))
+oleracea <- plot(vd, labels = c('B. napus', 'B. oleracea', 'B. rapa'))
 oleracea
 ggsave('Oleracea_pangenome.png', plot=oleracea)
 ```
@@ -39,8 +36,7 @@ And for *rapa*:
 
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=57941, "napus&oleracea"=0, "napus&rapa"=1198, "oleracea&rapa"=16, napus=0, rapa=771, oleracea=0))
-rapa <- plot(vd, labels = c('B. napus', 'B.oleracea', 'B. rapa'))
-             #labels=c(expression(italic('B. napus')), expression(italic('B. oleracea')), expression(italic('B. rapa'))))
+rapa <- plot(vd, labels = c('B. napus', 'B. oleracea', 'B. rapa'))
 rapa
 ggsave('Rapa_pangenome.png', plot = rapa)
 

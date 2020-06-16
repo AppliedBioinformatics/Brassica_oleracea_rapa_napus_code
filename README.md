@@ -59,6 +59,10 @@ R-code for the variable genes vs core genes
 
 Code to find mutually incompatible genes
 
+## 15-SHAP_replotting
+
+R-code to replot SHAP plots with defaults and values I like, one line per chromosome, a nicer grid and so on
+
 ## Notebooks 
 These contain the XGBoost and Shapley values work used for modeling gene presence/absence variation.
 

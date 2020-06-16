@@ -1,0 +1,340 @@
+```{r setup}
+library(tidyverse)
+library(cowplot)
+library(patchwork)
+library(ggtext)
+```
+
+OK, let's first load the data.
+
+# Loading
+
+```{r}
+napus_X <- read_tsv('./../9-PAVModeling/Napus_Feature_Table.Filtered.csv')
+# need to delete the outcome columns to make the fit with shap-values work
+napus_X$`Variable in synth` <- NULL
+napus_X$Name <- NULL
+napus_X$Variable <- NULL
+head(napus_X)
+```
+```{r}
+# this file was made in the jupyter model notebook
+napus_shap <- read_csv('./napus_shap_values.csv', col_names = F)
+```
+```{r}
+head(napus_shap)
+# each column is one phenotype, each row is one gene, same dimensions as the model input table
+```
+
+So napus_shap$X1 corresponds with napus_X chrA01, I guess?
+```{r}
+names(napus_shap) <- names(napus_X)
+```
+
+Let's make a test plot
+```{r}
+plot(napus_X$`Position on chromosome`, napus_shap$`Position on chromosome`)
+```
+
+Nice, that's perfect. 
+
+# Napus plot
+
+Now I want to remake my plots - first,  pull out A01 all rows where A01 == 1 in napus_X
+
+```{r}
+napus_x_a01 <- napus_X %>% filter(chrA01 == 1)
+napus_shap_a01 <- napus_shap %>% filter(napus_X$chrA01 == 1)
+head(napus_shap_a01)
+head(napus_x_a01)
+nap_a01_df <- tibble(`Position on chromosome` = napus_x_a01$`Position on chromosome`,
+             `SHAP value` = napus_shap_a01$`Position on chromosome`)
+
+
+nap_a01_m <- lm(`SHAP value` ~ `Position on chromosome`, nap_a01_df)
+
+#eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2, 
+#     list(a = format(unname(coef(m)[1]), digits = 2),
+#          b = format(unname(coef(m)[2]), digits = 2),
+#         r2 = format(summary(m)$r.squared, digits = 3)))
+#as.character(as.expression(eq))
+
+napus_a01_p <-
+  ggplot(data = nap_a01_df, aes(x = `Position on chromosome`, y = `SHAP value`)) +
+  geom_point(alpha = 0.25) +
+  geom_smooth(method = 'lm', formula = y ~ x) +
+  #geom_text(x = 0.2, y=1.4, label = as.character(as.expression(eq)), parse=T) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.7)) +
+  xlab('Position on *B. napus* A01') +
+  theme(axis.title.x = element_markdown())
+
+napus_a01_p
+```
+
+Good, now let's make the C01 plot too
+```{r}
+napus_x_c01 <- napus_X %>% filter(chrC01 == 1)
+napus_shap_c01 <- napus_shap %>% filter(napus_X$chrC01 == 1)
+head(napus_shap_c01)
+head(napus_x_c01)
+nap_c01_df <- tibble(`Position on chromosome` = napus_x_c01$`Position on chromosome`,
+             `SHAP value` = napus_shap_c01$`Position on chromosome`)
+
+
+nap_c01_m <- lm(`SHAP value` ~ `Position on chromosome`, nap_c01_df)
+
+#eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2, 
+#     list(a = format(unname(coef(m)[1]), digits = 2),
+#          b = format(unname(coef(m)[2]), digits = 2),
+#         r2 = format(summary(m)$r.squared, digits = 3)))
+#as.character(as.expression(eq))
+
+napus_c01_p <-
+  ggplot(data = nap_c01_df, aes(x = `Position on chromosome`, y = `SHAP value`)) +
+  geom_point(alpha = 0.25) +
+  geom_smooth(method = 'lm', formula = y ~ x) +
+  #geom_text(x = 0.2, y=0.9, label = as.character(as.expression(eq)), parse=T) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.7)) +
+  xlab('Position on *B. napus* C01') +
+  theme(axis.title.x = element_markdown())
+
+napus_c01_p
+```
+
+# Rapa plot
+
+OK now comes the plot for Rapa A01
+
+```{r}
+rapa_X <- read_tsv('./../9-PAVModeling/Rapa_Feature_Table.Filtered.csv')
+# need to delete the outcome columns to make the fit with shap-values work
+
+rapa_X$Name <- NULL
+rapa_X$Variable <- NULL
+head(rapa_X)
+```
+
+```{r}
+rapa_shap <- read_csv('./rapa_shap_values.csv', col_names = F)
+names(rapa_shap) <- names(rapa_X)
+```
+
+```{r}
+head(rapa_shap)
+```
+
+```{r}
+rapa_x_a01 <- rapa_X %>% filter(A01 == 1)
+
+rapa_shap_a01 <- rapa_shap %>% filter(rapa_X$A01 == 1)
+head(rapa_shap_a01)
+head(rapa_x_a01)
+
+rap_df <- tibble(`Position on chromosome` = rapa_x_a01$`Position on chromosome`,
+             `SHAP value` = rapa_shap_a01$`Position on chromosome`)
+
+
+rap_m <- lm(`SHAP value` ~ `Position on chromosome`, rap_df)
+
+#eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2, 
+#     list(a = format(unname(coef(m)[1]), digits = 2),
+#          b = format(unname(coef(m)[2]), digits = 2),
+#         r2 = format(summary(m)$r.squared, digits = 3)))
+#as.character(as.expression(eq))
+
+rapa_a01_p <-
+  ggplot(data = rap_df, aes(x = `Position on chromosome`, y = `SHAP value`)) +
+  geom_point(alpha = 0.25) +
+  geom_smooth(method = 'lm') +
+  #geom_text(x = 0.2, y=-0.5, label = as.character(as.expression(eq)), parse=T) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.7)) +
+  xlab('Position on *B. rapa* A01') +
+  theme(axis.title.x = element_markdown())
+
+rapa_a01_p
+```
+
+
+
+# Oleracea plot
+
+OK now comes the plot for Oleracea C1
+
+```{r}
+oleracea_X <- read_tsv('./../9-PAVModeling/Oleracea_Feature_Table.Filtered.csv')
+# need to delete the outcome columns to make the fit with shap-values work
+
+oleracea_X$Name <- NULL
+oleracea_X$Variable <- NULL
+head(oleracea_X)
+```
+
+```{r}
+oleracea_shap <- read_csv('./oleracea_shap_values.csv', col_names = F)
+names(oleracea_shap) <- names(oleracea_X)
+```
+
+```{r}
+head(oleracea_shap)
+```
+
+```{r}
+oleracea_x_c01 <- oleracea_X %>% filter(C1 == 1)
+
+oleracea_shap_c01 <- oleracea_shap %>% filter(oleracea_X$C1 == 1)
+head(oleracea_shap_c01)
+head(oleracea_x_c01)
+
+oler_df <-
+  tibble(
+  `Position on chromosome` = oleracea_x_c01$`Position on chromosome`,
+  `SHAP value` = oleracea_shap_c01$`Position on chromosome`
+  )
+  
+oler_m <- lm(`SHAP value` ~ `Position on chromosome`, oler_df)
+  
+#eq <- substitute(italic(y) == a + b %.% italic(x)*","~~italic(r)^2~"="~r2, 
+#     list(a = format(unname(coef(m)[1]), digits = 2),
+#          b = format(unname(coef(m)[2]), digits = 2),
+#         r2 = format(summary(m)$r.squared, digits = 3)))
+#as.character(as.expression(eq))
+
+oleracea_c01_p <-
+  ggplot(data = oler_df, aes(x = `Position on chromosome`, y = `SHAP value`)) +
+  geom_point(alpha = 0.25) +
+  geom_smooth(method = 'lm') +
+  #geom_text(x = 0.35, y=0.3, label = as.character(as.expression(eq)), parse=T) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.7)) +
+  xlab('Position on *B. oleracea* C01') +
+  theme(axis.title.x = element_markdown())
+oleracea_c01_p
+```
+
+
+# Now make a grid
+```{r}
+grid <-
+  plot_grid(
+  rapa_a01_p,
+  oleracea_c01_p,
+  napus_a01_p,
+  napus_c01_p,
+  align = 'vh',
+  labels = c('A', 'B', 'C', 'D')
+  )
+
+grid
+
+```
+
+```{r}
+ggsave('Napus_oleracea_rapa_grid.png', plot=grid, scale = 2)
+```
+# Merging all chromosomes into lines
+
+Now let's try to merge those
+```{r}
+
+chrom_shap <- napus_shap$`Position on chromosome`
+chrom_x <- napus_X %>% select(starts_with('chr'), `Position on chromosome`)
+chrom_x <- chrom_x %>% pivot_longer(-`Position on chromosome`) %>% filter(value == 1)
+chrom_x$value <- NULL
+chrom_x$shap <- chrom_shap
+head(chrom_x)
+```
+```{r}
+paste(max(chrom_x$shap), min(chrom_x$shap))
+```
+
+```{r}
+napus_lines <-
+  ggplot(data = chrom_x, aes(x = `Position on chromosome`, y = shap, color = name)) +
+  geom_line(alpha = 0.25) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.6)) +
+  guides(color = FALSE)
+  napus_lines
+```
+
+```{r}
+chrom_rapa_shap <- rapa_shap$`Position on chromosome`
+chrom_rapa_x <- rapa_X %>% select(starts_with('A'), `Position on chromosome`)
+chrom_rapa_x <- chrom_rapa_x %>% pivot_longer(-`Position on chromosome`) %>% filter(value == 1)
+chrom_rapa_x$value <- NULL
+chrom_rapa_x$shap <- chrom_rapa_shap
+head(chrom_rapa_x)
+```
+```{r}
+paste(max(chrom_rapa_x$shap), min(chrom_rapa_x$shap))
+```
+```{r}
+rapa_lines <-
+  ggplot(data = chrom_rapa_x, aes(x = `Position on chromosome`, y = shap, color = name)) +
+  geom_line(alpha = 0.25) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.6)) +
+  guides(color = FALSE)
+```
+
+```{r}
+chrom_oleracea_shap <- oleracea_shap$`Position on chromosome`
+chrom_oleracea_x <- oleracea_X %>% select(starts_with('C'), `Position on chromosome`)
+chrom_oleracea_x <- chrom_oleracea_x %>% pivot_longer(-`Position on chromosome`) %>% filter(value == 1)
+chrom_oleracea_x$value <- NULL
+chrom_oleracea_x$shap <- chrom_oleracea_shap
+head(chrom_oleracea_x)
+```
+
+```{r}
+oler_lines <- ggplot(data = chrom_oleracea_x, aes(x=`Position on chromosome`, y=shap, color = name)) + 
+  geom_line(alpha=0.25) +
+  theme_minimal_hgrid() +
+  ylim(c(-0.65, 1.6)) +
+  guides(color=FALSE)
+```
+
+
+```{r}
+grid <- plot_grid(rapa_lines, oler_lines, labels = c('A', 'B'))
+
+grid <-
+plot_grid(
+grid,
+napus_lines,
+labels = c('C', NULL),
+label_y = 0,
+nrow = 2
+)
+grid
+```
+```{r}
+grid2 <-
+  plot_grid(
+  rapa_lines + xlab(NULL) + ylab('SHAP value'),
+  oler_lines + ylab(NULL) + xlab(NULL),
+  napus_lines + ylab(NULL) + xlab(NULL),
+  nrow = 1,
+  labels = c('A', 'B', 'C')
+  )
+grid2 <-
+  ggdraw(
+  add_sub(
+  grid2,
+  "Position on chromosome",
+  vpadding = grid::unit(0, "lines"),
+  y = 4.7,
+  x = 0.5,
+  vjust = 4.5
+  )
+  )
+  
+grid2
+save_plot(grid2, filename = 'Shap_differences_Fig5.png', base_height = 6)
+```
+
+
+
