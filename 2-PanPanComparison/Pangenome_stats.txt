@@ -12,11 +12,11 @@ In napus and rapa: 57717
 In rapa: 12
 In napus: 226
 Neither: 360
-Total genes: 59926
+Total genes: 59864
 Rapa:
-Core, variable: 39952, 19974
-Core, variable no fpscs: 40129, 19797
+Core, variable: 39952, 19912
+Core, variable no fpscs: 40129, 19735
 In napus and oleracea: 57941
-In oleracea: 16
+In oleracea: 14
 In napus: 1198
-Neither: 771
+Neither: 711
