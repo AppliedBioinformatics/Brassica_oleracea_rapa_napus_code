@@ -3,9 +3,13 @@ Code for the Brassica oleracea/rapa/napus genomic comparison.
 
 Most of these folders are RStudio projects that can be opened in RStudio.
 
-## 1-Assembly_Annotation
+## 0-Assembly_Annotation
 
 This folder collects small scripts and documentation as to how I ran the assembly and annotation steps for the pangenome.
+
+## 1-FilterPAVTables
+
+This contains the PAV tables and some code to filter them to be species-specific and to remove 0 individual genes. 
 
 ## 2-PanPanComparison
 
