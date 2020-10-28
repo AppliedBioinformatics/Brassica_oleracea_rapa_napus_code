@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603787773800.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "98174716",
+    "id" : "B7BDE325",
+    "lastKnownWriteTime" : 1603788190,
+    "last_content_update" : 1603788190816,
+    "path" : "~/Brassica_PanPangenome/Brassica_PanPangenome/Final_Run/16-ChisquareTestVariableGenesNetworks/chisq.Rmd",
+    "project_path" : "chisq.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "18,22",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
