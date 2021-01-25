@@ -1,0 +1,159 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+ 
+```{r setup}
+library(tidyverse)
+library(rentrez)
+library(assertthat)
+# from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1950721/
+genome_sizes <- list('rapa'=529, 'napus'=1132, 'oleracea'=696)
+```
+
+```{r}
+df <- read_csv('./All_individuals_used.txt', col_names=c('Ind'))
+```
+```{r}
+df <- separate(df, Ind, sep='_', into=c('Genus','Species','Sample'))
+```
+
+Let me first try it with one sample before I do it with all
+
+```{r}
+results <- entrez_search(db="sra", term='SAMN05443057')
+```
+```{r}
+results$ids
+```
+```{r}
+a <- entrez_summary(db='sra', id="3060970", retmode = 'xml')
+```
+
+```{r}
+# for some reason, R's XML packages cannot deal with the expxml output. Extra content at end of XML error with everything.
+temp <- strsplit(trimws(a$'3060970'$ExpXml), '</')
+title <- temp[[1]][1]
+summary <- strsplit(temp[[1]][4], '/')[[1]]
+summary <- gsub('>','', gsub('<','',gsub('Summary>', '', summary)))
+summary <- paste(summary, collapse=', ')
+```
+
+```{r}
+runs <- XML::xmlToList(a$'3060970'$Runs)
+runs <- as.data.frame(as.list(runs), stringsAsFactors=F)
+runs
+```
+
+
+```{r}
+runs$total_bases <- as.numeric(runs$total_bases)
+```
+
+```{r}
+runs <- runs %>% mutate(coverage= (total_bases / 1000000) / 529 )
+```
+
+OK now do it with all
+
+```{r}
+total_table <- tibble(Species = character(),
+                      BioProject = character(), 
+                      Runs = character(),
+                      All_bases = numeric(),
+                      All_coverage = numeric(),
+                      Summary = character())
+```
+
+```{r}
+for (i in 1:nrow(df)) {
+  print(i)
+  this_df <- df[i,]
+  species <- this_df$Species
+  results <- entrez_search(db="sra", term=this_df$Sample)
+  this_genome <- genome_sizes[[species]]
+
+  #a <- entrez_summary(db='sra', id=results$ids, retmode = 'xml' )
+  a <- XML::xmlToList(entrez_fetch(db='sra', id=results$ids, rettype = 'xml' ))
+  accessions <- c()
+  all_bases <- 0
+  all_coverage <- 0
+  # a is now a list of all Runs registered for this individual
+  for (run in a) {
+    scientific_name <- run$SAMPLE$SAMPLE_NAME$SCIENTIFIC_NAME
+    sample_info <- paste(unlist(run$SAMPLE$SAMPLE_ATTRIBUTES, use.names=F),collapse = ',')
+ 
+    total_bases <- as.numeric(run$RUN_SET$RUN$.attrs['total_bases'])
+    
+    this_cov <- (total_bases / 1000000) / this_genome
+
+    all_coverage <- all_coverage + this_cov
+    all_bases <- all_bases + total_bases
+    
+    accessions <- c(accessions, unname( run$RUN_SET$RUN$.attrs['accession']))
+
+  }
+  this_table <- tibble(Species = paste('Brassica', this_df$Species),
+                       BioProject = this_df$Sample,
+                       Runs = paste(accessions, collapse = ','),
+                       All_bases = all_bases,
+                       All_coverage = all_coverage,
+                       Summary = sample_info)
+  total_table <- rbind(total_table, this_table)
+}
+```
+
+```{r}
+openxlsx::write.xlsx(total_table, 'Coverage_table.xlsx')
+```
+
+OK now run the RNA part!
+```{r}
+rnadf <- read_csv('./RNA_All_used.txt', col_names=c('Ind'))
+```
+```{r}
+rnatotal_table <- tibble(Species = character(),
+                      BioProject = character(), 
+                      Runs = character(),
+                      All_bases = numeric(),
+                      All_coverage = numeric(),
+                      Summary = character())
+```
+
+```{r}
+for (i in 1:nrow(rnadf)) {
+  print(i)
+  this_df <- rnadf[i,]
+  results <- entrez_search(db="sra", term=this_df$Ind)
+
+  #a <- entrez_summary(db='sra', id=results$ids, retmode = 'xml' )
+  a <- XML::xmlToList(entrez_fetch(db='sra', id=results$ids, rettype = 'xml' ))
+  accessions <- c()
+  all_bases <- 0
+  all_coverage <- 0
+  # a is now a list of all Runs registered for this individual
+  for (run in a) {
+    scientific_name <- run$SAMPLE$SAMPLE_NAME$SCIENTIFIC_NAME
+    sample_info <- paste(unlist(run$SAMPLE$SAMPLE_ATTRIBUTES, use.names=F),collapse = ',')
+ 
+    total_bases <- as.numeric(run$RUN_SET$RUN$.attrs['total_bases'])
+    
+    all_bases <- all_bases + total_bases
+    
+    accessions <- c(accessions, unname( run$RUN_SET$RUN$.attrs['accession']))
+
+  }
+  this_table <- tibble(Species = scientific_name,
+                       BioProject = this_df$Ind,
+                       Runs = paste(accessions, collapse = ','),
+                       All_bases = all_bases,
+                       Summary = sample_info)
+  rnatotal_table <- rbind(rnatotal_table, this_table)
+}
+```
+
+```{r}
+openxlsx::write.xlsx(rnatotal_table, 'RNACoverage_table.xlsx')
+```
+

@@ -67,6 +67,14 @@ Code to find mutually incompatible genes
 
 R-code to replot SHAP plots with defaults and values I like, one line per chromosome, a nicer grid and so on
 
+## 16-ChisquareTestVariableGenesNetworks
+
+A nicer recode of older code that runs chisquare for a bunch of comparison tables around variable/core genes in protein-protein interaction networks.
+
+## 17-makeBetterSupplTables
+
+R-code that pulls out coverage and other stats from SRA for the individuals I used.
+
 ## Notebooks 
 These contain the XGBoost and Shapley values work used for modeling gene presence/absence variation.
 
