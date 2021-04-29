@@ -257,7 +257,7 @@ napus_lines <-
   theme_minimal_hgrid() +
   ylim(c(-0.65, 1.6)) +
   guides(color = FALSE)
-  napus_lines
+napus_lines
 ```
 
 ```{r}
@@ -278,6 +278,7 @@ rapa_lines <-
   theme_minimal_hgrid() +
   ylim(c(-0.65, 1.6)) +
   guides(color = FALSE)
+rapa_lines
 ```
 
 ```{r}
@@ -295,6 +296,7 @@ oler_lines <- ggplot(data = chrom_oleracea_x, aes(x=`Position on chromosome`, y=
   theme_minimal_hgrid() +
   ylim(c(-0.65, 1.6)) +
   guides(color=FALSE)
+oler_lines
 ```
 
 
@@ -311,11 +313,12 @@ nrow = 2
 )
 grid
 ```
+
 ```{r}
 grid2 <-
   plot_grid(
-  rapa_lines + xlab(NULL) + ylab('SHAP value'),
-  oler_lines + ylab(NULL) + xlab(NULL),
+  oler_lines + ylab('SHAP value') + xlab(NULL),
+  rapa_lines + xlab(NULL) + ylab(NULL),
   napus_lines + ylab(NULL) + xlab(NULL),
   nrow = 1,
   labels = c('A', 'B', 'C')

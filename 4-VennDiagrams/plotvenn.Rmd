@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(eulerr)
-library(grid)
+#library(grid)
 library(gridtext)
 library(cowplot)
 
@@ -21,17 +21,21 @@ The following actually works:
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=104465, "napus&oleracea"=684, "napus&rapa"=2512, "oleracea&rapa"=0, napus=955, rapa=0, oleracea=0))
 
-napus <- plot(vd, labels = c("B. napus", ' B. oleracea', 'B. rapa'))
+napus <- plot(vd, labels = c("B. napus", ' B. oleracea', 'B. rapa'),
+              quantities = list(type = c("counts", "percent")))
 ggsave('Napus_pangenome.png', plot=napus)
-
+napus
 ```
 
 Now for *B. oleracea*:
 
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=57717, "napus&oleracea"=226, "napus&rapa"=0, "oleracea&rapa"=12, napus=0, rapa=0, oleracea=360))
-oleracea <- plot(vd, labels = c('B. napus', '  B. oleracea', 'B. rapa'))
+
+oleracea <- plot(vd, labels = c('B. napus', '  B. oleracea', 'B. rapa'),
+              quantities = list(type = c("counts", "percent")))
 oleracea
+
 ggsave('Oleracea_pangenome.png', plot=oleracea)
 ```
 
@@ -39,7 +43,8 @@ And for *rapa*:
 
 ```{r}
 vd <- venn(c("napus&oleracea&rapa"=57941, "napus&oleracea"=0, "napus&rapa"=1198, "oleracea&rapa"=16, napus=0, rapa=711, oleracea=0))
-rapa <- plot(vd, labels = c('B. napus', '  B. oleracea', 'B. rapa'))
+rapa <- plot(vd, labels = c('B. napus', '  B. oleracea', 'B. rapa'),
+              quantities = list(type = c("counts", "percent")))
 rapa
 ggsave('Rapa_pangenome.png', plot = rapa)
 
@@ -49,6 +54,7 @@ And in a grid:
 ```{r}
 grid <- plot_grid(oleracea, rapa, labels = c('A', 'B'))
 grid <- plot_grid(grid, napus, labels = c('C', NULL), label_x = 0.25, label_y = -0.2, vjust = -0.5, nrow=2)
-ggsave('Napus_oleracea_rapa_grid.png', plot=grid, scale = 4)
-#cowplot::save_plot('Napus_oleracea_rapa_grid.png', plot = grid, base_height = 8)
+grid
+#ggsave('Napus_oleracea_rapa_grid.png', plot=grid, scale = 4)
+cowplot::save_plot('Napus_oleracea_rapa_grid.png', plot = grid, base_height = 8)
 ```
